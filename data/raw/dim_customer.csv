@@ -1,0 +1,4028 @@
+customer_id,province,city,age_band,credit_tier,acquisition_channel
+NC200001,BC,Surrey,18-24,Subprime,Direct
+NC200002,ON,Kitchener,55-64,Subprime,Direct
+NC200003,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC200004,ON,Windsor,35-44,Near-Prime,Paid Social
+NC200005,NS,Halifax,35-44,Prime,Direct
+NC200006,SK,Saskatoon,35-44,Prime,Paid Social
+NC200007,ON,Ottawa,25-34,Prime,Paid Search
+NC200008,NL,St. John's,45-54,Prime,Organic Search
+NC200009,AB,Calgary,35-44,Prime,Referral
+NC200010,QC,Montreal,35-44,Prime,Paid Search
+NC200011,ON,Toronto,55-64,Near-Prime,Organic Search
+NC200012,AB,Red Deer,45-54,Near-Prime,Email/CRM
+NC200013,ON,Ottawa,35-44,Prime,Paid Social
+NC200014,ON,Kitchener,65+,Near-Prime,Referral
+NC200015,QC,Quebec City,25-34,Prime,Direct
+NC200016,BC,Vancouver,18-24,Near-Prime,Referral
+NC200017,BC,Kelowna,25-34,Prime,Referral
+NC200018,ON,Windsor,25-34,Prime,Organic Search
+NC200019,QC,Montreal,25-34,Prime,Referral
+NC200020,AB,Calgary,25-34,Prime,Referral
+NC200021,NS,Halifax,65+,Prime,Email/CRM
+NC200022,NS,Halifax,45-54,Prime,Direct
+NC200023,ON,London,45-54,Prime,Organic Search
+NC200024,AB,Red Deer,55-64,Near-Prime,Direct
+NC200025,ON,Toronto,25-34,Near-Prime,Paid Search
+NC200026,AB,Red Deer,18-24,Near-Prime,Paid Search
+NC200027,ON,Hamilton,18-24,Prime,Referral
+NC200028,ON,Windsor,55-64,Near-Prime,Paid Search
+NC200029,ON,Kitchener,35-44,Prime,Organic Search
+NC200030,ON,Hamilton,45-54,Near-Prime,Paid Social
+NC200031,BC,Victoria,45-54,Prime,Email/CRM
+NC200032,MB,Winnipeg,25-34,Near-Prime,Email/CRM
+NC200033,ON,Ottawa,65+,Subprime,Direct
+NC200034,ON,London,65+,Near-Prime,Organic Search
+NC200035,MB,Winnipeg,45-54,Near-Prime,Paid Social
+NC200036,MB,Winnipeg,45-54,Prime,Marketplace Syndication
+NC200037,ON,Mississauga,25-34,Subprime,Organic Search
+NC200038,ON,London,45-54,Near-Prime,Direct
+NC200039,ON,London,25-34,Prime,Organic Search
+NC200040,ON,Toronto,25-34,Near-Prime,Organic Search
+NC200041,BC,Kelowna,35-44,Prime,Organic Search
+NC200042,QC,Quebec City,35-44,Prime,Paid Search
+NC200043,NS,Halifax,45-54,Subprime,Email/CRM
+NC200044,ON,Kitchener,35-44,Prime,Direct
+NC200045,AB,Edmonton,55-64,Subprime,Email/CRM
+NC200046,ON,Hamilton,18-24,Subprime,Referral
+NC200047,ON,Ottawa,35-44,Prime,Paid Search
+NC200048,AB,Red Deer,65+,Near-Prime,Paid Search
+NC200049,ON,Mississauga,45-54,Prime,Direct
+NC200050,ON,Ottawa,25-34,Prime,Organic Search
+NC200051,ON,London,25-34,Prime,Marketplace Syndication
+NC200052,ON,Mississauga,25-34,Prime,Referral
+NC200053,ON,Kitchener,45-54,Prime,Direct
+NC200054,QC,Montreal,35-44,Subprime,Marketplace Syndication
+NC200055,ON,Windsor,45-54,Prime,Organic Search
+NC200056,ON,Mississauga,45-54,Near-Prime,Email/CRM
+NC200057,BC,Victoria,25-34,Prime,Referral
+NC200058,ON,Kitchener,45-54,Near-Prime,Email/CRM
+NC200059,ON,Hamilton,25-34,Near-Prime,Direct
+NC200060,ON,Ottawa,25-34,Near-Prime,Paid Search
+NC200061,BC,Kelowna,35-44,Prime,Organic Search
+NC200062,AB,Edmonton,45-54,Prime,Organic Search
+NC200063,QC,Laval,35-44,Near-Prime,Referral
+NC200064,ON,Kitchener,45-54,Prime,Direct
+NC200065,ON,Mississauga,25-34,Prime,Paid Search
+NC200066,ON,Ottawa,45-54,Subprime,Referral
+NC200067,MB,Winnipeg,25-34,Prime,Direct
+NC200068,AB,Calgary,55-64,Prime,Paid Search
+NC200069,QC,Laval,25-34,Near-Prime,Organic Search
+NC200070,ON,Kitchener,25-34,Prime,Marketplace Syndication
+NC200071,BC,Kelowna,55-64,Near-Prime,Paid Social
+NC200072,NS,Halifax,25-34,Prime,Paid Search
+NC200073,MB,Winnipeg,25-34,Prime,Paid Search
+NC200074,BC,Surrey,45-54,Near-Prime,Email/CRM
+NC200075,NL,St. John's,25-34,Prime,Referral
+NC200076,ON,London,25-34,Prime,Organic Search
+NC200077,NS,Halifax,35-44,Prime,Direct
+NC200078,ON,Mississauga,35-44,Prime,Paid Social
+NC200079,ON,Kitchener,35-44,Prime,Organic Search
+NC200080,ON,Kitchener,25-34,Prime,Paid Search
+NC200081,ON,Mississauga,55-64,Prime,Referral
+NC200082,ON,Toronto,25-34,Subprime,Direct
+NC200083,ON,Mississauga,45-54,Prime,Direct
+NC200084,ON,London,35-44,Prime,Email/CRM
+NC200085,ON,Ottawa,25-34,Near-Prime,Organic Search
+NC200086,ON,Kitchener,55-64,Prime,Referral
+NC200087,AB,Red Deer,25-34,Near-Prime,Referral
+NC200088,MB,Winnipeg,25-34,Subprime,Marketplace Syndication
+NC200089,ON,Hamilton,35-44,Prime,Direct
+NC200090,ON,Mississauga,45-54,Prime,Email/CRM
+NC200091,ON,Toronto,45-54,Near-Prime,Organic Search
+NC200092,AB,Calgary,45-54,Subprime,Organic Search
+NC200093,ON,London,45-54,Prime,Direct
+NC200094,SK,Saskatoon,35-44,Subprime,Paid Search
+NC200095,AB,Red Deer,35-44,Prime,Direct
+NC200096,AB,Edmonton,45-54,Prime,Organic Search
+NC200097,ON,Mississauga,45-54,Prime,Referral
+NC200098,NS,Halifax,35-44,Near-Prime,Organic Search
+NC200099,BC,Victoria,45-54,Near-Prime,Organic Search
+NC200100,BC,Victoria,35-44,Prime,Email/CRM
+NC200101,NS,Halifax,25-34,Prime,Email/CRM
+NC200102,ON,Hamilton,55-64,Near-Prime,Direct
+NC200103,AB,Red Deer,25-34,Subprime,Direct
+NC200104,ON,Hamilton,45-54,Near-Prime,Organic Search
+NC200105,BC,Kelowna,25-34,Prime,Email/CRM
+NC200106,ON,Hamilton,35-44,Near-Prime,Paid Search
+NC200107,BC,Kelowna,35-44,Prime,Direct
+NC200108,ON,Hamilton,35-44,Prime,Referral
+NC200109,NB,Saint John,55-64,Near-Prime,Paid Search
+NC200110,ON,Mississauga,65+,Prime,Email/CRM
+NC200111,ON,Toronto,35-44,Prime,Organic Search
+NC200112,ON,Hamilton,55-64,Prime,Email/CRM
+NC200113,NB,Saint John,25-34,Prime,Referral
+NC200114,AB,Edmonton,35-44,Prime,Organic Search
+NC200115,ON,Ottawa,35-44,Prime,Referral
+NC200116,ON,Hamilton,25-34,Near-Prime,Email/CRM
+NC200117,BC,Kelowna,25-34,Near-Prime,Direct
+NC200118,ON,London,25-34,Prime,Referral
+NC200119,ON,Mississauga,55-64,Prime,Direct
+NC200120,ON,London,35-44,Near-Prime,Referral
+NC200121,AB,Calgary,35-44,Prime,Paid Social
+NC200122,BC,Vancouver,25-34,Near-Prime,Organic Search
+NC200123,BC,Surrey,25-34,Prime,Organic Search
+NC200124,ON,Mississauga,65+,Prime,Organic Search
+NC200125,MB,Winnipeg,45-54,Prime,Email/CRM
+NC200126,ON,Toronto,25-34,Prime,Direct
+NC200127,ON,Mississauga,65+,Prime,Referral
+NC200128,ON,Windsor,45-54,Subprime,Paid Search
+NC200129,ON,Toronto,55-64,Prime,Paid Search
+NC200130,ON,Kitchener,45-54,Prime,Email/CRM
+NC200131,BC,Surrey,55-64,Prime,Organic Search
+NC200132,ON,London,45-54,Near-Prime,Organic Search
+NC200133,ON,London,25-34,Near-Prime,Paid Search
+NC200134,ON,Hamilton,18-24,Subprime,Referral
+NC200135,ON,London,45-54,Prime,Direct
+NC200136,ON,Windsor,55-64,Near-Prime,Organic Search
+NC200137,ON,Kitchener,25-34,Subprime,Paid Search
+NC200138,ON,Kitchener,35-44,Prime,Referral
+NC200139,NB,Moncton,18-24,Subprime,Paid Search
+NC200140,NS,Halifax,35-44,Prime,Organic Search
+NC200141,ON,London,25-34,Prime,Direct
+NC200142,BC,Surrey,45-54,Prime,Email/CRM
+NC200143,ON,Kitchener,35-44,Subprime,Paid Search
+NC200144,ON,Windsor,55-64,Prime,Email/CRM
+NC200145,ON,Hamilton,55-64,Prime,Email/CRM
+NC200146,ON,Hamilton,35-44,Prime,Paid Search
+NC200147,ON,Ottawa,25-34,Subprime,Direct
+NC200148,ON,Ottawa,45-54,Prime,Organic Search
+NC200149,MB,Winnipeg,55-64,Prime,Organic Search
+NC200150,ON,London,45-54,Prime,Email/CRM
+NC200151,QC,Quebec City,18-24,Subprime,Paid Search
+NC200152,NS,Halifax,25-34,Prime,Email/CRM
+NC200153,ON,Mississauga,25-34,Subprime,Paid Social
+NC200154,ON,Toronto,25-34,Prime,Paid Search
+NC200155,ON,Ottawa,35-44,Prime,Organic Search
+NC200156,ON,London,55-64,Prime,Organic Search
+NC200157,ON,Hamilton,65+,Near-Prime,Organic Search
+NC200158,NS,Halifax,45-54,Near-Prime,Email/CRM
+NC200159,SK,Regina,45-54,Prime,Marketplace Syndication
+NC200160,ON,Ottawa,25-34,Prime,Direct
+NC200161,MB,Winnipeg,25-34,Near-Prime,Direct
+NC200162,NS,Halifax,35-44,Prime,Paid Social
+NC200163,AB,Calgary,55-64,Subprime,Organic Search
+NC200164,ON,Kitchener,35-44,Near-Prime,Paid Search
+NC200165,ON,Windsor,35-44,Prime,Organic Search
+NC200166,BC,Surrey,65+,Prime,Direct
+NC200167,ON,London,45-54,Prime,Direct
+NC200168,ON,London,45-54,Prime,Organic Search
+NC200169,ON,Toronto,35-44,Near-Prime,Organic Search
+NC200170,ON,Windsor,35-44,Near-Prime,Paid Search
+NC200171,MB,Winnipeg,35-44,Prime,Marketplace Syndication
+NC200172,PE,Charlottetown,45-54,Prime,Direct
+NC200173,ON,Windsor,55-64,Near-Prime,Organic Search
+NC200174,ON,Toronto,45-54,Prime,Direct
+NC200175,ON,Hamilton,25-34,Prime,Referral
+NC200176,ON,Ottawa,25-34,Prime,Email/CRM
+NC200177,MB,Winnipeg,55-64,Prime,Paid Search
+NC200178,SK,Regina,25-34,Near-Prime,Email/CRM
+NC200179,ON,Mississauga,45-54,Near-Prime,Paid Social
+NC200180,ON,Hamilton,35-44,Prime,Paid Search
+NC200181,ON,Mississauga,25-34,Subprime,Organic Search
+NC200182,ON,London,18-24,Near-Prime,Organic Search
+NC200183,ON,Windsor,35-44,Prime,Paid Search
+NC200184,ON,London,18-24,Subprime,Email/CRM
+NC200185,ON,Kitchener,45-54,Subprime,Organic Search
+NC200186,MB,Winnipeg,18-24,Near-Prime,Paid Search
+NC200187,ON,Hamilton,45-54,Near-Prime,Direct
+NC200188,ON,Kitchener,45-54,Subprime,Organic Search
+NC200189,ON,Windsor,35-44,Subprime,Organic Search
+NC200190,QC,Laval,18-24,Prime,Direct
+NC200191,QC,Laval,35-44,Subprime,Direct
+NC200192,ON,Mississauga,35-44,Prime,Direct
+NC200193,ON,Kitchener,65+,Near-Prime,Paid Search
+NC200194,ON,Hamilton,25-34,Subprime,Direct
+NC200195,ON,Windsor,65+,Subprime,Referral
+NC200196,ON,London,35-44,Prime,Organic Search
+NC200197,NS,Halifax,65+,Subprime,Organic Search
+NC200198,ON,Kitchener,35-44,Prime,Organic Search
+NC200199,MB,Winnipeg,18-24,Prime,Referral
+NC200200,NB,Saint John,35-44,Prime,Referral
+NC200201,ON,Kitchener,25-34,Near-Prime,Referral
+NC200202,NS,Halifax,35-44,Prime,Paid Search
+NC200203,BC,Victoria,25-34,Prime,Organic Search
+NC200204,QC,Laval,35-44,Near-Prime,Paid Social
+NC200205,ON,Kitchener,45-54,Prime,Paid Social
+NC200206,ON,Windsor,55-64,Near-Prime,Email/CRM
+NC200207,AB,Red Deer,65+,Near-Prime,Organic Search
+NC200208,BC,Vancouver,55-64,Prime,Paid Search
+NC200209,NS,Halifax,25-34,Prime,Direct
+NC200210,ON,Toronto,45-54,Near-Prime,Email/CRM
+NC200211,ON,Mississauga,45-54,Prime,Organic Search
+NC200212,AB,Edmonton,45-54,Prime,Referral
+NC200213,AB,Edmonton,25-34,Near-Prime,Direct
+NC200214,ON,Kitchener,35-44,Prime,Paid Search
+NC200215,QC,Laval,25-34,Prime,Referral
+NC200216,ON,London,35-44,Subprime,Referral
+NC200217,ON,Kitchener,25-34,Prime,Direct
+NC200218,ON,Mississauga,45-54,Near-Prime,Referral
+NC200219,ON,Windsor,25-34,Subprime,Direct
+NC200220,ON,Toronto,65+,Near-Prime,Organic Search
+NC200221,QC,Montreal,55-64,Prime,Paid Social
+NC200222,BC,Victoria,35-44,Prime,Referral
+NC200223,NS,Halifax,35-44,Near-Prime,Paid Search
+NC200224,AB,Edmonton,18-24,Prime,Organic Search
+NC200225,AB,Red Deer,35-44,Prime,Organic Search
+NC200226,ON,London,55-64,Prime,Organic Search
+NC200227,ON,Windsor,35-44,Subprime,Referral
+NC200228,ON,Mississauga,65+,Near-Prime,Paid Search
+NC200229,ON,Hamilton,45-54,Prime,Email/CRM
+NC200230,ON,Toronto,35-44,Near-Prime,Paid Search
+NC200231,AB,Calgary,65+,Near-Prime,Paid Search
+NC200232,ON,Mississauga,25-34,Prime,Organic Search
+NC200233,AB,Edmonton,65+,Near-Prime,Direct
+NC200234,AB,Edmonton,45-54,Prime,Organic Search
+NC200235,ON,Kitchener,25-34,Near-Prime,Paid Social
+NC200236,ON,Mississauga,45-54,Near-Prime,Referral
+NC200237,ON,London,18-24,Near-Prime,Email/CRM
+NC200238,ON,Toronto,25-34,Prime,Organic Search
+NC200239,NB,Saint John,25-34,Prime,Direct
+NC200240,BC,Victoria,35-44,Prime,Organic Search
+NC200241,ON,Mississauga,25-34,Prime,Organic Search
+NC200242,ON,Hamilton,55-64,Prime,Paid Search
+NC200243,QC,Montreal,35-44,Near-Prime,Referral
+NC200244,PE,Charlottetown,25-34,Subprime,Direct
+NC200245,SK,Saskatoon,25-34,Prime,Direct
+NC200246,ON,Mississauga,45-54,Prime,Paid Social
+NC200247,ON,Kitchener,35-44,Near-Prime,Organic Search
+NC200248,BC,Vancouver,45-54,Near-Prime,Direct
+NC200249,MB,Winnipeg,35-44,Near-Prime,Paid Search
+NC200250,BC,Surrey,55-64,Prime,Organic Search
+NC200251,NS,Halifax,35-44,Prime,Direct
+NC200252,ON,Ottawa,35-44,Prime,Referral
+NC200253,AB,Calgary,25-34,Prime,Referral
+NC200254,AB,Edmonton,45-54,Prime,Organic Search
+NC200255,ON,Hamilton,55-64,Prime,Direct
+NC200256,ON,Kitchener,25-34,Subprime,Direct
+NC200257,SK,Saskatoon,18-24,Prime,Organic Search
+NC200258,ON,Hamilton,55-64,Prime,Referral
+NC200259,ON,Mississauga,25-34,Near-Prime,Paid Search
+NC200260,BC,Surrey,25-34,Prime,Organic Search
+NC200261,NS,Halifax,18-24,Near-Prime,Email/CRM
+NC200262,BC,Surrey,65+,Near-Prime,Email/CRM
+NC200263,SK,Saskatoon,35-44,Prime,Email/CRM
+NC200264,ON,London,25-34,Subprime,Email/CRM
+NC200265,AB,Red Deer,25-34,Near-Prime,Referral
+NC200266,NS,Halifax,25-34,Prime,Organic Search
+NC200267,AB,Red Deer,25-34,Prime,Email/CRM
+NC200268,AB,Red Deer,25-34,Prime,Direct
+NC200269,SK,Saskatoon,55-64,Subprime,Organic Search
+NC200270,AB,Calgary,35-44,Prime,Paid Search
+NC200271,NS,Halifax,25-34,Prime,Email/CRM
+NC200272,QC,Laval,35-44,Near-Prime,Organic Search
+NC200273,ON,Windsor,35-44,Near-Prime,Direct
+NC200274,ON,Mississauga,18-24,Prime,Organic Search
+NC200275,ON,Mississauga,45-54,Subprime,Paid Search
+NC200276,AB,Red Deer,25-34,Prime,Marketplace Syndication
+NC200277,ON,Ottawa,45-54,Near-Prime,Paid Search
+NC200278,ON,Windsor,25-34,Prime,Marketplace Syndication
+NC200279,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC200280,ON,Mississauga,25-34,Prime,Organic Search
+NC200281,ON,Ottawa,45-54,Near-Prime,Direct
+NC200282,ON,Ottawa,55-64,Prime,Organic Search
+NC200283,MB,Winnipeg,35-44,Near-Prime,Direct
+NC200284,ON,Kitchener,25-34,Subprime,Email/CRM
+NC200285,SK,Saskatoon,35-44,Prime,Email/CRM
+NC200286,BC,Victoria,35-44,Prime,Paid Search
+NC200287,ON,Mississauga,65+,Near-Prime,Organic Search
+NC200288,ON,Hamilton,35-44,Subprime,Organic Search
+NC200289,ON,Mississauga,55-64,Prime,Paid Search
+NC200290,MB,Winnipeg,35-44,Subprime,Organic Search
+NC200291,ON,London,65+,Subprime,Referral
+NC200292,ON,London,35-44,Prime,Email/CRM
+NC200293,ON,Hamilton,35-44,Prime,Email/CRM
+NC200294,MB,Winnipeg,25-34,Near-Prime,Paid Search
+NC200295,ON,Mississauga,35-44,Near-Prime,Direct
+NC200296,ON,Mississauga,35-44,Prime,Referral
+NC200297,QC,Laval,35-44,Prime,Organic Search
+NC200298,AB,Edmonton,55-64,Prime,Paid Social
+NC200299,BC,Surrey,35-44,Near-Prime,Organic Search
+NC200300,ON,Kitchener,25-34,Prime,Paid Search
+NC200301,BC,Kelowna,55-64,Subprime,Paid Search
+NC200302,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC200303,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC200304,ON,Ottawa,45-54,Prime,Paid Search
+NC200305,BC,Surrey,65+,Prime,Direct
+NC200306,NS,Halifax,25-34,Prime,Organic Search
+NC200307,AB,Red Deer,35-44,Prime,Referral
+NC200308,ON,Mississauga,35-44,Near-Prime,Email/CRM
+NC200309,AB,Calgary,45-54,Near-Prime,Paid Social
+NC200310,BC,Vancouver,35-44,Subprime,Direct
+NC200311,BC,Surrey,35-44,Prime,Direct
+NC200312,SK,Saskatoon,25-34,Near-Prime,Referral
+NC200313,AB,Red Deer,18-24,Subprime,Referral
+NC200314,ON,Toronto,25-34,Subprime,Organic Search
+NC200315,ON,Mississauga,35-44,Prime,Referral
+NC200316,ON,Hamilton,45-54,Prime,Organic Search
+NC200317,ON,London,25-34,Prime,Email/CRM
+NC200318,QC,Laval,45-54,Prime,Referral
+NC200319,AB,Edmonton,18-24,Near-Prime,Organic Search
+NC200320,QC,Quebec City,35-44,Near-Prime,Direct
+NC200321,AB,Red Deer,25-34,Prime,Referral
+NC200322,BC,Victoria,25-34,Near-Prime,Referral
+NC200323,NS,Halifax,25-34,Prime,Direct
+NC200324,ON,Kitchener,45-54,Near-Prime,Email/CRM
+NC200325,MB,Winnipeg,25-34,Prime,Paid Search
+NC200326,NB,Saint John,35-44,Near-Prime,Email/CRM
+NC200327,ON,Mississauga,25-34,Prime,Direct
+NC200328,ON,Mississauga,45-54,Subprime,Organic Search
+NC200329,AB,Calgary,55-64,Prime,Email/CRM
+NC200330,NB,Moncton,35-44,Near-Prime,Organic Search
+NC200331,ON,Hamilton,25-34,Subprime,Direct
+NC200332,ON,Windsor,25-34,Prime,Direct
+NC200333,ON,Ottawa,45-54,Near-Prime,Email/CRM
+NC200334,BC,Kelowna,65+,Near-Prime,Email/CRM
+NC200335,ON,Kitchener,25-34,Near-Prime,Email/CRM
+NC200336,AB,Red Deer,35-44,Prime,Direct
+NC200337,ON,Hamilton,55-64,Prime,Referral
+NC200338,BC,Vancouver,65+,Subprime,Referral
+NC200339,QC,Montreal,45-54,Prime,Referral
+NC200340,AB,Red Deer,55-64,Prime,Paid Search
+NC200341,AB,Red Deer,35-44,Prime,Organic Search
+NC200342,BC,Surrey,35-44,Near-Prime,Organic Search
+NC200343,ON,London,45-54,Prime,Organic Search
+NC200344,ON,Mississauga,45-54,Subprime,Paid Social
+NC200345,NB,Saint John,35-44,Near-Prime,Organic Search
+NC200346,ON,Toronto,35-44,Subprime,Referral
+NC200347,NS,Halifax,35-44,Prime,Direct
+NC200348,QC,Montreal,25-34,Prime,Direct
+NC200349,NB,Moncton,45-54,Near-Prime,Referral
+NC200350,ON,Hamilton,65+,Near-Prime,Referral
+NC200351,ON,Mississauga,45-54,Near-Prime,Referral
+NC200352,ON,London,35-44,Near-Prime,Referral
+NC200353,NB,Moncton,35-44,Prime,Direct
+NC200354,ON,Toronto,35-44,Subprime,Email/CRM
+NC200355,ON,Windsor,45-54,Prime,Marketplace Syndication
+NC200356,AB,Red Deer,55-64,Prime,Organic Search
+NC200357,AB,Calgary,35-44,Prime,Organic Search
+NC200358,ON,Mississauga,45-54,Prime,Direct
+NC200359,QC,Montreal,35-44,Near-Prime,Paid Social
+NC200360,ON,Kitchener,25-34,Prime,Referral
+NC200361,ON,Windsor,25-34,Near-Prime,Paid Search
+NC200362,AB,Red Deer,18-24,Prime,Organic Search
+NC200363,ON,Windsor,35-44,Near-Prime,Paid Social
+NC200364,ON,Mississauga,45-54,Subprime,Organic Search
+NC200365,BC,Kelowna,25-34,Subprime,Referral
+NC200366,NL,St. John's,35-44,Near-Prime,Paid Social
+NC200367,AB,Edmonton,35-44,Prime,Direct
+NC200368,ON,Mississauga,18-24,Near-Prime,Direct
+NC200369,NS,Halifax,25-34,Near-Prime,Referral
+NC200370,MB,Winnipeg,55-64,Prime,Paid Search
+NC200371,ON,Mississauga,18-24,Near-Prime,Direct
+NC200372,AB,Edmonton,65+,Prime,Organic Search
+NC200373,ON,Windsor,35-44,Near-Prime,Direct
+NC200374,ON,Toronto,65+,Near-Prime,Direct
+NC200375,BC,Kelowna,18-24,Subprime,Direct
+NC200376,ON,London,45-54,Prime,Email/CRM
+NC200377,ON,Hamilton,45-54,Prime,Referral
+NC200378,ON,Hamilton,45-54,Prime,Email/CRM
+NC200379,ON,Windsor,25-34,Subprime,Direct
+NC200380,BC,Victoria,35-44,Prime,Organic Search
+NC200381,BC,Surrey,25-34,Prime,Paid Search
+NC200382,ON,Ottawa,35-44,Subprime,Direct
+NC200383,ON,Kitchener,45-54,Subprime,Organic Search
+NC200384,ON,Windsor,25-34,Prime,Referral
+NC200385,AB,Edmonton,45-54,Prime,Referral
+NC200386,SK,Saskatoon,65+,Near-Prime,Organic Search
+NC200387,BC,Victoria,45-54,Prime,Referral
+NC200388,ON,Windsor,45-54,Subprime,Email/CRM
+NC200389,NS,Halifax,35-44,Subprime,Referral
+NC200390,ON,Kitchener,35-44,Prime,Referral
+NC200391,ON,Windsor,25-34,Prime,Email/CRM
+NC200392,ON,Hamilton,25-34,Prime,Organic Search
+NC200393,AB,Calgary,65+,Near-Prime,Paid Social
+NC200394,SK,Regina,55-64,Subprime,Direct
+NC200395,ON,Hamilton,25-34,Prime,Organic Search
+NC200396,ON,Mississauga,35-44,Prime,Paid Search
+NC200397,AB,Edmonton,25-34,Near-Prime,Paid Search
+NC200398,BC,Vancouver,45-54,Near-Prime,Organic Search
+NC200399,BC,Surrey,35-44,Prime,Direct
+NC200400,QC,Montreal,65+,Prime,Email/CRM
+NC200401,MB,Winnipeg,35-44,Prime,Referral
+NC200402,AB,Edmonton,35-44,Prime,Referral
+NC200403,MB,Winnipeg,25-34,Near-Prime,Direct
+NC200404,NS,Halifax,45-54,Subprime,Direct
+NC200405,ON,Mississauga,35-44,Prime,Organic Search
+NC200406,AB,Edmonton,45-54,Prime,Paid Search
+NC200407,QC,Quebec City,55-64,Near-Prime,Organic Search
+NC200408,SK,Regina,35-44,Prime,Organic Search
+NC200409,ON,Toronto,18-24,Near-Prime,Organic Search
+NC200410,AB,Calgary,55-64,Near-Prime,Email/CRM
+NC200411,ON,Ottawa,25-34,Near-Prime,Referral
+NC200412,ON,Windsor,25-34,Prime,Email/CRM
+NC200413,ON,Ottawa,18-24,Near-Prime,Organic Search
+NC200414,MB,Winnipeg,35-44,Near-Prime,Paid Search
+NC200415,MB,Winnipeg,45-54,Near-Prime,Referral
+NC200416,AB,Edmonton,65+,Prime,Referral
+NC200417,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC200418,ON,Hamilton,55-64,Prime,Email/CRM
+NC200419,ON,London,18-24,Subprime,Marketplace Syndication
+NC200420,ON,London,25-34,Prime,Paid Search
+NC200421,ON,Mississauga,35-44,Near-Prime,Direct
+NC200422,ON,Ottawa,35-44,Prime,Direct
+NC200423,ON,Kitchener,25-34,Prime,Email/CRM
+NC200424,PE,Charlottetown,35-44,Prime,Organic Search
+NC200425,BC,Surrey,55-64,Prime,Organic Search
+NC200426,ON,Hamilton,35-44,Near-Prime,Direct
+NC200427,ON,Kitchener,65+,Prime,Organic Search
+NC200428,AB,Calgary,18-24,Subprime,Email/CRM
+NC200429,ON,Hamilton,25-34,Near-Prime,Referral
+NC200430,ON,Hamilton,25-34,Near-Prime,Email/CRM
+NC200431,AB,Red Deer,55-64,Prime,Referral
+NC200432,ON,Windsor,55-64,Prime,Paid Social
+NC200433,ON,Mississauga,35-44,Near-Prime,Paid Search
+NC200434,BC,Victoria,45-54,Prime,Paid Social
+NC200435,BC,Surrey,45-54,Prime,Direct
+NC200436,NS,Halifax,25-34,Prime,Organic Search
+NC200437,NB,Moncton,35-44,Prime,Direct
+NC200438,AB,Edmonton,45-54,Prime,Organic Search
+NC200439,ON,London,25-34,Near-Prime,Paid Search
+NC200440,BC,Kelowna,35-44,Prime,Paid Search
+NC200441,ON,Hamilton,35-44,Prime,Organic Search
+NC200442,ON,Hamilton,35-44,Prime,Referral
+NC200443,ON,Toronto,45-54,Near-Prime,Paid Search
+NC200444,NS,Halifax,25-34,Prime,Referral
+NC200445,NS,Halifax,35-44,Subprime,Direct
+NC200446,QC,Laval,35-44,Subprime,Paid Search
+NC200447,QC,Laval,35-44,Near-Prime,Email/CRM
+NC200448,ON,Windsor,55-64,Prime,Email/CRM
+NC200449,ON,London,35-44,Prime,Paid Search
+NC200450,SK,Saskatoon,65+,Near-Prime,Organic Search
+NC200451,MB,Winnipeg,18-24,Subprime,Direct
+NC200452,ON,Ottawa,55-64,Prime,Referral
+NC200453,ON,Kitchener,55-64,Prime,Direct
+NC200454,ON,Toronto,35-44,Subprime,Marketplace Syndication
+NC200455,ON,London,35-44,Prime,Paid Search
+NC200456,BC,Surrey,25-34,Prime,Direct
+NC200457,ON,Windsor,25-34,Near-Prime,Direct
+NC200458,ON,Toronto,45-54,Subprime,Direct
+NC200459,ON,Kitchener,55-64,Prime,Direct
+NC200460,ON,Hamilton,25-34,Near-Prime,Paid Search
+NC200461,ON,London,35-44,Prime,Referral
+NC200462,ON,Mississauga,35-44,Prime,Organic Search
+NC200463,BC,Victoria,18-24,Near-Prime,Email/CRM
+NC200464,ON,London,25-34,Prime,Direct
+NC200465,ON,Kitchener,45-54,Subprime,Direct
+NC200466,AB,Calgary,25-34,Prime,Paid Search
+NC200467,ON,Kitchener,55-64,Prime,Direct
+NC200468,ON,Mississauga,25-34,Prime,Paid Search
+NC200469,SK,Regina,65+,Prime,Paid Search
+NC200470,ON,Toronto,18-24,Near-Prime,Direct
+NC200471,QC,Montreal,65+,Prime,Referral
+NC200472,QC,Montreal,35-44,Prime,Organic Search
+NC200473,AB,Edmonton,45-54,Subprime,Referral
+NC200474,ON,Toronto,55-64,Prime,Organic Search
+NC200475,BC,Kelowna,35-44,Subprime,Organic Search
+NC200476,BC,Surrey,45-54,Near-Prime,Direct
+NC200477,QC,Laval,65+,Prime,Organic Search
+NC200478,SK,Saskatoon,45-54,Prime,Organic Search
+NC200479,NS,Halifax,35-44,Prime,Paid Search
+NC200480,ON,Toronto,55-64,Prime,Marketplace Syndication
+NC200481,NB,Moncton,18-24,Subprime,Paid Search
+NC200482,ON,Kitchener,18-24,Near-Prime,Direct
+NC200483,ON,Hamilton,55-64,Prime,Paid Search
+NC200484,AB,Red Deer,25-34,Near-Prime,Email/CRM
+NC200485,ON,Hamilton,25-34,Prime,Organic Search
+NC200486,ON,London,45-54,Prime,Paid Search
+NC200487,ON,Mississauga,18-24,Near-Prime,Marketplace Syndication
+NC200488,ON,Windsor,55-64,Subprime,Organic Search
+NC200489,ON,Hamilton,45-54,Near-Prime,Email/CRM
+NC200490,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC200491,SK,Saskatoon,25-34,Prime,Direct
+NC200492,QC,Laval,35-44,Prime,Paid Search
+NC200493,AB,Calgary,45-54,Subprime,Paid Search
+NC200494,BC,Vancouver,35-44,Near-Prime,Direct
+NC200495,ON,Mississauga,45-54,Prime,Organic Search
+NC200496,BC,Victoria,25-34,Prime,Email/CRM
+NC200497,ON,Windsor,35-44,Prime,Email/CRM
+NC200498,ON,Ottawa,25-34,Subprime,Email/CRM
+NC200499,ON,Mississauga,25-34,Near-Prime,Organic Search
+NC200500,AB,Edmonton,55-64,Subprime,Organic Search
+NC200501,BC,Surrey,18-24,Near-Prime,Direct
+NC200502,BC,Kelowna,35-44,Prime,Paid Search
+NC200503,NL,St. John's,45-54,Prime,Paid Search
+NC200504,ON,Windsor,25-34,Near-Prime,Organic Search
+NC200505,NL,St. John's,35-44,Near-Prime,Paid Social
+NC200506,ON,Ottawa,65+,Subprime,Email/CRM
+NC200507,ON,Mississauga,35-44,Subprime,Email/CRM
+NC200508,ON,Kitchener,18-24,Near-Prime,Organic Search
+NC200509,ON,Ottawa,25-34,Prime,Referral
+NC200510,ON,Mississauga,25-34,Prime,Organic Search
+NC200511,ON,London,35-44,Subprime,Email/CRM
+NC200512,NB,Saint John,25-34,Subprime,Referral
+NC200513,SK,Regina,35-44,Prime,Paid Search
+NC200514,AB,Red Deer,25-34,Prime,Paid Search
+NC200515,MB,Winnipeg,25-34,Prime,Paid Search
+NC200516,ON,Ottawa,25-34,Near-Prime,Direct
+NC200517,ON,Toronto,25-34,Prime,Email/CRM
+NC200518,ON,Kitchener,25-34,Prime,Referral
+NC200519,ON,Ottawa,35-44,Prime,Direct
+NC200520,MB,Winnipeg,25-34,Subprime,Paid Social
+NC200521,ON,Mississauga,35-44,Prime,Referral
+NC200522,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC200523,ON,Hamilton,45-54,Near-Prime,Marketplace Syndication
+NC200524,BC,Surrey,35-44,Subprime,Paid Search
+NC200525,ON,Kitchener,35-44,Near-Prime,Referral
+NC200526,ON,Kitchener,35-44,Prime,Direct
+NC200527,NB,Moncton,35-44,Prime,Referral
+NC200528,ON,Kitchener,65+,Subprime,Organic Search
+NC200529,NS,Halifax,45-54,Prime,Organic Search
+NC200530,BC,Vancouver,25-34,Near-Prime,Organic Search
+NC200531,ON,London,45-54,Prime,Marketplace Syndication
+NC200532,ON,Mississauga,65+,Near-Prime,Email/CRM
+NC200533,BC,Surrey,45-54,Prime,Direct
+NC200534,ON,Hamilton,25-34,Prime,Referral
+NC200535,BC,Surrey,18-24,Subprime,Paid Social
+NC200536,QC,Quebec City,25-34,Subprime,Paid Search
+NC200537,ON,Toronto,45-54,Prime,Paid Search
+NC200538,ON,Ottawa,55-64,Near-Prime,Paid Search
+NC200539,ON,Toronto,45-54,Near-Prime,Organic Search
+NC200540,ON,Kitchener,65+,Prime,Referral
+NC200541,NS,Halifax,25-34,Prime,Paid Search
+NC200542,ON,London,55-64,Near-Prime,Paid Search
+NC200543,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC200544,ON,Toronto,35-44,Prime,Paid Search
+NC200545,ON,Ottawa,65+,Subprime,Organic Search
+NC200546,NS,Halifax,35-44,Subprime,Organic Search
+NC200547,NS,Halifax,45-54,Prime,Marketplace Syndication
+NC200548,NS,Halifax,25-34,Prime,Paid Search
+NC200549,ON,Toronto,35-44,Prime,Email/CRM
+NC200550,BC,Victoria,25-34,Prime,Direct
+NC200551,ON,Mississauga,45-54,Near-Prime,Email/CRM
+NC200552,AB,Edmonton,55-64,Near-Prime,Organic Search
+NC200553,ON,Windsor,25-34,Prime,Marketplace Syndication
+NC200554,ON,Ottawa,35-44,Prime,Direct
+NC200555,MB,Winnipeg,35-44,Prime,Paid Search
+NC200556,AB,Red Deer,45-54,Prime,Direct
+NC200557,AB,Red Deer,55-64,Subprime,Direct
+NC200558,ON,Toronto,65+,Near-Prime,Organic Search
+NC200559,ON,Hamilton,25-34,Prime,Paid Search
+NC200560,MB,Winnipeg,35-44,Subprime,Organic Search
+NC200561,NS,Halifax,25-34,Subprime,Direct
+NC200562,ON,Hamilton,35-44,Prime,Referral
+NC200563,QC,Quebec City,35-44,Near-Prime,Paid Social
+NC200564,AB,Calgary,25-34,Near-Prime,Paid Search
+NC200565,ON,Hamilton,25-34,Near-Prime,Referral
+NC200566,ON,Kitchener,25-34,Prime,Referral
+NC200567,ON,Windsor,45-54,Prime,Referral
+NC200568,SK,Regina,65+,Near-Prime,Organic Search
+NC200569,MB,Winnipeg,55-64,Prime,Paid Search
+NC200570,MB,Winnipeg,55-64,Subprime,Paid Social
+NC200571,BC,Surrey,65+,Subprime,Paid Search
+NC200572,ON,Toronto,25-34,Near-Prime,Email/CRM
+NC200573,ON,Kitchener,55-64,Prime,Direct
+NC200574,ON,Toronto,65+,Prime,Organic Search
+NC200575,ON,Mississauga,45-54,Subprime,Direct
+NC200576,ON,Ottawa,35-44,Near-Prime,Paid Search
+NC200577,NB,Moncton,25-34,Prime,Email/CRM
+NC200578,ON,Hamilton,18-24,Prime,Direct
+NC200579,ON,Kitchener,35-44,Prime,Organic Search
+NC200580,ON,Windsor,65+,Near-Prime,Referral
+NC200581,ON,Windsor,25-34,Near-Prime,Email/CRM
+NC200582,AB,Edmonton,35-44,Prime,Paid Search
+NC200583,NB,Saint John,45-54,Subprime,Referral
+NC200584,ON,Ottawa,55-64,Prime,Referral
+NC200585,SK,Regina,25-34,Prime,Email/CRM
+NC200586,ON,Toronto,25-34,Prime,Organic Search
+NC200587,AB,Calgary,35-44,Near-Prime,Paid Search
+NC200588,ON,Windsor,35-44,Subprime,Paid Search
+NC200589,ON,London,18-24,Near-Prime,Referral
+NC200590,BC,Victoria,18-24,Prime,Organic Search
+NC200591,BC,Kelowna,35-44,Near-Prime,Organic Search
+NC200592,NS,Halifax,35-44,Prime,Organic Search
+NC200593,BC,Kelowna,25-34,Prime,Organic Search
+NC200594,AB,Calgary,25-34,Prime,Organic Search
+NC200595,ON,Ottawa,45-54,Subprime,Direct
+NC200596,ON,Hamilton,55-64,Prime,Referral
+NC200597,PE,Charlottetown,18-24,Subprime,Organic Search
+NC200598,ON,Kitchener,25-34,Prime,Paid Search
+NC200599,BC,Surrey,25-34,Near-Prime,Referral
+NC200600,MB,Winnipeg,25-34,Prime,Email/CRM
+NC200601,ON,Kitchener,25-34,Prime,Organic Search
+NC200602,QC,Montreal,35-44,Near-Prime,Direct
+NC200603,ON,Windsor,45-54,Near-Prime,Referral
+NC200604,SK,Regina,25-34,Prime,Paid Search
+NC200605,ON,Ottawa,25-34,Subprime,Direct
+NC200606,ON,Windsor,25-34,Near-Prime,Direct
+NC200607,QC,Laval,45-54,Subprime,Organic Search
+NC200608,BC,Surrey,55-64,Prime,Direct
+NC200609,ON,Toronto,35-44,Prime,Organic Search
+NC200610,AB,Calgary,25-34,Prime,Organic Search
+NC200611,BC,Kelowna,35-44,Subprime,Organic Search
+NC200612,ON,Windsor,35-44,Near-Prime,Email/CRM
+NC200613,ON,Hamilton,35-44,Prime,Organic Search
+NC200614,BC,Victoria,25-34,Near-Prime,Marketplace Syndication
+NC200615,ON,Toronto,25-34,Prime,Referral
+NC200616,BC,Victoria,65+,Prime,Direct
+NC200617,NS,Halifax,25-34,Subprime,Organic Search
+NC200618,ON,Toronto,25-34,Prime,Paid Search
+NC200619,AB,Calgary,65+,Prime,Paid Search
+NC200620,ON,Hamilton,25-34,Subprime,Organic Search
+NC200621,ON,Windsor,25-34,Near-Prime,Paid Search
+NC200622,ON,Ottawa,65+,Subprime,Paid Search
+NC200623,ON,London,65+,Prime,Organic Search
+NC200624,ON,Windsor,25-34,Subprime,Marketplace Syndication
+NC200625,ON,London,25-34,Subprime,Organic Search
+NC200626,ON,Windsor,55-64,Prime,Paid Social
+NC200627,QC,Montreal,25-34,Near-Prime,Direct
+NC200628,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC200629,ON,Hamilton,35-44,Near-Prime,Referral
+NC200630,AB,Calgary,55-64,Subprime,Organic Search
+NC200631,ON,Kitchener,55-64,Prime,Referral
+NC200632,ON,London,25-34,Prime,Direct
+NC200633,QC,Montreal,35-44,Prime,Organic Search
+NC200634,ON,Toronto,65+,Prime,Referral
+NC200635,ON,London,25-34,Prime,Email/CRM
+NC200636,BC,Kelowna,18-24,Subprime,Organic Search
+NC200637,ON,Windsor,25-34,Subprime,Organic Search
+NC200638,BC,Surrey,45-54,Prime,Direct
+NC200639,AB,Red Deer,35-44,Prime,Direct
+NC200640,QC,Laval,45-54,Prime,Paid Search
+NC200641,AB,Edmonton,35-44,Subprime,Email/CRM
+NC200642,ON,Toronto,55-64,Prime,Direct
+NC200643,NS,Halifax,25-34,Prime,Referral
+NC200644,ON,Kitchener,35-44,Prime,Paid Search
+NC200645,ON,Toronto,18-24,Near-Prime,Direct
+NC200646,MB,Winnipeg,55-64,Prime,Direct
+NC200647,ON,Hamilton,35-44,Near-Prime,Referral
+NC200648,ON,Mississauga,65+,Near-Prime,Direct
+NC200649,AB,Edmonton,25-34,Near-Prime,Direct
+NC200650,ON,London,35-44,Prime,Organic Search
+NC200651,QC,Quebec City,45-54,Prime,Referral
+NC200652,BC,Victoria,55-64,Subprime,Organic Search
+NC200653,AB,Calgary,65+,Subprime,Referral
+NC200654,NS,Halifax,25-34,Near-Prime,Paid Social
+NC200655,AB,Calgary,55-64,Prime,Direct
+NC200656,BC,Victoria,45-54,Prime,Direct
+NC200657,ON,Kitchener,45-54,Prime,Organic Search
+NC200658,ON,Kitchener,25-34,Prime,Direct
+NC200659,ON,Ottawa,35-44,Prime,Organic Search
+NC200660,AB,Edmonton,55-64,Near-Prime,Paid Social
+NC200661,ON,Windsor,25-34,Prime,Organic Search
+NC200662,AB,Edmonton,35-44,Prime,Direct
+NC200663,ON,Kitchener,25-34,Subprime,Organic Search
+NC200664,ON,Ottawa,25-34,Subprime,Direct
+NC200665,AB,Calgary,35-44,Subprime,Organic Search
+NC200666,NB,Moncton,55-64,Near-Prime,Direct
+NC200667,ON,London,55-64,Near-Prime,Paid Social
+NC200668,ON,Ottawa,25-34,Prime,Organic Search
+NC200669,BC,Victoria,25-34,Near-Prime,Paid Social
+NC200670,ON,Windsor,25-34,Near-Prime,Referral
+NC200671,ON,Toronto,55-64,Near-Prime,Email/CRM
+NC200672,SK,Saskatoon,45-54,Subprime,Email/CRM
+NC200673,BC,Victoria,45-54,Prime,Direct
+NC200674,ON,London,35-44,Subprime,Organic Search
+NC200675,ON,London,25-34,Subprime,Referral
+NC200676,ON,Kitchener,45-54,Prime,Paid Search
+NC200677,AB,Red Deer,18-24,Prime,Paid Search
+NC200678,SK,Saskatoon,65+,Subprime,Organic Search
+NC200679,ON,Windsor,45-54,Near-Prime,Direct
+NC200680,MB,Winnipeg,25-34,Prime,Organic Search
+NC200681,ON,Ottawa,25-34,Prime,Referral
+NC200682,BC,Kelowna,25-34,Prime,Referral
+NC200683,QC,Quebec City,45-54,Near-Prime,Organic Search
+NC200684,ON,Mississauga,35-44,Prime,Organic Search
+NC200685,NS,Halifax,65+,Near-Prime,Direct
+NC200686,SK,Saskatoon,45-54,Prime,Organic Search
+NC200687,ON,London,65+,Prime,Organic Search
+NC200688,AB,Edmonton,65+,Subprime,Direct
+NC200689,AB,Red Deer,25-34,Prime,Paid Search
+NC200690,ON,Kitchener,45-54,Near-Prime,Paid Search
+NC200691,ON,Mississauga,45-54,Prime,Email/CRM
+NC200692,ON,Mississauga,55-64,Near-Prime,Direct
+NC200693,ON,Mississauga,45-54,Prime,Paid Social
+NC200694,BC,Surrey,45-54,Subprime,Paid Search
+NC200695,ON,Hamilton,35-44,Near-Prime,Referral
+NC200696,ON,Windsor,35-44,Near-Prime,Organic Search
+NC200697,SK,Regina,35-44,Prime,Direct
+NC200698,BC,Kelowna,35-44,Prime,Paid Social
+NC200699,QC,Montreal,35-44,Subprime,Paid Social
+NC200700,MB,Winnipeg,25-34,Near-Prime,Email/CRM
+NC200701,AB,Edmonton,25-34,Prime,Email/CRM
+NC200702,ON,Windsor,25-34,Near-Prime,Organic Search
+NC200703,ON,Ottawa,45-54,Prime,Email/CRM
+NC200704,AB,Calgary,25-34,Subprime,Email/CRM
+NC200705,ON,Ottawa,45-54,Prime,Organic Search
+NC200706,QC,Montreal,25-34,Near-Prime,Referral
+NC200707,ON,Windsor,45-54,Near-Prime,Paid Social
+NC200708,ON,Toronto,45-54,Near-Prime,Referral
+NC200709,ON,Kitchener,55-64,Prime,Organic Search
+NC200710,ON,London,35-44,Prime,Organic Search
+NC200711,NS,Halifax,55-64,Prime,Paid Search
+NC200712,ON,Kitchener,55-64,Prime,Organic Search
+NC200713,AB,Calgary,35-44,Prime,Organic Search
+NC200714,QC,Montreal,35-44,Prime,Email/CRM
+NC200715,BC,Vancouver,25-34,Near-Prime,Organic Search
+NC200716,ON,London,55-64,Near-Prime,Direct
+NC200717,ON,Kitchener,55-64,Near-Prime,Direct
+NC200718,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC200719,ON,Toronto,25-34,Near-Prime,Referral
+NC200720,ON,Ottawa,25-34,Prime,Email/CRM
+NC200721,ON,Kitchener,45-54,Subprime,Email/CRM
+NC200722,ON,Ottawa,55-64,Prime,Organic Search
+NC200723,ON,London,35-44,Subprime,Email/CRM
+NC200724,MB,Winnipeg,35-44,Subprime,Organic Search
+NC200725,AB,Edmonton,55-64,Prime,Referral
+NC200726,BC,Surrey,35-44,Near-Prime,Email/CRM
+NC200727,ON,Toronto,25-34,Prime,Organic Search
+NC200728,ON,Hamilton,25-34,Prime,Paid Social
+NC200729,ON,Windsor,45-54,Near-Prime,Direct
+NC200730,AB,Red Deer,45-54,Subprime,Referral
+NC200731,PE,Charlottetown,55-64,Near-Prime,Email/CRM
+NC200732,AB,Calgary,35-44,Prime,Email/CRM
+NC200733,AB,Red Deer,55-64,Prime,Organic Search
+NC200734,PE,Charlottetown,55-64,Prime,Marketplace Syndication
+NC200735,QC,Quebec City,25-34,Prime,Organic Search
+NC200736,ON,Ottawa,45-54,Prime,Direct
+NC200737,ON,Mississauga,35-44,Prime,Organic Search
+NC200738,ON,Kitchener,25-34,Near-Prime,Email/CRM
+NC200739,ON,Hamilton,18-24,Subprime,Paid Search
+NC200740,ON,Hamilton,55-64,Near-Prime,Email/CRM
+NC200741,ON,Mississauga,55-64,Prime,Email/CRM
+NC200742,NL,St. John's,35-44,Near-Prime,Organic Search
+NC200743,BC,Vancouver,25-34,Near-Prime,Paid Search
+NC200744,ON,Mississauga,25-34,Prime,Direct
+NC200745,QC,Quebec City,55-64,Prime,Direct
+NC200746,BC,Victoria,55-64,Prime,Direct
+NC200747,ON,Mississauga,65+,Prime,Referral
+NC200748,AB,Edmonton,55-64,Near-Prime,Direct
+NC200749,ON,Windsor,55-64,Near-Prime,Paid Search
+NC200750,MB,Winnipeg,25-34,Near-Prime,Direct
+NC200751,ON,Mississauga,35-44,Subprime,Direct
+NC200752,ON,London,55-64,Near-Prime,Organic Search
+NC200753,AB,Calgary,25-34,Near-Prime,Paid Search
+NC200754,AB,Red Deer,35-44,Near-Prime,Email/CRM
+NC200755,ON,Ottawa,25-34,Prime,Paid Search
+NC200756,MB,Winnipeg,25-34,Prime,Paid Search
+NC200757,ON,Kitchener,45-54,Prime,Email/CRM
+NC200758,NS,Halifax,45-54,Prime,Referral
+NC200759,SK,Regina,25-34,Near-Prime,Direct
+NC200760,ON,Mississauga,55-64,Subprime,Referral
+NC200761,NS,Halifax,35-44,Near-Prime,Direct
+NC200762,ON,Windsor,35-44,Prime,Organic Search
+NC200763,BC,Victoria,25-34,Near-Prime,Email/CRM
+NC200764,BC,Victoria,55-64,Subprime,Paid Social
+NC200765,AB,Edmonton,55-64,Near-Prime,Paid Social
+NC200766,ON,Mississauga,35-44,Near-Prime,Referral
+NC200767,NS,Halifax,35-44,Near-Prime,Direct
+NC200768,ON,Hamilton,25-34,Prime,Referral
+NC200769,ON,Ottawa,35-44,Near-Prime,Direct
+NC200770,ON,Mississauga,45-54,Prime,Paid Search
+NC200771,BC,Victoria,55-64,Prime,Email/CRM
+NC200772,ON,Ottawa,25-34,Near-Prime,Email/CRM
+NC200773,BC,Surrey,45-54,Prime,Referral
+NC200774,BC,Kelowna,55-64,Prime,Organic Search
+NC200775,ON,Windsor,65+,Near-Prime,Organic Search
+NC200776,MB,Winnipeg,25-34,Prime,Email/CRM
+NC200777,ON,Kitchener,45-54,Near-Prime,Paid Search
+NC200778,ON,Mississauga,55-64,Near-Prime,Referral
+NC200779,MB,Winnipeg,25-34,Prime,Email/CRM
+NC200780,QC,Montreal,35-44,Prime,Direct
+NC200781,ON,Kitchener,25-34,Subprime,Organic Search
+NC200782,ON,Kitchener,35-44,Prime,Organic Search
+NC200783,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC200784,BC,Vancouver,65+,Prime,Email/CRM
+NC200785,MB,Winnipeg,35-44,Prime,Direct
+NC200786,MB,Winnipeg,45-54,Subprime,Referral
+NC200787,AB,Calgary,55-64,Prime,Marketplace Syndication
+NC200788,AB,Edmonton,55-64,Near-Prime,Referral
+NC200789,BC,Victoria,45-54,Prime,Organic Search
+NC200790,ON,Mississauga,25-34,Prime,Direct
+NC200791,ON,Kitchener,25-34,Prime,Referral
+NC200792,AB,Red Deer,25-34,Near-Prime,Referral
+NC200793,MB,Winnipeg,35-44,Prime,Organic Search
+NC200794,ON,Kitchener,18-24,Near-Prime,Paid Search
+NC200795,ON,Hamilton,25-34,Prime,Email/CRM
+NC200796,SK,Regina,55-64,Prime,Organic Search
+NC200797,ON,Ottawa,45-54,Prime,Organic Search
+NC200798,QC,Montreal,35-44,Near-Prime,Organic Search
+NC200799,ON,Mississauga,35-44,Prime,Marketplace Syndication
+NC200800,ON,Windsor,35-44,Prime,Referral
+NC200801,ON,Windsor,35-44,Prime,Organic Search
+NC200802,ON,Hamilton,25-34,Prime,Paid Search
+NC200803,ON,Windsor,25-34,Prime,Paid Search
+NC200804,ON,London,35-44,Near-Prime,Paid Social
+NC200805,ON,Kitchener,35-44,Prime,Paid Social
+NC200806,ON,London,55-64,Near-Prime,Organic Search
+NC200807,AB,Red Deer,25-34,Prime,Referral
+NC200808,BC,Vancouver,55-64,Subprime,Email/CRM
+NC200809,NB,Saint John,35-44,Prime,Organic Search
+NC200810,ON,Kitchener,18-24,Subprime,Email/CRM
+NC200811,AB,Edmonton,55-64,Prime,Referral
+NC200812,ON,Ottawa,55-64,Near-Prime,Organic Search
+NC200813,ON,Mississauga,35-44,Prime,Referral
+NC200814,SK,Saskatoon,65+,Prime,Direct
+NC200815,AB,Calgary,25-34,Prime,Referral
+NC200816,NB,Moncton,25-34,Prime,Organic Search
+NC200817,ON,London,35-44,Prime,Referral
+NC200818,ON,Kitchener,45-54,Prime,Organic Search
+NC200819,MB,Winnipeg,25-34,Prime,Referral
+NC200820,ON,London,45-54,Near-Prime,Paid Search
+NC200821,ON,Kitchener,35-44,Prime,Email/CRM
+NC200822,ON,Hamilton,18-24,Subprime,Paid Social
+NC200823,ON,Mississauga,45-54,Near-Prime,Email/CRM
+NC200824,BC,Kelowna,25-34,Prime,Direct
+NC200825,SK,Regina,25-34,Near-Prime,Direct
+NC200826,BC,Vancouver,25-34,Subprime,Referral
+NC200827,QC,Quebec City,35-44,Near-Prime,Direct
+NC200828,ON,Hamilton,25-34,Prime,Paid Search
+NC200829,ON,Toronto,45-54,Subprime,Direct
+NC200830,BC,Vancouver,25-34,Subprime,Direct
+NC200831,AB,Red Deer,18-24,Near-Prime,Email/CRM
+NC200832,QC,Quebec City,25-34,Near-Prime,Paid Social
+NC200833,AB,Calgary,25-34,Prime,Paid Search
+NC200834,ON,Ottawa,65+,Subprime,Paid Search
+NC200835,ON,Kitchener,35-44,Prime,Organic Search
+NC200836,ON,Ottawa,25-34,Near-Prime,Paid Search
+NC200837,ON,London,35-44,Prime,Paid Search
+NC200838,NL,St. John's,35-44,Prime,Referral
+NC200839,ON,London,35-44,Prime,Paid Search
+NC200840,NS,Halifax,25-34,Subprime,Referral
+NC200841,MB,Winnipeg,45-54,Prime,Email/CRM
+NC200842,ON,Mississauga,45-54,Prime,Direct
+NC200843,QC,Laval,65+,Prime,Direct
+NC200844,ON,London,35-44,Near-Prime,Organic Search
+NC200845,ON,London,18-24,Prime,Email/CRM
+NC200846,MB,Winnipeg,55-64,Near-Prime,Paid Search
+NC200847,ON,London,25-34,Near-Prime,Email/CRM
+NC200848,MB,Winnipeg,45-54,Near-Prime,Organic Search
+NC200849,MB,Winnipeg,55-64,Near-Prime,Referral
+NC200850,ON,Kitchener,45-54,Prime,Organic Search
+NC200851,ON,London,45-54,Subprime,Paid Search
+NC200852,ON,Ottawa,45-54,Prime,Referral
+NC200853,BC,Surrey,25-34,Near-Prime,Marketplace Syndication
+NC200854,ON,Kitchener,55-64,Prime,Organic Search
+NC200855,ON,London,55-64,Subprime,Direct
+NC200856,ON,Mississauga,45-54,Prime,Paid Search
+NC200857,ON,London,18-24,Near-Prime,Paid Search
+NC200858,ON,London,35-44,Near-Prime,Direct
+NC200859,AB,Red Deer,35-44,Prime,Organic Search
+NC200860,QC,Laval,18-24,Prime,Organic Search
+NC200861,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC200862,ON,Toronto,25-34,Subprime,Paid Search
+NC200863,ON,Ottawa,65+,Prime,Direct
+NC200864,NB,Moncton,25-34,Prime,Email/CRM
+NC200865,ON,Hamilton,25-34,Near-Prime,Direct
+NC200866,ON,Toronto,55-64,Near-Prime,Direct
+NC200867,MB,Winnipeg,35-44,Near-Prime,Direct
+NC200868,AB,Edmonton,18-24,Prime,Organic Search
+NC200869,AB,Red Deer,35-44,Near-Prime,Organic Search
+NC200870,SK,Regina,65+,Near-Prime,Organic Search
+NC200871,BC,Victoria,35-44,Near-Prime,Email/CRM
+NC200872,ON,Windsor,65+,Prime,Organic Search
+NC200873,ON,London,35-44,Near-Prime,Referral
+NC200874,ON,London,25-34,Near-Prime,Marketplace Syndication
+NC200875,ON,Toronto,25-34,Subprime,Email/CRM
+NC200876,ON,Ottawa,18-24,Near-Prime,Paid Search
+NC200877,SK,Regina,55-64,Prime,Paid Search
+NC200878,ON,Hamilton,35-44,Prime,Direct
+NC200879,ON,Hamilton,65+,Prime,Paid Search
+NC200880,QC,Montreal,55-64,Near-Prime,Organic Search
+NC200881,ON,Toronto,45-54,Prime,Paid Search
+NC200882,PE,Charlottetown,25-34,Prime,Paid Search
+NC200883,AB,Red Deer,25-34,Near-Prime,Paid Search
+NC200884,ON,Hamilton,35-44,Prime,Referral
+NC200885,ON,London,25-34,Near-Prime,Paid Search
+NC200886,ON,Hamilton,25-34,Prime,Organic Search
+NC200887,ON,Ottawa,55-64,Near-Prime,Paid Search
+NC200888,QC,Montreal,55-64,Prime,Organic Search
+NC200889,ON,Toronto,65+,Near-Prime,Paid Search
+NC200890,ON,Kitchener,55-64,Near-Prime,Organic Search
+NC200891,NS,Halifax,55-64,Prime,Organic Search
+NC200892,ON,London,55-64,Prime,Email/CRM
+NC200893,AB,Red Deer,55-64,Subprime,Organic Search
+NC200894,ON,Toronto,45-54,Prime,Referral
+NC200895,ON,London,55-64,Near-Prime,Direct
+NC200896,NS,Halifax,35-44,Prime,Email/CRM
+NC200897,ON,Ottawa,25-34,Prime,Organic Search
+NC200898,QC,Quebec City,35-44,Prime,Organic Search
+NC200899,NS,Halifax,25-34,Prime,Paid Search
+NC200900,ON,Ottawa,25-34,Subprime,Direct
+NC200901,BC,Vancouver,35-44,Near-Prime,Organic Search
+NC200902,ON,Hamilton,25-34,Prime,Direct
+NC200903,ON,Windsor,55-64,Prime,Referral
+NC200904,NB,Saint John,25-34,Prime,Direct
+NC200905,ON,Mississauga,65+,Subprime,Email/CRM
+NC200906,ON,Kitchener,35-44,Prime,Referral
+NC200907,ON,Toronto,25-34,Near-Prime,Organic Search
+NC200908,AB,Red Deer,25-34,Prime,Referral
+NC200909,ON,Mississauga,35-44,Prime,Direct
+NC200910,BC,Surrey,18-24,Near-Prime,Email/CRM
+NC200911,BC,Vancouver,35-44,Prime,Marketplace Syndication
+NC200912,AB,Red Deer,45-54,Prime,Email/CRM
+NC200913,NL,St. John's,25-34,Near-Prime,Email/CRM
+NC200914,ON,London,45-54,Near-Prime,Organic Search
+NC200915,AB,Red Deer,18-24,Near-Prime,Email/CRM
+NC200916,BC,Kelowna,35-44,Prime,Paid Search
+NC200917,QC,Laval,35-44,Near-Prime,Referral
+NC200918,AB,Red Deer,35-44,Prime,Organic Search
+NC200919,ON,Kitchener,45-54,Prime,Referral
+NC200920,SK,Saskatoon,25-34,Prime,Email/CRM
+NC200921,BC,Victoria,25-34,Prime,Organic Search
+NC200922,ON,London,65+,Prime,Paid Search
+NC200923,ON,Ottawa,45-54,Near-Prime,Referral
+NC200924,ON,London,25-34,Near-Prime,Direct
+NC200925,ON,London,35-44,Prime,Email/CRM
+NC200926,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC200927,BC,Victoria,45-54,Prime,Paid Search
+NC200928,NB,Moncton,45-54,Prime,Referral
+NC200929,MB,Winnipeg,45-54,Prime,Paid Social
+NC200930,ON,Mississauga,65+,Prime,Referral
+NC200931,ON,Windsor,35-44,Near-Prime,Direct
+NC200932,ON,London,25-34,Prime,Direct
+NC200933,NB,Moncton,45-54,Prime,Organic Search
+NC200934,QC,Laval,25-34,Prime,Email/CRM
+NC200935,SK,Saskatoon,35-44,Near-Prime,Email/CRM
+NC200936,ON,Mississauga,45-54,Prime,Organic Search
+NC200937,ON,Kitchener,45-54,Subprime,Organic Search
+NC200938,ON,Kitchener,45-54,Near-Prime,Direct
+NC200939,ON,Windsor,45-54,Near-Prime,Email/CRM
+NC200940,ON,Hamilton,65+,Near-Prime,Organic Search
+NC200941,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC200942,NB,Saint John,35-44,Prime,Organic Search
+NC200943,ON,Mississauga,45-54,Near-Prime,Paid Search
+NC200944,ON,Ottawa,25-34,Near-Prime,Referral
+NC200945,BC,Vancouver,25-34,Near-Prime,Direct
+NC200946,ON,Hamilton,25-34,Subprime,Organic Search
+NC200947,AB,Red Deer,45-54,Near-Prime,Referral
+NC200948,QC,Laval,35-44,Near-Prime,Direct
+NC200949,ON,Mississauga,45-54,Prime,Direct
+NC200950,BC,Vancouver,45-54,Prime,Organic Search
+NC200951,BC,Kelowna,18-24,Prime,Direct
+NC200952,BC,Victoria,35-44,Subprime,Direct
+NC200953,QC,Quebec City,25-34,Prime,Referral
+NC200954,NS,Halifax,25-34,Near-Prime,Direct
+NC200955,AB,Red Deer,18-24,Near-Prime,Email/CRM
+NC200956,ON,Kitchener,25-34,Prime,Referral
+NC200957,ON,Hamilton,55-64,Subprime,Marketplace Syndication
+NC200958,NS,Halifax,25-34,Near-Prime,Paid Social
+NC200959,ON,Kitchener,65+,Near-Prime,Paid Search
+NC200960,ON,Ottawa,35-44,Near-Prime,Paid Search
+NC200961,NB,Moncton,55-64,Subprime,Organic Search
+NC200962,ON,Toronto,65+,Near-Prime,Referral
+NC200963,AB,Edmonton,25-34,Subprime,Referral
+NC200964,NS,Halifax,25-34,Prime,Organic Search
+NC200965,AB,Calgary,55-64,Prime,Organic Search
+NC200966,BC,Kelowna,35-44,Prime,Email/CRM
+NC200967,ON,Toronto,45-54,Near-Prime,Paid Search
+NC200968,ON,Toronto,55-64,Near-Prime,Paid Search
+NC200969,ON,Windsor,45-54,Near-Prime,Organic Search
+NC200970,AB,Calgary,35-44,Near-Prime,Direct
+NC200971,NS,Halifax,45-54,Prime,Email/CRM
+NC200972,PE,Charlottetown,45-54,Subprime,Paid Social
+NC200973,ON,London,25-34,Prime,Organic Search
+NC200974,BC,Kelowna,25-34,Prime,Paid Search
+NC200975,BC,Kelowna,45-54,Near-Prime,Email/CRM
+NC200976,ON,Toronto,25-34,Prime,Direct
+NC200977,PE,Charlottetown,65+,Prime,Organic Search
+NC200978,BC,Kelowna,45-54,Prime,Direct
+NC200979,SK,Saskatoon,25-34,Near-Prime,Paid Search
+NC200980,BC,Vancouver,25-34,Prime,Direct
+NC200981,MB,Winnipeg,35-44,Subprime,Organic Search
+NC200982,SK,Regina,25-34,Subprime,Organic Search
+NC200983,ON,Mississauga,65+,Prime,Direct
+NC200984,NS,Halifax,45-54,Subprime,Paid Search
+NC200985,QC,Quebec City,55-64,Near-Prime,Direct
+NC200986,ON,Windsor,55-64,Subprime,Email/CRM
+NC200987,ON,Kitchener,25-34,Prime,Organic Search
+NC200988,ON,London,35-44,Prime,Direct
+NC200989,ON,Kitchener,55-64,Subprime,Direct
+NC200990,PE,Charlottetown,55-64,Prime,Direct
+NC200991,BC,Kelowna,35-44,Subprime,Referral
+NC200992,ON,London,65+,Subprime,Direct
+NC200993,BC,Kelowna,35-44,Prime,Organic Search
+NC200994,QC,Montreal,25-34,Prime,Direct
+NC200995,ON,Windsor,18-24,Subprime,Marketplace Syndication
+NC200996,ON,Ottawa,25-34,Prime,Organic Search
+NC200997,QC,Quebec City,65+,Near-Prime,Marketplace Syndication
+NC200998,ON,Toronto,25-34,Prime,Referral
+NC200999,MB,Winnipeg,25-34,Prime,Organic Search
+NC201000,QC,Quebec City,35-44,Subprime,Referral
+NC201001,AB,Calgary,65+,Prime,Direct
+NC201002,MB,Winnipeg,45-54,Prime,Email/CRM
+NC201003,ON,Hamilton,35-44,Prime,Organic Search
+NC201004,QC,Laval,35-44,Near-Prime,Organic Search
+NC201005,AB,Edmonton,35-44,Subprime,Paid Search
+NC201006,BC,Kelowna,25-34,Prime,Referral
+NC201007,ON,Windsor,35-44,Near-Prime,Email/CRM
+NC201008,ON,Ottawa,35-44,Prime,Organic Search
+NC201009,ON,Kitchener,45-54,Prime,Referral
+NC201010,NS,Halifax,65+,Near-Prime,Email/CRM
+NC201011,AB,Edmonton,45-54,Prime,Organic Search
+NC201012,AB,Calgary,45-54,Prime,Email/CRM
+NC201013,ON,Windsor,18-24,Subprime,Referral
+NC201014,ON,Windsor,55-64,Prime,Organic Search
+NC201015,ON,Mississauga,35-44,Near-Prime,Email/CRM
+NC201016,ON,Toronto,25-34,Prime,Organic Search
+NC201017,QC,Quebec City,45-54,Prime,Paid Social
+NC201018,ON,Mississauga,35-44,Prime,Organic Search
+NC201019,ON,Mississauga,25-34,Prime,Paid Search
+NC201020,ON,Hamilton,55-64,Subprime,Email/CRM
+NC201021,AB,Red Deer,55-64,Subprime,Paid Search
+NC201022,NS,Halifax,35-44,Prime,Paid Search
+NC201023,NS,Halifax,65+,Near-Prime,Paid Search
+NC201024,AB,Edmonton,45-54,Prime,Direct
+NC201025,ON,Mississauga,45-54,Prime,Referral
+NC201026,BC,Kelowna,35-44,Prime,Organic Search
+NC201027,AB,Edmonton,35-44,Prime,Organic Search
+NC201028,NS,Halifax,18-24,Near-Prime,Organic Search
+NC201029,ON,Hamilton,45-54,Prime,Referral
+NC201030,MB,Winnipeg,45-54,Prime,Paid Search
+NC201031,ON,Toronto,35-44,Near-Prime,Organic Search
+NC201032,ON,Windsor,35-44,Prime,Paid Search
+NC201033,AB,Calgary,55-64,Prime,Paid Search
+NC201034,ON,Windsor,45-54,Prime,Direct
+NC201035,BC,Surrey,45-54,Near-Prime,Organic Search
+NC201036,ON,Hamilton,35-44,Prime,Organic Search
+NC201037,NS,Halifax,25-34,Subprime,Email/CRM
+NC201038,ON,Ottawa,25-34,Prime,Direct
+NC201039,ON,Mississauga,45-54,Near-Prime,Referral
+NC201040,ON,London,45-54,Prime,Referral
+NC201041,ON,Ottawa,25-34,Prime,Organic Search
+NC201042,AB,Calgary,25-34,Prime,Direct
+NC201043,ON,Ottawa,45-54,Near-Prime,Direct
+NC201044,AB,Red Deer,18-24,Near-Prime,Paid Search
+NC201045,AB,Red Deer,35-44,Prime,Referral
+NC201046,NL,St. John's,35-44,Subprime,Referral
+NC201047,ON,Toronto,35-44,Prime,Paid Search
+NC201048,ON,Toronto,35-44,Prime,Direct
+NC201049,AB,Edmonton,45-54,Near-Prime,Organic Search
+NC201050,NS,Halifax,35-44,Near-Prime,Direct
+NC201051,AB,Edmonton,25-34,Near-Prime,Email/CRM
+NC201052,ON,Toronto,55-64,Prime,Paid Search
+NC201053,AB,Red Deer,65+,Prime,Referral
+NC201054,MB,Winnipeg,35-44,Prime,Organic Search
+NC201055,ON,Ottawa,25-34,Prime,Organic Search
+NC201056,ON,Kitchener,25-34,Prime,Marketplace Syndication
+NC201057,ON,London,45-54,Prime,Organic Search
+NC201058,AB,Calgary,55-64,Subprime,Email/CRM
+NC201059,AB,Edmonton,35-44,Prime,Direct
+NC201060,QC,Quebec City,25-34,Prime,Referral
+NC201061,ON,Hamilton,18-24,Near-Prime,Referral
+NC201062,NS,Halifax,25-34,Prime,Organic Search
+NC201063,BC,Victoria,35-44,Subprime,Email/CRM
+NC201064,ON,Ottawa,25-34,Prime,Referral
+NC201065,ON,Hamilton,55-64,Prime,Organic Search
+NC201066,AB,Calgary,35-44,Prime,Organic Search
+NC201067,ON,Ottawa,65+,Near-Prime,Direct
+NC201068,ON,Ottawa,35-44,Prime,Organic Search
+NC201069,BC,Victoria,45-54,Prime,Paid Search
+NC201070,ON,Toronto,25-34,Prime,Organic Search
+NC201071,BC,Surrey,25-34,Prime,Paid Social
+NC201072,ON,Hamilton,45-54,Prime,Direct
+NC201073,ON,Toronto,45-54,Prime,Referral
+NC201074,ON,Toronto,55-64,Prime,Paid Search
+NC201075,ON,Toronto,65+,Prime,Paid Search
+NC201076,QC,Laval,35-44,Prime,Paid Search
+NC201077,AB,Edmonton,35-44,Prime,Organic Search
+NC201078,BC,Victoria,25-34,Prime,Email/CRM
+NC201079,ON,Hamilton,45-54,Prime,Marketplace Syndication
+NC201080,QC,Laval,25-34,Prime,Referral
+NC201081,QC,Quebec City,35-44,Near-Prime,Referral
+NC201082,ON,London,35-44,Near-Prime,Paid Search
+NC201083,ON,Windsor,45-54,Prime,Direct
+NC201084,ON,London,65+,Subprime,Paid Search
+NC201085,ON,Ottawa,45-54,Prime,Referral
+NC201086,ON,Toronto,25-34,Subprime,Organic Search
+NC201087,ON,Windsor,55-64,Prime,Email/CRM
+NC201088,QC,Quebec City,35-44,Prime,Referral
+NC201089,NS,Halifax,45-54,Prime,Paid Search
+NC201090,ON,Hamilton,45-54,Near-Prime,Paid Social
+NC201091,NS,Halifax,35-44,Subprime,Email/CRM
+NC201092,NB,Saint John,45-54,Prime,Organic Search
+NC201093,AB,Red Deer,45-54,Subprime,Email/CRM
+NC201094,NB,Moncton,45-54,Near-Prime,Paid Search
+NC201095,ON,London,45-54,Prime,Organic Search
+NC201096,ON,Mississauga,45-54,Prime,Email/CRM
+NC201097,ON,London,25-34,Subprime,Paid Search
+NC201098,MB,Winnipeg,25-34,Prime,Direct
+NC201099,QC,Quebec City,65+,Near-Prime,Direct
+NC201100,MB,Winnipeg,25-34,Subprime,Email/CRM
+NC201101,ON,Ottawa,55-64,Prime,Organic Search
+NC201102,NB,Moncton,25-34,Prime,Paid Social
+NC201103,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC201104,AB,Edmonton,25-34,Near-Prime,Marketplace Syndication
+NC201105,BC,Surrey,35-44,Subprime,Direct
+NC201106,ON,London,25-34,Prime,Paid Search
+NC201107,SK,Regina,65+,Near-Prime,Paid Search
+NC201108,ON,Mississauga,55-64,Prime,Organic Search
+NC201109,SK,Regina,25-34,Prime,Organic Search
+NC201110,BC,Surrey,25-34,Near-Prime,Direct
+NC201111,AB,Edmonton,45-54,Near-Prime,Direct
+NC201112,ON,Kitchener,35-44,Prime,Referral
+NC201113,ON,London,25-34,Prime,Paid Search
+NC201114,ON,Hamilton,25-34,Prime,Paid Social
+NC201115,QC,Quebec City,65+,Prime,Direct
+NC201116,ON,Toronto,35-44,Prime,Organic Search
+NC201117,SK,Saskatoon,25-34,Subprime,Paid Social
+NC201118,BC,Kelowna,25-34,Prime,Direct
+NC201119,QC,Quebec City,18-24,Subprime,Direct
+NC201120,BC,Kelowna,55-64,Prime,Organic Search
+NC201121,QC,Quebec City,45-54,Near-Prime,Organic Search
+NC201122,AB,Red Deer,25-34,Prime,Referral
+NC201123,BC,Surrey,25-34,Near-Prime,Direct
+NC201124,ON,Toronto,45-54,Prime,Organic Search
+NC201125,ON,Kitchener,25-34,Near-Prime,Marketplace Syndication
+NC201126,AB,Red Deer,35-44,Prime,Direct
+NC201127,ON,Kitchener,65+,Prime,Direct
+NC201128,BC,Surrey,25-34,Near-Prime,Paid Search
+NC201129,AB,Red Deer,25-34,Prime,Organic Search
+NC201130,MB,Winnipeg,45-54,Prime,Referral
+NC201131,QC,Quebec City,25-34,Near-Prime,Organic Search
+NC201132,ON,Toronto,25-34,Subprime,Direct
+NC201133,ON,Kitchener,55-64,Prime,Paid Social
+NC201134,ON,Toronto,18-24,Near-Prime,Organic Search
+NC201135,ON,Ottawa,35-44,Prime,Paid Search
+NC201136,ON,Toronto,55-64,Near-Prime,Referral
+NC201137,AB,Red Deer,25-34,Prime,Marketplace Syndication
+NC201138,NS,Halifax,55-64,Prime,Referral
+NC201139,ON,Toronto,55-64,Near-Prime,Marketplace Syndication
+NC201140,BC,Surrey,25-34,Subprime,Referral
+NC201141,ON,Windsor,25-34,Subprime,Paid Social
+NC201142,ON,Toronto,25-34,Prime,Direct
+NC201143,ON,Windsor,35-44,Prime,Referral
+NC201144,QC,Laval,45-54,Near-Prime,Organic Search
+NC201145,PE,Charlottetown,18-24,Near-Prime,Paid Search
+NC201146,BC,Victoria,35-44,Near-Prime,Organic Search
+NC201147,ON,Mississauga,25-34,Prime,Organic Search
+NC201148,AB,Calgary,35-44,Subprime,Organic Search
+NC201149,ON,Kitchener,25-34,Subprime,Referral
+NC201150,ON,Hamilton,25-34,Subprime,Paid Search
+NC201151,ON,Kitchener,35-44,Prime,Referral
+NC201152,ON,Windsor,25-34,Prime,Direct
+NC201153,AB,Red Deer,35-44,Subprime,Email/CRM
+NC201154,AB,Red Deer,45-54,Prime,Organic Search
+NC201155,MB,Winnipeg,18-24,Subprime,Paid Search
+NC201156,ON,Hamilton,45-54,Prime,Organic Search
+NC201157,SK,Saskatoon,45-54,Prime,Organic Search
+NC201158,AB,Edmonton,25-34,Near-Prime,Email/CRM
+NC201159,BC,Surrey,65+,Subprime,Email/CRM
+NC201160,ON,Toronto,25-34,Prime,Paid Search
+NC201161,ON,Kitchener,25-34,Near-Prime,Organic Search
+NC201162,ON,Ottawa,25-34,Prime,Organic Search
+NC201163,SK,Saskatoon,45-54,Subprime,Direct
+NC201164,NB,Saint John,55-64,Near-Prime,Organic Search
+NC201165,AB,Calgary,45-54,Subprime,Direct
+NC201166,MB,Winnipeg,65+,Near-Prime,Organic Search
+NC201167,ON,Hamilton,25-34,Subprime,Paid Search
+NC201168,ON,Mississauga,25-34,Prime,Paid Social
+NC201169,ON,Kitchener,25-34,Prime,Organic Search
+NC201170,ON,Windsor,25-34,Subprime,Organic Search
+NC201171,AB,Calgary,35-44,Near-Prime,Paid Search
+NC201172,ON,Toronto,55-64,Subprime,Direct
+NC201173,BC,Surrey,25-34,Prime,Email/CRM
+NC201174,ON,Toronto,55-64,Prime,Organic Search
+NC201175,AB,Edmonton,65+,Prime,Referral
+NC201176,AB,Red Deer,25-34,Prime,Organic Search
+NC201177,ON,Hamilton,45-54,Prime,Organic Search
+NC201178,MB,Winnipeg,45-54,Prime,Organic Search
+NC201179,QC,Laval,25-34,Subprime,Organic Search
+NC201180,AB,Calgary,35-44,Near-Prime,Organic Search
+NC201181,BC,Surrey,55-64,Subprime,Paid Social
+NC201182,ON,Ottawa,45-54,Prime,Organic Search
+NC201183,ON,Toronto,25-34,Near-Prime,Organic Search
+NC201184,ON,Kitchener,35-44,Prime,Referral
+NC201185,NB,Saint John,55-64,Subprime,Direct
+NC201186,AB,Red Deer,45-54,Subprime,Referral
+NC201187,ON,Mississauga,25-34,Prime,Paid Search
+NC201188,NB,Saint John,65+,Near-Prime,Paid Search
+NC201189,ON,Kitchener,35-44,Prime,Email/CRM
+NC201190,ON,Kitchener,45-54,Prime,Organic Search
+NC201191,AB,Calgary,65+,Prime,Paid Search
+NC201192,QC,Montreal,25-34,Near-Prime,Organic Search
+NC201193,ON,Toronto,45-54,Prime,Direct
+NC201194,ON,Ottawa,18-24,Near-Prime,Organic Search
+NC201195,BC,Surrey,35-44,Prime,Referral
+NC201196,SK,Regina,55-64,Prime,Direct
+NC201197,BC,Kelowna,25-34,Subprime,Paid Social
+NC201198,ON,Windsor,45-54,Near-Prime,Organic Search
+NC201199,ON,Ottawa,55-64,Prime,Organic Search
+NC201200,AB,Red Deer,25-34,Prime,Organic Search
+NC201201,ON,Mississauga,65+,Near-Prime,Direct
+NC201202,AB,Edmonton,25-34,Near-Prime,Referral
+NC201203,ON,Windsor,25-34,Prime,Email/CRM
+NC201204,ON,Windsor,18-24,Near-Prime,Organic Search
+NC201205,ON,Ottawa,55-64,Near-Prime,Referral
+NC201206,NB,Moncton,45-54,Prime,Direct
+NC201207,ON,Hamilton,45-54,Prime,Direct
+NC201208,NB,Moncton,45-54,Near-Prime,Paid Search
+NC201209,ON,Mississauga,35-44,Prime,Organic Search
+NC201210,QC,Laval,25-34,Prime,Organic Search
+NC201211,BC,Vancouver,35-44,Prime,Paid Search
+NC201212,BC,Surrey,25-34,Near-Prime,Organic Search
+NC201213,ON,Kitchener,35-44,Prime,Email/CRM
+NC201214,SK,Saskatoon,55-64,Subprime,Organic Search
+NC201215,ON,Kitchener,25-34,Subprime,Organic Search
+NC201216,ON,Kitchener,35-44,Prime,Direct
+NC201217,MB,Winnipeg,25-34,Prime,Paid Social
+NC201218,ON,London,55-64,Subprime,Direct
+NC201219,NS,Halifax,25-34,Prime,Organic Search
+NC201220,NL,St. John's,18-24,Prime,Referral
+NC201221,ON,Mississauga,25-34,Prime,Paid Social
+NC201222,SK,Saskatoon,35-44,Subprime,Paid Search
+NC201223,SK,Saskatoon,18-24,Prime,Direct
+NC201224,ON,Mississauga,45-54,Prime,Referral
+NC201225,AB,Edmonton,55-64,Prime,Marketplace Syndication
+NC201226,AB,Edmonton,55-64,Near-Prime,Paid Search
+NC201227,ON,Mississauga,25-34,Prime,Organic Search
+NC201228,ON,Kitchener,35-44,Prime,Paid Search
+NC201229,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC201230,ON,Kitchener,25-34,Prime,Direct
+NC201231,ON,London,25-34,Prime,Direct
+NC201232,ON,London,18-24,Subprime,Direct
+NC201233,ON,Toronto,45-54,Prime,Referral
+NC201234,ON,Kitchener,55-64,Near-Prime,Email/CRM
+NC201235,BC,Victoria,35-44,Near-Prime,Organic Search
+NC201236,ON,Windsor,25-34,Prime,Direct
+NC201237,ON,Hamilton,18-24,Near-Prime,Organic Search
+NC201238,QC,Quebec City,65+,Prime,Paid Search
+NC201239,NS,Halifax,35-44,Prime,Paid Search
+NC201240,NS,Halifax,35-44,Prime,Direct
+NC201241,ON,Mississauga,35-44,Prime,Direct
+NC201242,QC,Montreal,45-54,Subprime,Organic Search
+NC201243,NB,Saint John,35-44,Prime,Direct
+NC201244,ON,Hamilton,45-54,Prime,Organic Search
+NC201245,NB,Moncton,35-44,Prime,Direct
+NC201246,ON,Hamilton,35-44,Prime,Organic Search
+NC201247,AB,Calgary,25-34,Near-Prime,Direct
+NC201248,ON,Windsor,25-34,Prime,Organic Search
+NC201249,ON,Toronto,18-24,Subprime,Referral
+NC201250,ON,Kitchener,45-54,Near-Prime,Direct
+NC201251,NB,Saint John,25-34,Subprime,Direct
+NC201252,SK,Regina,35-44,Near-Prime,Email/CRM
+NC201253,AB,Edmonton,18-24,Subprime,Organic Search
+NC201254,MB,Winnipeg,25-34,Prime,Paid Social
+NC201255,BC,Victoria,55-64,Subprime,Organic Search
+NC201256,AB,Red Deer,35-44,Prime,Referral
+NC201257,AB,Edmonton,45-54,Subprime,Paid Search
+NC201258,ON,Windsor,55-64,Prime,Email/CRM
+NC201259,ON,Mississauga,35-44,Subprime,Marketplace Syndication
+NC201260,NS,Halifax,45-54,Near-Prime,Direct
+NC201261,ON,Toronto,25-34,Prime,Organic Search
+NC201262,ON,Toronto,25-34,Subprime,Organic Search
+NC201263,ON,Hamilton,45-54,Prime,Organic Search
+NC201264,ON,Toronto,35-44,Prime,Organic Search
+NC201265,QC,Montreal,65+,Prime,Paid Social
+NC201266,ON,Windsor,45-54,Prime,Organic Search
+NC201267,ON,Windsor,45-54,Prime,Organic Search
+NC201268,QC,Quebec City,25-34,Prime,Referral
+NC201269,ON,Toronto,55-64,Prime,Organic Search
+NC201270,NS,Halifax,25-34,Subprime,Referral
+NC201271,SK,Regina,45-54,Near-Prime,Email/CRM
+NC201272,MB,Winnipeg,55-64,Prime,Direct
+NC201273,AB,Edmonton,35-44,Prime,Paid Search
+NC201274,ON,Hamilton,45-54,Near-Prime,Email/CRM
+NC201275,ON,Hamilton,35-44,Near-Prime,Referral
+NC201276,NS,Halifax,35-44,Subprime,Organic Search
+NC201277,QC,Laval,35-44,Prime,Direct
+NC201278,ON,Mississauga,35-44,Prime,Organic Search
+NC201279,MB,Winnipeg,25-34,Near-Prime,Marketplace Syndication
+NC201280,QC,Quebec City,45-54,Near-Prime,Organic Search
+NC201281,QC,Laval,35-44,Near-Prime,Organic Search
+NC201282,MB,Winnipeg,35-44,Prime,Direct
+NC201283,ON,Mississauga,35-44,Subprime,Organic Search
+NC201284,ON,Windsor,35-44,Prime,Email/CRM
+NC201285,QC,Quebec City,25-34,Prime,Email/CRM
+NC201286,ON,Hamilton,25-34,Prime,Organic Search
+NC201287,ON,Hamilton,25-34,Prime,Direct
+NC201288,ON,Kitchener,45-54,Prime,Organic Search
+NC201289,ON,London,25-34,Near-Prime,Organic Search
+NC201290,ON,Kitchener,18-24,Near-Prime,Organic Search
+NC201291,AB,Calgary,35-44,Prime,Referral
+NC201292,ON,Kitchener,25-34,Prime,Organic Search
+NC201293,AB,Calgary,35-44,Near-Prime,Email/CRM
+NC201294,AB,Edmonton,25-34,Prime,Organic Search
+NC201295,ON,Mississauga,35-44,Near-Prime,Referral
+NC201296,NS,Halifax,35-44,Prime,Paid Search
+NC201297,QC,Montreal,45-54,Prime,Paid Social
+NC201298,ON,London,25-34,Prime,Email/CRM
+NC201299,ON,London,35-44,Subprime,Direct
+NC201300,ON,Hamilton,35-44,Near-Prime,Paid Search
+NC201301,ON,Kitchener,25-34,Prime,Email/CRM
+NC201302,ON,Ottawa,55-64,Near-Prime,Direct
+NC201303,SK,Regina,35-44,Near-Prime,Marketplace Syndication
+NC201304,ON,Kitchener,45-54,Prime,Paid Social
+NC201305,ON,Windsor,18-24,Prime,Organic Search
+NC201306,ON,Kitchener,25-34,Prime,Referral
+NC201307,ON,Kitchener,65+,Prime,Direct
+NC201308,ON,Windsor,18-24,Subprime,Direct
+NC201309,ON,Toronto,35-44,Prime,Email/CRM
+NC201310,ON,Mississauga,35-44,Prime,Email/CRM
+NC201311,ON,Kitchener,65+,Near-Prime,Referral
+NC201312,BC,Vancouver,35-44,Near-Prime,Direct
+NC201313,SK,Regina,25-34,Prime,Organic Search
+NC201314,AB,Red Deer,45-54,Subprime,Direct
+NC201315,ON,Kitchener,35-44,Near-Prime,Email/CRM
+NC201316,ON,London,25-34,Near-Prime,Organic Search
+NC201317,MB,Winnipeg,25-34,Prime,Organic Search
+NC201318,ON,Toronto,45-54,Near-Prime,Email/CRM
+NC201319,ON,London,55-64,Prime,Direct
+NC201320,MB,Winnipeg,65+,Prime,Paid Search
+NC201321,ON,Mississauga,25-34,Prime,Direct
+NC201322,QC,Laval,25-34,Near-Prime,Direct
+NC201323,AB,Edmonton,35-44,Prime,Paid Search
+NC201324,ON,Toronto,65+,Near-Prime,Email/CRM
+NC201325,BC,Vancouver,65+,Prime,Paid Social
+NC201326,BC,Victoria,35-44,Prime,Referral
+NC201327,QC,Quebec City,55-64,Prime,Organic Search
+NC201328,ON,Toronto,55-64,Near-Prime,Direct
+NC201329,ON,Windsor,25-34,Prime,Organic Search
+NC201330,AB,Calgary,25-34,Near-Prime,Paid Search
+NC201331,ON,Mississauga,55-64,Near-Prime,Direct
+NC201332,ON,London,25-34,Prime,Paid Search
+NC201333,ON,Mississauga,35-44,Prime,Paid Search
+NC201334,AB,Calgary,25-34,Near-Prime,Referral
+NC201335,AB,Calgary,18-24,Prime,Paid Search
+NC201336,ON,Mississauga,35-44,Near-Prime,Email/CRM
+NC201337,ON,Windsor,55-64,Near-Prime,Organic Search
+NC201338,ON,Kitchener,18-24,Near-Prime,Organic Search
+NC201339,ON,Windsor,25-34,Near-Prime,Referral
+NC201340,ON,Mississauga,65+,Near-Prime,Paid Search
+NC201341,ON,Toronto,45-54,Prime,Marketplace Syndication
+NC201342,AB,Edmonton,55-64,Prime,Email/CRM
+NC201343,ON,Hamilton,45-54,Subprime,Email/CRM
+NC201344,ON,Windsor,25-34,Prime,Direct
+NC201345,ON,Hamilton,45-54,Subprime,Direct
+NC201346,ON,Ottawa,45-54,Prime,Referral
+NC201347,AB,Edmonton,55-64,Subprime,Referral
+NC201348,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC201349,AB,Calgary,25-34,Prime,Organic Search
+NC201350,ON,Windsor,25-34,Prime,Organic Search
+NC201351,AB,Calgary,18-24,Near-Prime,Organic Search
+NC201352,ON,Mississauga,25-34,Subprime,Paid Search
+NC201353,NL,St. John's,45-54,Prime,Referral
+NC201354,ON,Kitchener,35-44,Subprime,Referral
+NC201355,ON,Ottawa,25-34,Near-Prime,Paid Search
+NC201356,ON,Toronto,35-44,Prime,Email/CRM
+NC201357,ON,Kitchener,25-34,Subprime,Direct
+NC201358,QC,Montreal,18-24,Near-Prime,Direct
+NC201359,ON,Mississauga,35-44,Subprime,Organic Search
+NC201360,NL,St. John's,35-44,Prime,Paid Search
+NC201361,SK,Regina,25-34,Subprime,Referral
+NC201362,AB,Calgary,25-34,Near-Prime,Email/CRM
+NC201363,ON,Hamilton,18-24,Near-Prime,Paid Search
+NC201364,ON,Windsor,25-34,Prime,Email/CRM
+NC201365,AB,Calgary,25-34,Near-Prime,Paid Search
+NC201366,ON,Ottawa,45-54,Prime,Organic Search
+NC201367,ON,London,45-54,Near-Prime,Direct
+NC201368,BC,Kelowna,35-44,Subprime,Referral
+NC201369,ON,Kitchener,35-44,Near-Prime,Organic Search
+NC201370,ON,Toronto,55-64,Near-Prime,Referral
+NC201371,ON,Windsor,45-54,Near-Prime,Organic Search
+NC201372,ON,Windsor,25-34,Subprime,Direct
+NC201373,ON,London,65+,Subprime,Organic Search
+NC201374,ON,Mississauga,35-44,Prime,Paid Search
+NC201375,ON,Mississauga,45-54,Subprime,Organic Search
+NC201376,ON,Mississauga,45-54,Near-Prime,Email/CRM
+NC201377,QC,Laval,45-54,Subprime,Organic Search
+NC201378,ON,Ottawa,45-54,Subprime,Organic Search
+NC201379,ON,Kitchener,25-34,Prime,Referral
+NC201380,ON,Ottawa,45-54,Prime,Referral
+NC201381,ON,Ottawa,25-34,Prime,Organic Search
+NC201382,AB,Red Deer,25-34,Prime,Direct
+NC201383,ON,Mississauga,65+,Prime,Email/CRM
+NC201384,ON,Mississauga,25-34,Subprime,Referral
+NC201385,ON,Windsor,45-54,Prime,Organic Search
+NC201386,ON,Mississauga,35-44,Subprime,Direct
+NC201387,AB,Calgary,35-44,Prime,Organic Search
+NC201388,ON,Windsor,55-64,Prime,Email/CRM
+NC201389,MB,Winnipeg,35-44,Prime,Paid Search
+NC201390,SK,Regina,45-54,Prime,Paid Search
+NC201391,QC,Quebec City,18-24,Subprime,Direct
+NC201392,SK,Saskatoon,25-34,Subprime,Paid Search
+NC201393,AB,Red Deer,25-34,Near-Prime,Organic Search
+NC201394,ON,Ottawa,55-64,Subprime,Paid Search
+NC201395,ON,Mississauga,55-64,Prime,Organic Search
+NC201396,ON,Toronto,25-34,Prime,Email/CRM
+NC201397,MB,Winnipeg,45-54,Prime,Paid Search
+NC201398,ON,Toronto,55-64,Near-Prime,Paid Social
+NC201399,ON,Kitchener,55-64,Subprime,Organic Search
+NC201400,ON,Toronto,45-54,Near-Prime,Paid Search
+NC201401,ON,Toronto,55-64,Prime,Email/CRM
+NC201402,ON,Ottawa,25-34,Prime,Paid Search
+NC201403,QC,Laval,35-44,Prime,Paid Search
+NC201404,ON,London,25-34,Subprime,Organic Search
+NC201405,NB,Saint John,45-54,Prime,Organic Search
+NC201406,ON,London,45-54,Prime,Paid Social
+NC201407,NS,Halifax,35-44,Prime,Email/CRM
+NC201408,ON,Ottawa,25-34,Prime,Organic Search
+NC201409,ON,Hamilton,55-64,Prime,Paid Social
+NC201410,ON,Kitchener,35-44,Prime,Referral
+NC201411,BC,Surrey,55-64,Subprime,Referral
+NC201412,AB,Edmonton,55-64,Prime,Paid Search
+NC201413,AB,Calgary,65+,Prime,Direct
+NC201414,ON,Toronto,25-34,Prime,Paid Search
+NC201415,SK,Regina,45-54,Prime,Paid Search
+NC201416,NB,Moncton,65+,Prime,Email/CRM
+NC201417,BC,Victoria,45-54,Prime,Direct
+NC201418,QC,Montreal,65+,Prime,Email/CRM
+NC201419,NS,Halifax,25-34,Subprime,Paid Search
+NC201420,ON,London,35-44,Near-Prime,Direct
+NC201421,BC,Kelowna,65+,Prime,Direct
+NC201422,QC,Quebec City,25-34,Prime,Email/CRM
+NC201423,ON,Hamilton,55-64,Prime,Organic Search
+NC201424,AB,Edmonton,25-34,Near-Prime,Email/CRM
+NC201425,AB,Red Deer,65+,Subprime,Organic Search
+NC201426,ON,London,18-24,Near-Prime,Email/CRM
+NC201427,QC,Laval,35-44,Prime,Organic Search
+NC201428,MB,Winnipeg,45-54,Near-Prime,Paid Search
+NC201429,ON,Toronto,35-44,Prime,Referral
+NC201430,PE,Charlottetown,55-64,Prime,Paid Social
+NC201431,ON,Mississauga,35-44,Prime,Direct
+NC201432,ON,London,65+,Prime,Organic Search
+NC201433,SK,Regina,35-44,Prime,Organic Search
+NC201434,ON,Windsor,18-24,Near-Prime,Organic Search
+NC201435,ON,Hamilton,35-44,Prime,Paid Social
+NC201436,ON,Windsor,45-54,Prime,Email/CRM
+NC201437,BC,Vancouver,25-34,Subprime,Paid Search
+NC201438,SK,Saskatoon,18-24,Near-Prime,Direct
+NC201439,AB,Calgary,45-54,Near-Prime,Organic Search
+NC201440,AB,Calgary,25-34,Near-Prime,Email/CRM
+NC201441,QC,Montreal,25-34,Near-Prime,Referral
+NC201442,AB,Calgary,25-34,Subprime,Referral
+NC201443,ON,London,45-54,Near-Prime,Direct
+NC201444,AB,Red Deer,45-54,Prime,Direct
+NC201445,AB,Edmonton,45-54,Prime,Paid Social
+NC201446,ON,Mississauga,25-34,Prime,Direct
+NC201447,MB,Winnipeg,35-44,Near-Prime,Paid Search
+NC201448,AB,Red Deer,45-54,Prime,Direct
+NC201449,ON,Ottawa,25-34,Near-Prime,Organic Search
+NC201450,ON,London,25-34,Prime,Referral
+NC201451,SK,Saskatoon,25-34,Subprime,Organic Search
+NC201452,ON,Kitchener,35-44,Prime,Organic Search
+NC201453,QC,Laval,55-64,Near-Prime,Organic Search
+NC201454,ON,Ottawa,35-44,Near-Prime,Direct
+NC201455,ON,Kitchener,35-44,Prime,Paid Search
+NC201456,ON,Windsor,25-34,Subprime,Referral
+NC201457,AB,Red Deer,55-64,Near-Prime,Direct
+NC201458,NL,St. John's,25-34,Near-Prime,Organic Search
+NC201459,ON,Hamilton,45-54,Prime,Email/CRM
+NC201460,ON,Toronto,35-44,Prime,Organic Search
+NC201461,ON,Mississauga,55-64,Near-Prime,Organic Search
+NC201462,NS,Halifax,25-34,Prime,Organic Search
+NC201463,ON,Mississauga,45-54,Prime,Organic Search
+NC201464,ON,Kitchener,35-44,Prime,Marketplace Syndication
+NC201465,BC,Victoria,25-34,Prime,Direct
+NC201466,ON,Windsor,35-44,Prime,Email/CRM
+NC201467,ON,Hamilton,35-44,Prime,Paid Search
+NC201468,SK,Saskatoon,25-34,Near-Prime,Paid Social
+NC201469,BC,Victoria,18-24,Subprime,Paid Social
+NC201470,ON,London,18-24,Subprime,Paid Search
+NC201471,ON,Windsor,25-34,Prime,Paid Social
+NC201472,BC,Victoria,65+,Prime,Referral
+NC201473,AB,Edmonton,25-34,Near-Prime,Direct
+NC201474,ON,London,35-44,Subprime,Paid Search
+NC201475,ON,Toronto,55-64,Near-Prime,Paid Search
+NC201476,ON,Kitchener,55-64,Prime,Email/CRM
+NC201477,ON,Windsor,45-54,Subprime,Paid Social
+NC201478,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC201479,ON,Kitchener,25-34,Prime,Direct
+NC201480,ON,Toronto,25-34,Subprime,Organic Search
+NC201481,BC,Vancouver,55-64,Near-Prime,Organic Search
+NC201482,AB,Red Deer,45-54,Subprime,Referral
+NC201483,AB,Calgary,25-34,Near-Prime,Organic Search
+NC201484,NS,Halifax,25-34,Near-Prime,Direct
+NC201485,ON,Ottawa,35-44,Subprime,Referral
+NC201486,ON,Ottawa,35-44,Prime,Marketplace Syndication
+NC201487,ON,Ottawa,18-24,Prime,Paid Search
+NC201488,SK,Regina,25-34,Near-Prime,Organic Search
+NC201489,BC,Vancouver,25-34,Near-Prime,Organic Search
+NC201490,ON,London,55-64,Prime,Paid Social
+NC201491,NS,Halifax,45-54,Subprime,Organic Search
+NC201492,ON,Ottawa,35-44,Subprime,Referral
+NC201493,ON,Mississauga,18-24,Near-Prime,Organic Search
+NC201494,ON,Ottawa,55-64,Prime,Organic Search
+NC201495,ON,Ottawa,45-54,Prime,Direct
+NC201496,ON,Ottawa,18-24,Subprime,Referral
+NC201497,ON,Ottawa,55-64,Prime,Direct
+NC201498,ON,Windsor,55-64,Prime,Direct
+NC201499,BC,Vancouver,55-64,Subprime,Paid Search
+NC201500,ON,Ottawa,35-44,Prime,Email/CRM
+NC201501,ON,London,65+,Subprime,Referral
+NC201502,ON,Hamilton,65+,Prime,Organic Search
+NC201503,ON,Windsor,55-64,Near-Prime,Organic Search
+NC201504,AB,Red Deer,25-34,Prime,Referral
+NC201505,ON,Hamilton,65+,Prime,Direct
+NC201506,ON,Windsor,35-44,Prime,Referral
+NC201507,MB,Winnipeg,25-34,Prime,Direct
+NC201508,ON,Mississauga,25-34,Prime,Direct
+NC201509,ON,Ottawa,35-44,Subprime,Organic Search
+NC201510,QC,Montreal,35-44,Subprime,Referral
+NC201511,AB,Edmonton,18-24,Prime,Direct
+NC201512,ON,London,35-44,Prime,Email/CRM
+NC201513,AB,Calgary,55-64,Subprime,Direct
+NC201514,NL,St. John's,25-34,Near-Prime,Organic Search
+NC201515,AB,Calgary,55-64,Prime,Referral
+NC201516,PE,Charlottetown,35-44,Prime,Paid Search
+NC201517,ON,Hamilton,18-24,Near-Prime,Direct
+NC201518,AB,Edmonton,65+,Subprime,Direct
+NC201519,BC,Kelowna,35-44,Prime,Referral
+NC201520,ON,Hamilton,25-34,Prime,Organic Search
+NC201521,QC,Quebec City,35-44,Prime,Email/CRM
+NC201522,ON,Mississauga,55-64,Prime,Email/CRM
+NC201523,ON,Hamilton,35-44,Prime,Paid Search
+NC201524,AB,Edmonton,35-44,Prime,Referral
+NC201525,ON,Windsor,35-44,Prime,Organic Search
+NC201526,AB,Edmonton,45-54,Prime,Organic Search
+NC201527,NB,Saint John,25-34,Prime,Referral
+NC201528,ON,Ottawa,45-54,Prime,Email/CRM
+NC201529,PE,Charlottetown,35-44,Prime,Email/CRM
+NC201530,ON,London,45-54,Prime,Direct
+NC201531,BC,Victoria,25-34,Prime,Direct
+NC201532,ON,Kitchener,25-34,Prime,Marketplace Syndication
+NC201533,ON,London,18-24,Prime,Direct
+NC201534,AB,Calgary,35-44,Subprime,Organic Search
+NC201535,BC,Kelowna,65+,Prime,Direct
+NC201536,ON,Mississauga,65+,Prime,Referral
+NC201537,AB,Calgary,55-64,Near-Prime,Paid Social
+NC201538,AB,Edmonton,35-44,Prime,Email/CRM
+NC201539,ON,Hamilton,45-54,Prime,Direct
+NC201540,ON,Windsor,18-24,Prime,Organic Search
+NC201541,BC,Surrey,25-34,Prime,Paid Search
+NC201542,ON,London,35-44,Near-Prime,Referral
+NC201543,NS,Halifax,45-54,Prime,Organic Search
+NC201544,ON,Ottawa,55-64,Prime,Organic Search
+NC201545,ON,Windsor,55-64,Prime,Paid Search
+NC201546,ON,Kitchener,35-44,Near-Prime,Direct
+NC201547,ON,Hamilton,55-64,Subprime,Organic Search
+NC201548,ON,Kitchener,25-34,Prime,Organic Search
+NC201549,NS,Halifax,55-64,Near-Prime,Email/CRM
+NC201550,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC201551,ON,Windsor,25-34,Near-Prime,Paid Search
+NC201552,SK,Regina,35-44,Near-Prime,Referral
+NC201553,ON,Ottawa,25-34,Prime,Organic Search
+NC201554,ON,Ottawa,35-44,Prime,Organic Search
+NC201555,ON,Toronto,35-44,Prime,Organic Search
+NC201556,ON,Hamilton,18-24,Prime,Referral
+NC201557,AB,Red Deer,45-54,Near-Prime,Paid Search
+NC201558,AB,Calgary,25-34,Near-Prime,Direct
+NC201559,SK,Saskatoon,45-54,Prime,Organic Search
+NC201560,QC,Laval,35-44,Prime,Referral
+NC201561,NS,Halifax,25-34,Near-Prime,Direct
+NC201562,ON,Ottawa,35-44,Near-Prime,Direct
+NC201563,BC,Victoria,25-34,Near-Prime,Paid Search
+NC201564,AB,Calgary,35-44,Prime,Paid Search
+NC201565,ON,Kitchener,45-54,Prime,Organic Search
+NC201566,ON,Kitchener,65+,Prime,Organic Search
+NC201567,ON,Hamilton,25-34,Prime,Paid Search
+NC201568,AB,Calgary,45-54,Prime,Email/CRM
+NC201569,AB,Edmonton,45-54,Prime,Organic Search
+NC201570,NS,Halifax,55-64,Near-Prime,Email/CRM
+NC201571,AB,Calgary,65+,Near-Prime,Direct
+NC201572,ON,Kitchener,35-44,Prime,Email/CRM
+NC201573,ON,Kitchener,45-54,Prime,Marketplace Syndication
+NC201574,ON,Kitchener,35-44,Near-Prime,Paid Search
+NC201575,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC201576,ON,London,65+,Prime,Organic Search
+NC201577,AB,Edmonton,25-34,Prime,Referral
+NC201578,SK,Saskatoon,45-54,Near-Prime,Direct
+NC201579,MB,Winnipeg,35-44,Prime,Paid Social
+NC201580,QC,Montreal,65+,Near-Prime,Organic Search
+NC201581,ON,London,45-54,Prime,Direct
+NC201582,ON,Toronto,55-64,Prime,Direct
+NC201583,BC,Kelowna,35-44,Near-Prime,Email/CRM
+NC201584,ON,Windsor,65+,Prime,Organic Search
+NC201585,AB,Red Deer,55-64,Prime,Referral
+NC201586,ON,Windsor,25-34,Prime,Direct
+NC201587,ON,Mississauga,35-44,Prime,Direct
+NC201588,ON,Kitchener,35-44,Prime,Organic Search
+NC201589,BC,Vancouver,25-34,Prime,Paid Search
+NC201590,ON,Mississauga,25-34,Prime,Email/CRM
+NC201591,ON,Kitchener,55-64,Subprime,Paid Search
+NC201592,ON,Mississauga,45-54,Subprime,Email/CRM
+NC201593,NL,St. John's,35-44,Subprime,Organic Search
+NC201594,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC201595,AB,Calgary,55-64,Prime,Paid Search
+NC201596,AB,Edmonton,25-34,Prime,Email/CRM
+NC201597,ON,Toronto,25-34,Prime,Organic Search
+NC201598,NS,Halifax,65+,Prime,Referral
+NC201599,ON,Mississauga,55-64,Prime,Direct
+NC201600,ON,Ottawa,65+,Prime,Referral
+NC201601,ON,Toronto,45-54,Subprime,Direct
+NC201602,MB,Winnipeg,55-64,Prime,Paid Search
+NC201603,ON,London,35-44,Near-Prime,Paid Social
+NC201604,ON,Toronto,35-44,Prime,Organic Search
+NC201605,ON,Mississauga,18-24,Near-Prime,Referral
+NC201606,NB,Moncton,25-34,Prime,Organic Search
+NC201607,NB,Moncton,45-54,Near-Prime,Email/CRM
+NC201608,ON,Toronto,18-24,Subprime,Email/CRM
+NC201609,ON,London,65+,Near-Prime,Paid Search
+NC201610,ON,Mississauga,25-34,Prime,Paid Search
+NC201611,SK,Saskatoon,45-54,Prime,Paid Search
+NC201612,ON,Toronto,45-54,Prime,Direct
+NC201613,AB,Edmonton,45-54,Subprime,Organic Search
+NC201614,SK,Saskatoon,35-44,Near-Prime,Direct
+NC201615,NB,Saint John,45-54,Prime,Direct
+NC201616,NS,Halifax,35-44,Near-Prime,Paid Social
+NC201617,ON,Kitchener,55-64,Prime,Paid Social
+NC201618,ON,Windsor,25-34,Prime,Paid Social
+NC201619,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC201620,ON,London,25-34,Near-Prime,Organic Search
+NC201621,MB,Winnipeg,45-54,Subprime,Paid Search
+NC201622,ON,Toronto,45-54,Prime,Email/CRM
+NC201623,ON,Hamilton,65+,Near-Prime,Email/CRM
+NC201624,ON,Kitchener,55-64,Near-Prime,Referral
+NC201625,ON,Windsor,65+,Near-Prime,Email/CRM
+NC201626,ON,Toronto,25-34,Prime,Organic Search
+NC201627,ON,London,65+,Subprime,Email/CRM
+NC201628,ON,Windsor,55-64,Prime,Organic Search
+NC201629,BC,Vancouver,35-44,Prime,Paid Search
+NC201630,NS,Halifax,25-34,Prime,Referral
+NC201631,BC,Surrey,25-34,Prime,Organic Search
+NC201632,ON,Hamilton,45-54,Near-Prime,Organic Search
+NC201633,ON,Kitchener,35-44,Prime,Organic Search
+NC201634,NL,St. John's,35-44,Prime,Organic Search
+NC201635,BC,Surrey,25-34,Near-Prime,Organic Search
+NC201636,ON,Kitchener,35-44,Subprime,Referral
+NC201637,ON,Windsor,35-44,Near-Prime,Organic Search
+NC201638,BC,Surrey,25-34,Near-Prime,Direct
+NC201639,QC,Quebec City,25-34,Near-Prime,Organic Search
+NC201640,BC,Surrey,25-34,Prime,Organic Search
+NC201641,ON,Hamilton,18-24,Prime,Organic Search
+NC201642,ON,Kitchener,25-34,Subprime,Paid Search
+NC201643,QC,Quebec City,35-44,Near-Prime,Referral
+NC201644,ON,Hamilton,35-44,Near-Prime,Paid Search
+NC201645,AB,Red Deer,45-54,Near-Prime,Referral
+NC201646,AB,Red Deer,25-34,Prime,Paid Search
+NC201647,ON,Toronto,25-34,Prime,Organic Search
+NC201648,NS,Halifax,25-34,Prime,Paid Social
+NC201649,ON,Ottawa,55-64,Prime,Paid Search
+NC201650,ON,Toronto,35-44,Prime,Email/CRM
+NC201651,ON,Ottawa,45-54,Prime,Direct
+NC201652,SK,Regina,65+,Prime,Direct
+NC201653,ON,London,55-64,Near-Prime,Paid Search
+NC201654,ON,Ottawa,45-54,Prime,Paid Search
+NC201655,AB,Red Deer,35-44,Prime,Direct
+NC201656,ON,Mississauga,25-34,Prime,Organic Search
+NC201657,ON,Hamilton,35-44,Prime,Organic Search
+NC201658,AB,Red Deer,55-64,Prime,Organic Search
+NC201659,ON,London,35-44,Subprime,Organic Search
+NC201660,QC,Montreal,55-64,Prime,Email/CRM
+NC201661,SK,Regina,35-44,Near-Prime,Direct
+NC201662,MB,Winnipeg,35-44,Prime,Organic Search
+NC201663,ON,Ottawa,25-34,Prime,Organic Search
+NC201664,AB,Edmonton,35-44,Near-Prime,Email/CRM
+NC201665,ON,Kitchener,35-44,Prime,Paid Social
+NC201666,ON,Hamilton,55-64,Near-Prime,Organic Search
+NC201667,ON,Windsor,35-44,Near-Prime,Email/CRM
+NC201668,MB,Winnipeg,35-44,Prime,Paid Search
+NC201669,BC,Surrey,35-44,Prime,Marketplace Syndication
+NC201670,MB,Winnipeg,25-34,Subprime,Paid Search
+NC201671,ON,Hamilton,55-64,Prime,Paid Search
+NC201672,ON,Windsor,35-44,Prime,Direct
+NC201673,ON,London,55-64,Prime,Referral
+NC201674,ON,Ottawa,25-34,Prime,Referral
+NC201675,BC,Victoria,55-64,Prime,Email/CRM
+NC201676,ON,London,35-44,Near-Prime,Referral
+NC201677,NB,Saint John,45-54,Subprime,Referral
+NC201678,ON,Ottawa,45-54,Prime,Direct
+NC201679,ON,Windsor,35-44,Prime,Direct
+NC201680,BC,Surrey,35-44,Prime,Direct
+NC201681,ON,Kitchener,35-44,Prime,Email/CRM
+NC201682,BC,Vancouver,25-34,Prime,Organic Search
+NC201683,ON,Mississauga,65+,Near-Prime,Direct
+NC201684,ON,Mississauga,35-44,Subprime,Referral
+NC201685,BC,Victoria,25-34,Near-Prime,Paid Search
+NC201686,ON,London,65+,Prime,Direct
+NC201687,ON,Toronto,55-64,Near-Prime,Direct
+NC201688,SK,Regina,35-44,Subprime,Paid Search
+NC201689,AB,Edmonton,35-44,Prime,Email/CRM
+NC201690,QC,Laval,25-34,Prime,Organic Search
+NC201691,ON,Mississauga,25-34,Prime,Direct
+NC201692,BC,Victoria,45-54,Prime,Organic Search
+NC201693,BC,Surrey,35-44,Prime,Direct
+NC201694,QC,Laval,45-54,Prime,Referral
+NC201695,ON,Windsor,45-54,Prime,Paid Search
+NC201696,QC,Laval,35-44,Prime,Direct
+NC201697,NS,Halifax,18-24,Prime,Referral
+NC201698,ON,Toronto,25-34,Near-Prime,Referral
+NC201699,BC,Victoria,25-34,Prime,Email/CRM
+NC201700,ON,Hamilton,25-34,Near-Prime,Referral
+NC201701,ON,Hamilton,25-34,Prime,Referral
+NC201702,ON,Kitchener,35-44,Prime,Direct
+NC201703,QC,Montreal,45-54,Near-Prime,Organic Search
+NC201704,ON,Kitchener,25-34,Prime,Direct
+NC201705,AB,Calgary,18-24,Near-Prime,Organic Search
+NC201706,ON,Ottawa,45-54,Near-Prime,Direct
+NC201707,ON,Kitchener,25-34,Prime,Organic Search
+NC201708,SK,Regina,55-64,Prime,Direct
+NC201709,ON,Toronto,45-54,Prime,Email/CRM
+NC201710,ON,London,25-34,Near-Prime,Referral
+NC201711,QC,Laval,45-54,Prime,Referral
+NC201712,ON,Windsor,25-34,Subprime,Email/CRM
+NC201713,AB,Calgary,55-64,Prime,Organic Search
+NC201714,NS,Halifax,65+,Near-Prime,Referral
+NC201715,AB,Edmonton,45-54,Subprime,Direct
+NC201716,QC,Montreal,25-34,Subprime,Referral
+NC201717,BC,Kelowna,55-64,Prime,Referral
+NC201718,AB,Calgary,18-24,Near-Prime,Referral
+NC201719,ON,London,45-54,Near-Prime,Paid Search
+NC201720,ON,Kitchener,25-34,Prime,Referral
+NC201721,AB,Red Deer,65+,Near-Prime,Marketplace Syndication
+NC201722,ON,London,35-44,Prime,Direct
+NC201723,AB,Edmonton,45-54,Prime,Referral
+NC201724,QC,Laval,18-24,Subprime,Direct
+NC201725,QC,Montreal,35-44,Subprime,Referral
+NC201726,ON,Ottawa,55-64,Subprime,Email/CRM
+NC201727,ON,Toronto,55-64,Prime,Email/CRM
+NC201728,ON,Kitchener,25-34,Prime,Paid Search
+NC201729,NB,Moncton,55-64,Near-Prime,Paid Social
+NC201730,ON,London,25-34,Prime,Organic Search
+NC201731,ON,London,35-44,Near-Prime,Email/CRM
+NC201732,AB,Red Deer,35-44,Prime,Organic Search
+NC201733,AB,Edmonton,18-24,Near-Prime,Marketplace Syndication
+NC201734,NB,Saint John,55-64,Prime,Referral
+NC201735,ON,Toronto,35-44,Prime,Marketplace Syndication
+NC201736,QC,Quebec City,35-44,Near-Prime,Direct
+NC201737,AB,Calgary,25-34,Near-Prime,Organic Search
+NC201738,ON,Mississauga,45-54,Prime,Paid Search
+NC201739,ON,Windsor,45-54,Near-Prime,Organic Search
+NC201740,NS,Halifax,35-44,Prime,Email/CRM
+NC201741,QC,Montreal,55-64,Prime,Email/CRM
+NC201742,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC201743,ON,Windsor,45-54,Near-Prime,Direct
+NC201744,ON,Hamilton,35-44,Prime,Organic Search
+NC201745,ON,London,45-54,Prime,Paid Search
+NC201746,AB,Red Deer,45-54,Prime,Referral
+NC201747,ON,Ottawa,25-34,Prime,Paid Search
+NC201748,ON,Kitchener,35-44,Prime,Organic Search
+NC201749,BC,Vancouver,35-44,Near-Prime,Paid Social
+NC201750,BC,Surrey,25-34,Prime,Organic Search
+NC201751,AB,Red Deer,35-44,Near-Prime,Paid Social
+NC201752,ON,London,65+,Near-Prime,Direct
+NC201753,ON,London,55-64,Prime,Paid Search
+NC201754,ON,Hamilton,35-44,Near-Prime,Paid Search
+NC201755,QC,Montreal,25-34,Prime,Direct
+NC201756,ON,Toronto,55-64,Near-Prime,Direct
+NC201757,AB,Edmonton,45-54,Prime,Organic Search
+NC201758,ON,Mississauga,25-34,Subprime,Direct
+NC201759,ON,Windsor,18-24,Near-Prime,Direct
+NC201760,QC,Laval,18-24,Subprime,Organic Search
+NC201761,ON,Toronto,45-54,Near-Prime,Paid Search
+NC201762,MB,Winnipeg,25-34,Near-Prime,Referral
+NC201763,ON,Ottawa,18-24,Near-Prime,Organic Search
+NC201764,QC,Quebec City,35-44,Near-Prime,Direct
+NC201765,ON,Windsor,25-34,Prime,Paid Search
+NC201766,BC,Victoria,25-34,Near-Prime,Marketplace Syndication
+NC201767,ON,Toronto,45-54,Subprime,Email/CRM
+NC201768,ON,London,35-44,Near-Prime,Email/CRM
+NC201769,ON,Ottawa,45-54,Prime,Organic Search
+NC201770,ON,Mississauga,35-44,Subprime,Referral
+NC201771,NB,Saint John,25-34,Prime,Referral
+NC201772,MB,Winnipeg,35-44,Prime,Organic Search
+NC201773,ON,Toronto,45-54,Subprime,Email/CRM
+NC201774,NS,Halifax,35-44,Prime,Referral
+NC201775,ON,London,35-44,Prime,Referral
+NC201776,ON,Kitchener,25-34,Near-Prime,Organic Search
+NC201777,ON,Windsor,25-34,Prime,Direct
+NC201778,ON,Kitchener,35-44,Near-Prime,Direct
+NC201779,ON,Hamilton,35-44,Prime,Direct
+NC201780,NS,Halifax,55-64,Prime,Referral
+NC201781,ON,Mississauga,65+,Near-Prime,Marketplace Syndication
+NC201782,ON,Ottawa,35-44,Prime,Organic Search
+NC201783,BC,Kelowna,25-34,Prime,Direct
+NC201784,AB,Edmonton,25-34,Subprime,Email/CRM
+NC201785,NB,Saint John,18-24,Subprime,Organic Search
+NC201786,QC,Montreal,65+,Prime,Organic Search
+NC201787,MB,Winnipeg,45-54,Subprime,Organic Search
+NC201788,ON,Toronto,45-54,Subprime,Organic Search
+NC201789,QC,Montreal,35-44,Near-Prime,Referral
+NC201790,SK,Saskatoon,45-54,Prime,Email/CRM
+NC201791,ON,Ottawa,55-64,Prime,Paid Search
+NC201792,ON,Mississauga,35-44,Prime,Organic Search
+NC201793,QC,Laval,35-44,Prime,Organic Search
+NC201794,ON,Kitchener,35-44,Prime,Paid Social
+NC201795,NS,Halifax,35-44,Subprime,Referral
+NC201796,SK,Saskatoon,35-44,Subprime,Referral
+NC201797,ON,Ottawa,25-34,Prime,Organic Search
+NC201798,ON,Ottawa,25-34,Prime,Organic Search
+NC201799,AB,Calgary,35-44,Prime,Organic Search
+NC201800,ON,Windsor,35-44,Prime,Organic Search
+NC201801,BC,Kelowna,35-44,Prime,Paid Social
+NC201802,MB,Winnipeg,45-54,Prime,Email/CRM
+NC201803,ON,Windsor,55-64,Subprime,Referral
+NC201804,ON,Kitchener,35-44,Prime,Paid Search
+NC201805,ON,Windsor,25-34,Prime,Email/CRM
+NC201806,PE,Charlottetown,45-54,Prime,Organic Search
+NC201807,AB,Edmonton,25-34,Prime,Paid Search
+NC201808,ON,Windsor,25-34,Near-Prime,Direct
+NC201809,MB,Winnipeg,18-24,Prime,Email/CRM
+NC201810,SK,Saskatoon,35-44,Prime,Direct
+NC201811,BC,Surrey,55-64,Near-Prime,Organic Search
+NC201812,ON,Hamilton,65+,Prime,Paid Search
+NC201813,ON,Toronto,25-34,Near-Prime,Referral
+NC201814,ON,Windsor,35-44,Near-Prime,Direct
+NC201815,AB,Edmonton,35-44,Prime,Referral
+NC201816,QC,Quebec City,25-34,Near-Prime,Organic Search
+NC201817,MB,Winnipeg,35-44,Prime,Referral
+NC201818,ON,Hamilton,25-34,Prime,Direct
+NC201819,ON,Toronto,45-54,Prime,Email/CRM
+NC201820,BC,Kelowna,55-64,Subprime,Direct
+NC201821,ON,Windsor,55-64,Prime,Organic Search
+NC201822,ON,London,25-34,Prime,Organic Search
+NC201823,BC,Vancouver,25-34,Prime,Paid Search
+NC201824,ON,Toronto,35-44,Prime,Direct
+NC201825,ON,Hamilton,35-44,Prime,Referral
+NC201826,ON,Hamilton,35-44,Prime,Direct
+NC201827,ON,Windsor,35-44,Subprime,Direct
+NC201828,AB,Edmonton,25-34,Near-Prime,Paid Search
+NC201829,AB,Red Deer,25-34,Subprime,Paid Search
+NC201830,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC201831,ON,Ottawa,65+,Subprime,Paid Search
+NC201832,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC201833,ON,London,35-44,Near-Prime,Direct
+NC201834,ON,Mississauga,65+,Prime,Marketplace Syndication
+NC201835,ON,Toronto,55-64,Near-Prime,Organic Search
+NC201836,MB,Winnipeg,45-54,Prime,Referral
+NC201837,BC,Kelowna,35-44,Near-Prime,Paid Search
+NC201838,ON,Toronto,45-54,Near-Prime,Paid Search
+NC201839,ON,Toronto,45-54,Near-Prime,Direct
+NC201840,ON,Ottawa,35-44,Near-Prime,Direct
+NC201841,MB,Winnipeg,35-44,Near-Prime,Direct
+NC201842,ON,Windsor,25-34,Subprime,Referral
+NC201843,QC,Montreal,35-44,Subprime,Paid Search
+NC201844,ON,Mississauga,35-44,Prime,Direct
+NC201845,ON,Kitchener,65+,Prime,Organic Search
+NC201846,QC,Quebec City,45-54,Near-Prime,Email/CRM
+NC201847,ON,Mississauga,55-64,Prime,Marketplace Syndication
+NC201848,QC,Quebec City,45-54,Prime,Direct
+NC201849,BC,Victoria,25-34,Subprime,Organic Search
+NC201850,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC201851,MB,Winnipeg,65+,Near-Prime,Email/CRM
+NC201852,ON,Mississauga,25-34,Prime,Referral
+NC201853,MB,Winnipeg,35-44,Subprime,Referral
+NC201854,ON,Toronto,55-64,Near-Prime,Organic Search
+NC201855,AB,Red Deer,25-34,Subprime,Paid Social
+NC201856,SK,Regina,35-44,Prime,Email/CRM
+NC201857,ON,Ottawa,55-64,Prime,Organic Search
+NC201858,ON,London,45-54,Near-Prime,Paid Search
+NC201859,ON,Mississauga,35-44,Prime,Organic Search
+NC201860,ON,Hamilton,65+,Prime,Direct
+NC201861,ON,Toronto,25-34,Prime,Direct
+NC201862,ON,Hamilton,45-54,Subprime,Organic Search
+NC201863,ON,Kitchener,18-24,Prime,Direct
+NC201864,BC,Vancouver,25-34,Prime,Organic Search
+NC201865,BC,Victoria,25-34,Prime,Email/CRM
+NC201866,AB,Red Deer,55-64,Near-Prime,Organic Search
+NC201867,AB,Edmonton,55-64,Prime,Email/CRM
+NC201868,SK,Saskatoon,35-44,Subprime,Paid Search
+NC201869,AB,Calgary,35-44,Near-Prime,Organic Search
+NC201870,ON,Toronto,35-44,Prime,Email/CRM
+NC201871,ON,Mississauga,25-34,Prime,Direct
+NC201872,ON,Kitchener,45-54,Prime,Paid Social
+NC201873,ON,Windsor,25-34,Prime,Paid Search
+NC201874,SK,Saskatoon,25-34,Prime,Organic Search
+NC201875,AB,Edmonton,45-54,Near-Prime,Organic Search
+NC201876,ON,Toronto,45-54,Prime,Organic Search
+NC201877,AB,Edmonton,25-34,Prime,Referral
+NC201878,ON,Windsor,45-54,Subprime,Email/CRM
+NC201879,ON,London,65+,Prime,Referral
+NC201880,BC,Vancouver,55-64,Prime,Paid Search
+NC201881,NS,Halifax,25-34,Near-Prime,Referral
+NC201882,ON,Ottawa,25-34,Prime,Organic Search
+NC201883,MB,Winnipeg,45-54,Prime,Organic Search
+NC201884,ON,Mississauga,25-34,Prime,Referral
+NC201885,AB,Red Deer,35-44,Prime,Paid Search
+NC201886,ON,Hamilton,18-24,Subprime,Referral
+NC201887,QC,Laval,45-54,Near-Prime,Organic Search
+NC201888,SK,Regina,55-64,Near-Prime,Organic Search
+NC201889,PE,Charlottetown,35-44,Prime,Paid Search
+NC201890,BC,Kelowna,55-64,Prime,Email/CRM
+NC201891,BC,Victoria,65+,Prime,Organic Search
+NC201892,ON,Windsor,25-34,Near-Prime,Organic Search
+NC201893,ON,Ottawa,35-44,Prime,Organic Search
+NC201894,ON,Toronto,45-54,Prime,Organic Search
+NC201895,BC,Surrey,25-34,Prime,Organic Search
+NC201896,ON,Hamilton,45-54,Prime,Direct
+NC201897,QC,Montreal,55-64,Prime,Paid Search
+NC201898,BC,Vancouver,45-54,Near-Prime,Email/CRM
+NC201899,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC201900,ON,Mississauga,35-44,Prime,Direct
+NC201901,NL,St. John's,25-34,Prime,Direct
+NC201902,ON,Ottawa,18-24,Subprime,Paid Search
+NC201903,AB,Red Deer,25-34,Near-Prime,Paid Search
+NC201904,SK,Regina,25-34,Subprime,Direct
+NC201905,NB,Moncton,25-34,Prime,Direct
+NC201906,ON,Windsor,45-54,Prime,Email/CRM
+NC201907,ON,Hamilton,35-44,Near-Prime,Marketplace Syndication
+NC201908,SK,Saskatoon,35-44,Near-Prime,Organic Search
+NC201909,ON,Kitchener,65+,Prime,Referral
+NC201910,ON,Windsor,35-44,Near-Prime,Marketplace Syndication
+NC201911,ON,Mississauga,55-64,Subprime,Direct
+NC201912,ON,Hamilton,35-44,Subprime,Marketplace Syndication
+NC201913,ON,London,25-34,Prime,Direct
+NC201914,AB,Red Deer,25-34,Prime,Direct
+NC201915,QC,Quebec City,25-34,Near-Prime,Paid Search
+NC201916,ON,Kitchener,35-44,Prime,Paid Social
+NC201917,NS,Halifax,45-54,Prime,Email/CRM
+NC201918,BC,Vancouver,35-44,Subprime,Paid Social
+NC201919,PE,Charlottetown,45-54,Near-Prime,Marketplace Syndication
+NC201920,QC,Laval,45-54,Near-Prime,Email/CRM
+NC201921,AB,Calgary,35-44,Near-Prime,Referral
+NC201922,ON,Windsor,35-44,Near-Prime,Referral
+NC201923,BC,Surrey,45-54,Subprime,Email/CRM
+NC201924,AB,Red Deer,45-54,Prime,Organic Search
+NC201925,ON,Windsor,45-54,Subprime,Referral
+NC201926,AB,Edmonton,18-24,Subprime,Direct
+NC201927,BC,Kelowna,25-34,Near-Prime,Organic Search
+NC201928,NS,Halifax,55-64,Prime,Organic Search
+NC201929,SK,Regina,45-54,Prime,Paid Search
+NC201930,ON,Hamilton,25-34,Prime,Referral
+NC201931,ON,Ottawa,65+,Near-Prime,Referral
+NC201932,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC201933,ON,Hamilton,65+,Subprime,Direct
+NC201934,ON,Mississauga,25-34,Near-Prime,Paid Search
+NC201935,ON,Hamilton,45-54,Prime,Paid Social
+NC201936,QC,Montreal,65+,Prime,Direct
+NC201937,MB,Winnipeg,35-44,Subprime,Organic Search
+NC201938,ON,Windsor,55-64,Prime,Paid Search
+NC201939,ON,Ottawa,35-44,Prime,Organic Search
+NC201940,BC,Vancouver,45-54,Near-Prime,Email/CRM
+NC201941,MB,Winnipeg,35-44,Subprime,Referral
+NC201942,SK,Saskatoon,25-34,Near-Prime,Direct
+NC201943,MB,Winnipeg,25-34,Prime,Paid Search
+NC201944,QC,Montreal,45-54,Near-Prime,Referral
+NC201945,QC,Laval,25-34,Prime,Paid Search
+NC201946,QC,Montreal,35-44,Prime,Paid Search
+NC201947,QC,Laval,35-44,Prime,Direct
+NC201948,ON,Hamilton,45-54,Prime,Referral
+NC201949,ON,London,25-34,Prime,Email/CRM
+NC201950,AB,Red Deer,25-34,Subprime,Organic Search
+NC201951,QC,Quebec City,45-54,Prime,Organic Search
+NC201952,NB,Saint John,55-64,Subprime,Marketplace Syndication
+NC201953,QC,Laval,55-64,Near-Prime,Referral
+NC201954,ON,Windsor,25-34,Prime,Direct
+NC201955,ON,Ottawa,18-24,Subprime,Paid Search
+NC201956,AB,Red Deer,35-44,Prime,Organic Search
+NC201957,ON,London,35-44,Prime,Referral
+NC201958,AB,Edmonton,65+,Subprime,Paid Search
+NC201959,ON,Toronto,25-34,Prime,Direct
+NC201960,ON,Kitchener,45-54,Prime,Paid Social
+NC201961,ON,London,35-44,Subprime,Organic Search
+NC201962,ON,Hamilton,25-34,Near-Prime,Direct
+NC201963,ON,London,55-64,Subprime,Direct
+NC201964,ON,Hamilton,18-24,Subprime,Paid Social
+NC201965,BC,Kelowna,35-44,Subprime,Paid Search
+NC201966,ON,Windsor,45-54,Prime,Organic Search
+NC201967,ON,Mississauga,35-44,Subprime,Organic Search
+NC201968,ON,Hamilton,25-34,Prime,Email/CRM
+NC201969,ON,London,35-44,Subprime,Direct
+NC201970,ON,Hamilton,25-34,Prime,Organic Search
+NC201971,ON,Hamilton,65+,Prime,Organic Search
+NC201972,ON,Hamilton,65+,Prime,Organic Search
+NC201973,NS,Halifax,55-64,Subprime,Paid Search
+NC201974,ON,Mississauga,25-34,Prime,Paid Search
+NC201975,ON,Hamilton,18-24,Prime,Direct
+NC201976,AB,Calgary,65+,Prime,Paid Social
+NC201977,AB,Red Deer,45-54,Near-Prime,Paid Search
+NC201978,ON,London,55-64,Prime,Organic Search
+NC201979,AB,Red Deer,35-44,Prime,Organic Search
+NC201980,AB,Red Deer,18-24,Near-Prime,Organic Search
+NC201981,ON,Hamilton,45-54,Prime,Organic Search
+NC201982,QC,Laval,55-64,Subprime,Paid Search
+NC201983,ON,Toronto,35-44,Prime,Referral
+NC201984,ON,Ottawa,35-44,Subprime,Direct
+NC201985,BC,Surrey,35-44,Prime,Organic Search
+NC201986,NB,Moncton,45-54,Prime,Direct
+NC201987,AB,Calgary,25-34,Prime,Paid Social
+NC201988,ON,Ottawa,18-24,Subprime,Direct
+NC201989,ON,Ottawa,35-44,Prime,Paid Social
+NC201990,AB,Calgary,25-34,Prime,Paid Search
+NC201991,ON,Ottawa,25-34,Near-Prime,Paid Search
+NC201992,AB,Red Deer,45-54,Prime,Organic Search
+NC201993,AB,Edmonton,45-54,Near-Prime,Organic Search
+NC201994,BC,Vancouver,45-54,Subprime,Direct
+NC201995,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC201996,NS,Halifax,35-44,Near-Prime,Paid Search
+NC201997,ON,Windsor,55-64,Subprime,Organic Search
+NC201998,ON,London,65+,Subprime,Paid Search
+NC201999,ON,Mississauga,35-44,Subprime,Direct
+NC202000,QC,Montreal,35-44,Prime,Paid Social
+NC202001,ON,Hamilton,35-44,Prime,Direct
+NC202002,ON,Windsor,55-64,Subprime,Organic Search
+NC202003,ON,Ottawa,35-44,Prime,Email/CRM
+NC202004,ON,Mississauga,65+,Prime,Referral
+NC202005,QC,Laval,25-34,Prime,Email/CRM
+NC202006,PE,Charlottetown,25-34,Prime,Organic Search
+NC202007,MB,Winnipeg,18-24,Near-Prime,Referral
+NC202008,ON,Toronto,55-64,Prime,Organic Search
+NC202009,AB,Edmonton,65+,Prime,Paid Search
+NC202010,ON,Mississauga,45-54,Subprime,Paid Search
+NC202011,ON,London,35-44,Prime,Paid Social
+NC202012,AB,Red Deer,25-34,Prime,Referral
+NC202013,AB,Red Deer,25-34,Subprime,Marketplace Syndication
+NC202014,ON,Mississauga,45-54,Subprime,Direct
+NC202015,SK,Saskatoon,35-44,Prime,Organic Search
+NC202016,BC,Kelowna,25-34,Near-Prime,Organic Search
+NC202017,BC,Vancouver,25-34,Near-Prime,Email/CRM
+NC202018,NS,Halifax,55-64,Near-Prime,Referral
+NC202019,BC,Kelowna,35-44,Near-Prime,Organic Search
+NC202020,ON,Toronto,45-54,Subprime,Organic Search
+NC202021,AB,Edmonton,45-54,Prime,Paid Search
+NC202022,QC,Laval,55-64,Near-Prime,Paid Search
+NC202023,NB,Saint John,35-44,Prime,Organic Search
+NC202024,BC,Kelowna,65+,Prime,Marketplace Syndication
+NC202025,MB,Winnipeg,35-44,Prime,Direct
+NC202026,NS,Halifax,35-44,Prime,Referral
+NC202027,ON,Toronto,35-44,Near-Prime,Organic Search
+NC202028,AB,Calgary,35-44,Prime,Organic Search
+NC202029,ON,London,45-54,Prime,Direct
+NC202030,ON,Ottawa,45-54,Near-Prime,Organic Search
+NC202031,ON,London,25-34,Prime,Paid Social
+NC202032,SK,Regina,45-54,Prime,Direct
+NC202033,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC202034,BC,Vancouver,35-44,Prime,Organic Search
+NC202035,MB,Winnipeg,25-34,Near-Prime,Referral
+NC202036,ON,Kitchener,35-44,Prime,Paid Social
+NC202037,ON,London,18-24,Near-Prime,Referral
+NC202038,AB,Calgary,25-34,Prime,Email/CRM
+NC202039,MB,Winnipeg,45-54,Subprime,Organic Search
+NC202040,BC,Surrey,18-24,Near-Prime,Direct
+NC202041,ON,Toronto,25-34,Subprime,Organic Search
+NC202042,NB,Saint John,25-34,Subprime,Marketplace Syndication
+NC202043,NL,St. John's,18-24,Near-Prime,Paid Search
+NC202044,ON,Kitchener,55-64,Subprime,Organic Search
+NC202045,NS,Halifax,45-54,Prime,Email/CRM
+NC202046,AB,Edmonton,25-34,Subprime,Paid Social
+NC202047,ON,Kitchener,25-34,Prime,Direct
+NC202048,AB,Calgary,18-24,Near-Prime,Organic Search
+NC202049,BC,Vancouver,45-54,Prime,Direct
+NC202050,ON,Kitchener,45-54,Subprime,Paid Search
+NC202051,ON,Hamilton,25-34,Prime,Referral
+NC202052,BC,Victoria,45-54,Subprime,Organic Search
+NC202053,BC,Surrey,25-34,Prime,Email/CRM
+NC202054,AB,Calgary,35-44,Prime,Paid Search
+NC202055,ON,Kitchener,65+,Prime,Referral
+NC202056,AB,Calgary,55-64,Prime,Referral
+NC202057,BC,Surrey,25-34,Near-Prime,Paid Social
+NC202058,NL,St. John's,35-44,Near-Prime,Organic Search
+NC202059,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC202060,MB,Winnipeg,35-44,Near-Prime,Organic Search
+NC202061,BC,Kelowna,35-44,Prime,Organic Search
+NC202062,ON,Ottawa,25-34,Prime,Paid Search
+NC202063,NB,Moncton,25-34,Near-Prime,Paid Search
+NC202064,AB,Calgary,45-54,Subprime,Referral
+NC202065,MB,Winnipeg,45-54,Prime,Direct
+NC202066,QC,Laval,45-54,Prime,Email/CRM
+NC202067,AB,Red Deer,35-44,Prime,Referral
+NC202068,NS,Halifax,45-54,Near-Prime,Direct
+NC202069,ON,Ottawa,18-24,Prime,Referral
+NC202070,ON,Hamilton,55-64,Prime,Direct
+NC202071,ON,London,25-34,Prime,Organic Search
+NC202072,MB,Winnipeg,35-44,Subprime,Direct
+NC202073,ON,London,55-64,Near-Prime,Paid Social
+NC202074,ON,Kitchener,25-34,Prime,Organic Search
+NC202075,QC,Laval,35-44,Near-Prime,Organic Search
+NC202076,ON,Kitchener,25-34,Prime,Direct
+NC202077,ON,Ottawa,18-24,Prime,Direct
+NC202078,ON,Hamilton,35-44,Prime,Referral
+NC202079,AB,Red Deer,25-34,Prime,Organic Search
+NC202080,AB,Edmonton,35-44,Near-Prime,Email/CRM
+NC202081,NS,Halifax,25-34,Prime,Organic Search
+NC202082,ON,Kitchener,35-44,Near-Prime,Email/CRM
+NC202083,ON,Hamilton,25-34,Prime,Referral
+NC202084,AB,Calgary,35-44,Subprime,Organic Search
+NC202085,NL,St. John's,35-44,Prime,Referral
+NC202086,ON,Hamilton,25-34,Subprime,Paid Search
+NC202087,ON,Hamilton,45-54,Prime,Email/CRM
+NC202088,ON,Hamilton,35-44,Prime,Organic Search
+NC202089,ON,Toronto,35-44,Prime,Organic Search
+NC202090,NS,Halifax,45-54,Prime,Direct
+NC202091,ON,Hamilton,25-34,Prime,Direct
+NC202092,MB,Winnipeg,35-44,Prime,Paid Search
+NC202093,ON,Mississauga,25-34,Near-Prime,Referral
+NC202094,AB,Red Deer,45-54,Near-Prime,Organic Search
+NC202095,QC,Laval,18-24,Prime,Direct
+NC202096,AB,Calgary,65+,Prime,Organic Search
+NC202097,ON,Toronto,55-64,Prime,Paid Search
+NC202098,ON,Mississauga,25-34,Prime,Paid Search
+NC202099,QC,Quebec City,55-64,Subprime,Organic Search
+NC202100,ON,Hamilton,55-64,Prime,Marketplace Syndication
+NC202101,NB,Saint John,35-44,Prime,Email/CRM
+NC202102,SK,Saskatoon,55-64,Prime,Paid Search
+NC202103,ON,Ottawa,45-54,Near-Prime,Email/CRM
+NC202104,NS,Halifax,35-44,Prime,Organic Search
+NC202105,BC,Victoria,65+,Prime,Email/CRM
+NC202106,ON,London,25-34,Prime,Paid Social
+NC202107,BC,Vancouver,35-44,Near-Prime,Email/CRM
+NC202108,ON,Hamilton,65+,Near-Prime,Paid Search
+NC202109,NS,Halifax,35-44,Near-Prime,Direct
+NC202110,ON,Toronto,45-54,Near-Prime,Organic Search
+NC202111,ON,Kitchener,35-44,Prime,Paid Search
+NC202112,ON,Hamilton,25-34,Near-Prime,Paid Social
+NC202113,ON,Windsor,35-44,Prime,Organic Search
+NC202114,ON,Mississauga,25-34,Prime,Referral
+NC202115,ON,London,45-54,Prime,Organic Search
+NC202116,ON,Toronto,25-34,Prime,Paid Search
+NC202117,ON,Ottawa,18-24,Near-Prime,Direct
+NC202118,BC,Kelowna,45-54,Prime,Referral
+NC202119,ON,Toronto,35-44,Subprime,Organic Search
+NC202120,ON,Mississauga,35-44,Prime,Email/CRM
+NC202121,AB,Red Deer,35-44,Prime,Paid Search
+NC202122,ON,Hamilton,25-34,Prime,Organic Search
+NC202123,ON,Mississauga,45-54,Prime,Email/CRM
+NC202124,NB,Saint John,35-44,Subprime,Organic Search
+NC202125,BC,Victoria,55-64,Prime,Direct
+NC202126,BC,Kelowna,25-34,Prime,Paid Search
+NC202127,BC,Kelowna,18-24,Prime,Marketplace Syndication
+NC202128,ON,London,65+,Prime,Referral
+NC202129,ON,Mississauga,35-44,Near-Prime,Direct
+NC202130,ON,Windsor,35-44,Near-Prime,Direct
+NC202131,MB,Winnipeg,25-34,Near-Prime,Referral
+NC202132,QC,Quebec City,25-34,Near-Prime,Referral
+NC202133,AB,Edmonton,18-24,Subprime,Organic Search
+NC202134,QC,Laval,18-24,Prime,Direct
+NC202135,MB,Winnipeg,18-24,Prime,Direct
+NC202136,ON,Kitchener,45-54,Prime,Organic Search
+NC202137,MB,Winnipeg,35-44,Prime,Direct
+NC202138,ON,Kitchener,45-54,Subprime,Paid Search
+NC202139,ON,Toronto,25-34,Prime,Paid Search
+NC202140,ON,London,25-34,Prime,Referral
+NC202141,ON,Kitchener,18-24,Prime,Direct
+NC202142,MB,Winnipeg,35-44,Prime,Direct
+NC202143,BC,Victoria,45-54,Prime,Direct
+NC202144,ON,Kitchener,55-64,Subprime,Referral
+NC202145,BC,Vancouver,55-64,Near-Prime,Referral
+NC202146,QC,Laval,55-64,Subprime,Direct
+NC202147,ON,Kitchener,35-44,Subprime,Referral
+NC202148,ON,Mississauga,35-44,Subprime,Paid Search
+NC202149,ON,Kitchener,18-24,Subprime,Paid Social
+NC202150,ON,Windsor,35-44,Prime,Paid Social
+NC202151,ON,London,55-64,Prime,Direct
+NC202152,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC202153,ON,Toronto,25-34,Prime,Email/CRM
+NC202154,ON,Hamilton,45-54,Prime,Organic Search
+NC202155,SK,Saskatoon,25-34,Prime,Organic Search
+NC202156,ON,Mississauga,25-34,Subprime,Organic Search
+NC202157,QC,Quebec City,55-64,Near-Prime,Referral
+NC202158,ON,Mississauga,55-64,Prime,Paid Search
+NC202159,ON,Toronto,55-64,Subprime,Organic Search
+NC202160,BC,Victoria,65+,Near-Prime,Email/CRM
+NC202161,NS,Halifax,45-54,Subprime,Email/CRM
+NC202162,ON,Hamilton,25-34,Subprime,Direct
+NC202163,ON,Hamilton,25-34,Subprime,Email/CRM
+NC202164,AB,Calgary,25-34,Near-Prime,Direct
+NC202165,ON,Windsor,35-44,Prime,Organic Search
+NC202166,NB,Moncton,25-34,Prime,Organic Search
+NC202167,NB,Saint John,18-24,Prime,Organic Search
+NC202168,QC,Montreal,35-44,Prime,Paid Social
+NC202169,AB,Calgary,65+,Prime,Direct
+NC202170,ON,Windsor,25-34,Prime,Direct
+NC202171,ON,Mississauga,25-34,Prime,Referral
+NC202172,AB,Calgary,65+,Prime,Organic Search
+NC202173,MB,Winnipeg,25-34,Subprime,Email/CRM
+NC202174,AB,Calgary,55-64,Prime,Organic Search
+NC202175,AB,Red Deer,35-44,Prime,Organic Search
+NC202176,AB,Edmonton,25-34,Prime,Paid Search
+NC202177,SK,Saskatoon,35-44,Prime,Organic Search
+NC202178,MB,Winnipeg,35-44,Near-Prime,Organic Search
+NC202179,ON,Mississauga,55-64,Subprime,Organic Search
+NC202180,MB,Winnipeg,25-34,Prime,Email/CRM
+NC202181,ON,Kitchener,25-34,Near-Prime,Email/CRM
+NC202182,ON,Mississauga,55-64,Prime,Direct
+NC202183,AB,Edmonton,35-44,Near-Prime,Referral
+NC202184,ON,Ottawa,45-54,Near-Prime,Referral
+NC202185,ON,Mississauga,65+,Prime,Organic Search
+NC202186,ON,Hamilton,25-34,Prime,Referral
+NC202187,AB,Edmonton,45-54,Near-Prime,Organic Search
+NC202188,ON,London,25-34,Prime,Organic Search
+NC202189,QC,Montreal,35-44,Prime,Organic Search
+NC202190,ON,Toronto,35-44,Prime,Organic Search
+NC202191,ON,Mississauga,25-34,Prime,Paid Search
+NC202192,ON,Ottawa,55-64,Prime,Paid Social
+NC202193,ON,Kitchener,55-64,Near-Prime,Organic Search
+NC202194,NS,Halifax,45-54,Subprime,Marketplace Syndication
+NC202195,BC,Victoria,45-54,Prime,Referral
+NC202196,AB,Red Deer,65+,Prime,Email/CRM
+NC202197,ON,Hamilton,35-44,Prime,Email/CRM
+NC202198,BC,Vancouver,35-44,Prime,Organic Search
+NC202199,QC,Quebec City,65+,Prime,Direct
+NC202200,ON,Windsor,65+,Prime,Email/CRM
+NC202201,NB,Moncton,25-34,Prime,Direct
+NC202202,QC,Montreal,25-34,Prime,Referral
+NC202203,ON,Windsor,35-44,Prime,Organic Search
+NC202204,MB,Winnipeg,65+,Prime,Direct
+NC202205,ON,Toronto,65+,Prime,Organic Search
+NC202206,ON,Toronto,25-34,Prime,Direct
+NC202207,ON,Windsor,35-44,Prime,Paid Search
+NC202208,QC,Laval,25-34,Prime,Paid Search
+NC202209,ON,Kitchener,18-24,Prime,Direct
+NC202210,ON,Kitchener,45-54,Subprime,Email/CRM
+NC202211,ON,Mississauga,25-34,Near-Prime,Direct
+NC202212,ON,Hamilton,25-34,Subprime,Referral
+NC202213,ON,Mississauga,45-54,Prime,Referral
+NC202214,ON,Hamilton,25-34,Prime,Organic Search
+NC202215,QC,Montreal,25-34,Near-Prime,Organic Search
+NC202216,AB,Edmonton,65+,Prime,Paid Search
+NC202217,BC,Vancouver,35-44,Near-Prime,Paid Social
+NC202218,NB,Moncton,35-44,Prime,Email/CRM
+NC202219,ON,Kitchener,25-34,Near-Prime,Referral
+NC202220,NB,Moncton,25-34,Prime,Organic Search
+NC202221,ON,Mississauga,55-64,Prime,Paid Search
+NC202222,ON,Mississauga,35-44,Prime,Email/CRM
+NC202223,NL,St. John's,18-24,Near-Prime,Email/CRM
+NC202224,AB,Red Deer,35-44,Prime,Direct
+NC202225,ON,London,35-44,Near-Prime,Paid Search
+NC202226,AB,Edmonton,25-34,Near-Prime,Email/CRM
+NC202227,ON,Toronto,65+,Subprime,Direct
+NC202228,ON,Windsor,35-44,Prime,Paid Search
+NC202229,ON,Ottawa,25-34,Prime,Email/CRM
+NC202230,ON,Toronto,35-44,Near-Prime,Organic Search
+NC202231,QC,Laval,65+,Prime,Direct
+NC202232,ON,London,35-44,Prime,Paid Search
+NC202233,AB,Calgary,35-44,Subprime,Direct
+NC202234,ON,Toronto,45-54,Prime,Referral
+NC202235,BC,Kelowna,25-34,Near-Prime,Email/CRM
+NC202236,ON,Toronto,35-44,Prime,Paid Search
+NC202237,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC202238,ON,Windsor,25-34,Subprime,Organic Search
+NC202239,NS,Halifax,45-54,Near-Prime,Organic Search
+NC202240,AB,Edmonton,45-54,Prime,Referral
+NC202241,SK,Regina,35-44,Subprime,Direct
+NC202242,ON,Ottawa,25-34,Prime,Organic Search
+NC202243,ON,Toronto,55-64,Prime,Direct
+NC202244,NL,St. John's,25-34,Prime,Direct
+NC202245,ON,Kitchener,55-64,Prime,Organic Search
+NC202246,AB,Calgary,45-54,Prime,Referral
+NC202247,SK,Saskatoon,55-64,Prime,Direct
+NC202248,SK,Regina,45-54,Near-Prime,Direct
+NC202249,AB,Red Deer,65+,Prime,Direct
+NC202250,ON,Mississauga,18-24,Near-Prime,Organic Search
+NC202251,NB,Saint John,35-44,Prime,Organic Search
+NC202252,PE,Charlottetown,25-34,Prime,Direct
+NC202253,ON,Hamilton,35-44,Prime,Paid Search
+NC202254,QC,Montreal,25-34,Near-Prime,Direct
+NC202255,ON,London,25-34,Near-Prime,Paid Search
+NC202256,NS,Halifax,65+,Near-Prime,Paid Search
+NC202257,NL,St. John's,25-34,Prime,Direct
+NC202258,QC,Quebec City,18-24,Prime,Direct
+NC202259,ON,Windsor,65+,Prime,Organic Search
+NC202260,ON,Mississauga,35-44,Prime,Organic Search
+NC202261,ON,Mississauga,45-54,Near-Prime,Organic Search
+NC202262,ON,Toronto,55-64,Near-Prime,Direct
+NC202263,ON,London,35-44,Subprime,Direct
+NC202264,ON,London,25-34,Subprime,Organic Search
+NC202265,ON,Mississauga,35-44,Near-Prime,Direct
+NC202266,ON,Hamilton,55-64,Subprime,Marketplace Syndication
+NC202267,ON,Kitchener,25-34,Prime,Direct
+NC202268,NS,Halifax,25-34,Subprime,Marketplace Syndication
+NC202269,NB,Moncton,55-64,Near-Prime,Email/CRM
+NC202270,AB,Red Deer,35-44,Prime,Paid Search
+NC202271,ON,Hamilton,25-34,Prime,Marketplace Syndication
+NC202272,MB,Winnipeg,45-54,Prime,Paid Social
+NC202273,ON,London,35-44,Near-Prime,Organic Search
+NC202274,AB,Calgary,35-44,Prime,Paid Search
+NC202275,ON,Toronto,25-34,Prime,Organic Search
+NC202276,ON,London,45-54,Subprime,Organic Search
+NC202277,QC,Laval,25-34,Near-Prime,Direct
+NC202278,ON,Hamilton,35-44,Prime,Paid Social
+NC202279,SK,Regina,65+,Prime,Email/CRM
+NC202280,NS,Halifax,45-54,Prime,Direct
+NC202281,QC,Montreal,25-34,Prime,Email/CRM
+NC202282,ON,Toronto,55-64,Prime,Direct
+NC202283,ON,Ottawa,35-44,Subprime,Organic Search
+NC202284,NS,Halifax,65+,Prime,Paid Search
+NC202285,ON,Kitchener,25-34,Near-Prime,Direct
+NC202286,ON,Kitchener,35-44,Subprime,Paid Search
+NC202287,ON,Kitchener,45-54,Prime,Direct
+NC202288,QC,Montreal,35-44,Near-Prime,Email/CRM
+NC202289,AB,Red Deer,45-54,Prime,Referral
+NC202290,MB,Winnipeg,55-64,Prime,Organic Search
+NC202291,MB,Winnipeg,55-64,Prime,Paid Search
+NC202292,NS,Halifax,25-34,Near-Prime,Organic Search
+NC202293,AB,Red Deer,35-44,Prime,Email/CRM
+NC202294,MB,Winnipeg,55-64,Subprime,Paid Search
+NC202295,ON,Mississauga,35-44,Prime,Paid Social
+NC202296,QC,Laval,45-54,Subprime,Organic Search
+NC202297,ON,Ottawa,35-44,Near-Prime,Paid Search
+NC202298,AB,Edmonton,25-34,Prime,Organic Search
+NC202299,AB,Red Deer,55-64,Prime,Paid Search
+NC202300,ON,London,25-34,Prime,Direct
+NC202301,ON,Mississauga,35-44,Prime,Organic Search
+NC202302,ON,London,35-44,Prime,Email/CRM
+NC202303,ON,Toronto,35-44,Subprime,Direct
+NC202304,QC,Quebec City,25-34,Prime,Referral
+NC202305,ON,Windsor,25-34,Prime,Organic Search
+NC202306,ON,London,55-64,Prime,Paid Search
+NC202307,QC,Laval,55-64,Near-Prime,Organic Search
+NC202308,ON,Ottawa,45-54,Prime,Direct
+NC202309,ON,Ottawa,55-64,Prime,Email/CRM
+NC202310,ON,Hamilton,25-34,Near-Prime,Referral
+NC202311,ON,Kitchener,25-34,Subprime,Marketplace Syndication
+NC202312,QC,Laval,55-64,Prime,Direct
+NC202313,ON,Windsor,25-34,Prime,Email/CRM
+NC202314,ON,Windsor,65+,Prime,Paid Search
+NC202315,NB,Moncton,25-34,Prime,Paid Search
+NC202316,ON,Windsor,35-44,Prime,Paid Social
+NC202317,AB,Calgary,55-64,Prime,Email/CRM
+NC202318,QC,Laval,25-34,Prime,Organic Search
+NC202319,QC,Quebec City,45-54,Prime,Paid Search
+NC202320,ON,London,25-34,Near-Prime,Organic Search
+NC202321,ON,Mississauga,65+,Prime,Referral
+NC202322,ON,London,55-64,Subprime,Email/CRM
+NC202323,AB,Edmonton,25-34,Prime,Email/CRM
+NC202324,AB,Red Deer,25-34,Prime,Organic Search
+NC202325,QC,Montreal,45-54,Subprime,Organic Search
+NC202326,ON,Ottawa,18-24,Prime,Referral
+NC202327,BC,Surrey,35-44,Prime,Paid Search
+NC202328,QC,Laval,18-24,Subprime,Email/CRM
+NC202329,BC,Vancouver,35-44,Subprime,Direct
+NC202330,ON,Toronto,55-64,Near-Prime,Organic Search
+NC202331,ON,Hamilton,25-34,Subprime,Organic Search
+NC202332,ON,Mississauga,35-44,Subprime,Email/CRM
+NC202333,NL,St. John's,25-34,Prime,Organic Search
+NC202334,ON,Kitchener,35-44,Prime,Email/CRM
+NC202335,ON,London,18-24,Prime,Organic Search
+NC202336,ON,London,35-44,Near-Prime,Marketplace Syndication
+NC202337,AB,Calgary,45-54,Prime,Email/CRM
+NC202338,NL,St. John's,35-44,Prime,Direct
+NC202339,AB,Edmonton,45-54,Prime,Referral
+NC202340,AB,Calgary,65+,Subprime,Marketplace Syndication
+NC202341,ON,Ottawa,35-44,Prime,Referral
+NC202342,ON,Ottawa,45-54,Near-Prime,Email/CRM
+NC202343,NS,Halifax,55-64,Prime,Paid Search
+NC202344,BC,Vancouver,55-64,Prime,Organic Search
+NC202345,ON,Toronto,35-44,Prime,Organic Search
+NC202346,ON,Toronto,25-34,Near-Prime,Organic Search
+NC202347,ON,Mississauga,65+,Prime,Paid Search
+NC202348,ON,Ottawa,25-34,Prime,Referral
+NC202349,AB,Edmonton,25-34,Prime,Email/CRM
+NC202350,NS,Halifax,45-54,Near-Prime,Organic Search
+NC202351,SK,Saskatoon,25-34,Prime,Email/CRM
+NC202352,AB,Red Deer,25-34,Prime,Organic Search
+NC202353,ON,Mississauga,35-44,Near-Prime,Paid Search
+NC202354,NS,Halifax,55-64,Subprime,Organic Search
+NC202355,ON,Hamilton,35-44,Prime,Email/CRM
+NC202356,ON,Kitchener,35-44,Prime,Paid Search
+NC202357,ON,Hamilton,25-34,Prime,Organic Search
+NC202358,ON,Kitchener,35-44,Near-Prime,Organic Search
+NC202359,NS,Halifax,55-64,Prime,Organic Search
+NC202360,MB,Winnipeg,25-34,Prime,Referral
+NC202361,ON,London,45-54,Prime,Organic Search
+NC202362,AB,Edmonton,35-44,Subprime,Email/CRM
+NC202363,BC,Surrey,35-44,Near-Prime,Referral
+NC202364,ON,Mississauga,35-44,Near-Prime,Paid Search
+NC202365,QC,Montreal,45-54,Near-Prime,Organic Search
+NC202366,MB,Winnipeg,45-54,Prime,Organic Search
+NC202367,ON,Hamilton,35-44,Near-Prime,Paid Search
+NC202368,AB,Edmonton,45-54,Near-Prime,Direct
+NC202369,SK,Saskatoon,65+,Near-Prime,Referral
+NC202370,ON,Toronto,45-54,Prime,Paid Search
+NC202371,ON,London,45-54,Near-Prime,Paid Search
+NC202372,AB,Calgary,35-44,Prime,Direct
+NC202373,NS,Halifax,55-64,Prime,Referral
+NC202374,BC,Surrey,45-54,Near-Prime,Direct
+NC202375,AB,Red Deer,45-54,Prime,Direct
+NC202376,AB,Edmonton,25-34,Prime,Organic Search
+NC202377,ON,Ottawa,35-44,Near-Prime,Email/CRM
+NC202378,ON,Toronto,25-34,Prime,Paid Search
+NC202379,ON,Toronto,25-34,Subprime,Paid Social
+NC202380,ON,Ottawa,45-54,Near-Prime,Email/CRM
+NC202381,QC,Montreal,25-34,Prime,Organic Search
+NC202382,NB,Moncton,45-54,Prime,Email/CRM
+NC202383,ON,Mississauga,35-44,Prime,Direct
+NC202384,ON,Hamilton,55-64,Near-Prime,Direct
+NC202385,QC,Quebec City,45-54,Near-Prime,Direct
+NC202386,ON,Windsor,35-44,Near-Prime,Paid Search
+NC202387,AB,Red Deer,25-34,Prime,Organic Search
+NC202388,QC,Quebec City,55-64,Prime,Referral
+NC202389,ON,Kitchener,65+,Near-Prime,Direct
+NC202390,ON,Mississauga,25-34,Prime,Organic Search
+NC202391,BC,Kelowna,45-54,Subprime,Marketplace Syndication
+NC202392,ON,Kitchener,35-44,Prime,Organic Search
+NC202393,ON,Hamilton,25-34,Prime,Paid Search
+NC202394,AB,Edmonton,45-54,Subprime,Organic Search
+NC202395,ON,Windsor,25-34,Near-Prime,Organic Search
+NC202396,ON,London,45-54,Near-Prime,Organic Search
+NC202397,ON,Kitchener,55-64,Prime,Organic Search
+NC202398,QC,Montreal,35-44,Prime,Organic Search
+NC202399,ON,Ottawa,25-34,Prime,Marketplace Syndication
+NC202400,QC,Montreal,65+,Prime,Direct
+NC202401,ON,Mississauga,35-44,Near-Prime,Marketplace Syndication
+NC202402,ON,Hamilton,25-34,Prime,Organic Search
+NC202403,AB,Calgary,65+,Near-Prime,Paid Search
+NC202404,ON,Windsor,25-34,Prime,Paid Search
+NC202405,QC,Montreal,35-44,Prime,Referral
+NC202406,ON,Ottawa,35-44,Near-Prime,Direct
+NC202407,ON,Kitchener,35-44,Prime,Organic Search
+NC202408,QC,Laval,25-34,Near-Prime,Referral
+NC202409,ON,Toronto,45-54,Near-Prime,Email/CRM
+NC202410,ON,Toronto,35-44,Near-Prime,Direct
+NC202411,SK,Saskatoon,25-34,Near-Prime,Paid Search
+NC202412,ON,London,25-34,Prime,Referral
+NC202413,ON,Mississauga,35-44,Prime,Organic Search
+NC202414,QC,Laval,25-34,Prime,Direct
+NC202415,ON,Hamilton,25-34,Prime,Organic Search
+NC202416,ON,Mississauga,25-34,Prime,Marketplace Syndication
+NC202417,ON,London,45-54,Subprime,Paid Search
+NC202418,ON,Toronto,25-34,Prime,Email/CRM
+NC202419,ON,Windsor,35-44,Near-Prime,Direct
+NC202420,NL,St. John's,35-44,Prime,Paid Search
+NC202421,BC,Kelowna,25-34,Near-Prime,Referral
+NC202422,BC,Victoria,55-64,Prime,Referral
+NC202423,BC,Surrey,65+,Prime,Paid Social
+NC202424,QC,Quebec City,25-34,Prime,Organic Search
+NC202425,ON,London,55-64,Prime,Organic Search
+NC202426,SK,Saskatoon,55-64,Prime,Organic Search
+NC202427,ON,Mississauga,45-54,Near-Prime,Referral
+NC202428,ON,Ottawa,55-64,Near-Prime,Marketplace Syndication
+NC202429,QC,Quebec City,35-44,Prime,Email/CRM
+NC202430,ON,Toronto,35-44,Near-Prime,Email/CRM
+NC202431,QC,Montreal,25-34,Prime,Organic Search
+NC202432,ON,Ottawa,55-64,Subprime,Email/CRM
+NC202433,AB,Red Deer,35-44,Prime,Direct
+NC202434,AB,Red Deer,18-24,Near-Prime,Direct
+NC202435,ON,London,25-34,Prime,Paid Search
+NC202436,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC202437,ON,Windsor,25-34,Near-Prime,Direct
+NC202438,AB,Calgary,55-64,Near-Prime,Email/CRM
+NC202439,NS,Halifax,35-44,Subprime,Organic Search
+NC202440,ON,Ottawa,25-34,Prime,Organic Search
+NC202441,ON,Hamilton,65+,Prime,Referral
+NC202442,ON,Hamilton,35-44,Near-Prime,Paid Search
+NC202443,QC,Montreal,35-44,Prime,Referral
+NC202444,ON,Kitchener,55-64,Near-Prime,Email/CRM
+NC202445,ON,Windsor,25-34,Prime,Referral
+NC202446,SK,Saskatoon,55-64,Subprime,Organic Search
+NC202447,ON,Toronto,65+,Prime,Direct
+NC202448,QC,Quebec City,55-64,Prime,Direct
+NC202449,ON,Ottawa,35-44,Prime,Organic Search
+NC202450,ON,London,45-54,Prime,Paid Search
+NC202451,ON,Ottawa,55-64,Prime,Paid Search
+NC202452,ON,Toronto,35-44,Prime,Direct
+NC202453,ON,Mississauga,25-34,Prime,Referral
+NC202454,QC,Laval,45-54,Prime,Organic Search
+NC202455,ON,Toronto,45-54,Near-Prime,Referral
+NC202456,ON,Windsor,55-64,Prime,Direct
+NC202457,AB,Calgary,25-34,Prime,Referral
+NC202458,AB,Calgary,45-54,Near-Prime,Organic Search
+NC202459,BC,Victoria,35-44,Prime,Marketplace Syndication
+NC202460,ON,London,35-44,Near-Prime,Direct
+NC202461,ON,Kitchener,45-54,Prime,Referral
+NC202462,MB,Winnipeg,25-34,Prime,Email/CRM
+NC202463,ON,London,65+,Prime,Email/CRM
+NC202464,QC,Montreal,35-44,Subprime,Paid Social
+NC202465,QC,Quebec City,45-54,Prime,Organic Search
+NC202466,AB,Red Deer,35-44,Prime,Email/CRM
+NC202467,BC,Surrey,25-34,Prime,Paid Search
+NC202468,QC,Quebec City,18-24,Prime,Paid Search
+NC202469,ON,London,55-64,Near-Prime,Direct
+NC202470,ON,Windsor,55-64,Prime,Organic Search
+NC202471,ON,Ottawa,35-44,Near-Prime,Email/CRM
+NC202472,ON,Hamilton,35-44,Prime,Referral
+NC202473,BC,Victoria,25-34,Subprime,Referral
+NC202474,ON,Ottawa,35-44,Prime,Organic Search
+NC202475,NB,Saint John,35-44,Prime,Organic Search
+NC202476,ON,Toronto,45-54,Prime,Referral
+NC202477,ON,Kitchener,35-44,Prime,Email/CRM
+NC202478,MB,Winnipeg,45-54,Prime,Organic Search
+NC202479,AB,Red Deer,18-24,Prime,Direct
+NC202480,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC202481,ON,Windsor,35-44,Prime,Email/CRM
+NC202482,ON,Ottawa,35-44,Prime,Direct
+NC202483,NS,Halifax,35-44,Subprime,Paid Search
+NC202484,ON,Kitchener,18-24,Prime,Email/CRM
+NC202485,ON,Toronto,25-34,Prime,Organic Search
+NC202486,QC,Montreal,35-44,Prime,Organic Search
+NC202487,ON,Ottawa,25-34,Prime,Organic Search
+NC202488,MB,Winnipeg,25-34,Near-Prime,Email/CRM
+NC202489,NS,Halifax,25-34,Prime,Referral
+NC202490,SK,Saskatoon,25-34,Subprime,Referral
+NC202491,ON,Windsor,25-34,Near-Prime,Organic Search
+NC202492,QC,Quebec City,45-54,Prime,Email/CRM
+NC202493,ON,London,35-44,Prime,Organic Search
+NC202494,ON,Ottawa,45-54,Near-Prime,Referral
+NC202495,QC,Laval,55-64,Near-Prime,Organic Search
+NC202496,ON,London,35-44,Prime,Organic Search
+NC202497,QC,Montreal,18-24,Near-Prime,Paid Search
+NC202498,NS,Halifax,35-44,Prime,Organic Search
+NC202499,ON,London,35-44,Subprime,Paid Search
+NC202500,ON,Toronto,45-54,Subprime,Paid Social
+NC202501,QC,Laval,25-34,Near-Prime,Paid Search
+NC202502,ON,Hamilton,45-54,Prime,Organic Search
+NC202503,QC,Laval,25-34,Near-Prime,Paid Social
+NC202504,ON,Mississauga,55-64,Near-Prime,Referral
+NC202505,ON,Kitchener,45-54,Prime,Paid Social
+NC202506,ON,Ottawa,35-44,Near-Prime,Referral
+NC202507,BC,Surrey,25-34,Near-Prime,Direct
+NC202508,BC,Kelowna,55-64,Subprime,Referral
+NC202509,AB,Red Deer,25-34,Near-Prime,Direct
+NC202510,ON,Hamilton,45-54,Prime,Paid Search
+NC202511,MB,Winnipeg,18-24,Prime,Organic Search
+NC202512,MB,Winnipeg,45-54,Prime,Referral
+NC202513,ON,Windsor,18-24,Subprime,Paid Social
+NC202514,AB,Calgary,45-54,Prime,Organic Search
+NC202515,NS,Halifax,45-54,Prime,Referral
+NC202516,ON,Hamilton,55-64,Prime,Referral
+NC202517,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC202518,BC,Kelowna,25-34,Subprime,Direct
+NC202519,ON,London,25-34,Near-Prime,Referral
+NC202520,BC,Vancouver,45-54,Prime,Organic Search
+NC202521,ON,Toronto,65+,Near-Prime,Organic Search
+NC202522,ON,Mississauga,65+,Prime,Paid Social
+NC202523,QC,Laval,35-44,Prime,Marketplace Syndication
+NC202524,AB,Red Deer,35-44,Subprime,Organic Search
+NC202525,BC,Victoria,25-34,Near-Prime,Organic Search
+NC202526,ON,Toronto,35-44,Subprime,Organic Search
+NC202527,ON,Kitchener,25-34,Prime,Organic Search
+NC202528,ON,London,25-34,Near-Prime,Direct
+NC202529,ON,Hamilton,65+,Near-Prime,Paid Search
+NC202530,ON,Toronto,35-44,Prime,Organic Search
+NC202531,ON,Kitchener,65+,Prime,Direct
+NC202532,ON,Hamilton,25-34,Prime,Organic Search
+NC202533,QC,Quebec City,35-44,Near-Prime,Direct
+NC202534,ON,Windsor,35-44,Near-Prime,Email/CRM
+NC202535,ON,London,25-34,Prime,Paid Search
+NC202536,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC202537,ON,Windsor,35-44,Near-Prime,Direct
+NC202538,ON,Windsor,35-44,Near-Prime,Direct
+NC202539,NS,Halifax,55-64,Subprime,Organic Search
+NC202540,BC,Kelowna,55-64,Prime,Referral
+NC202541,SK,Saskatoon,25-34,Near-Prime,Email/CRM
+NC202542,ON,Hamilton,55-64,Subprime,Paid Search
+NC202543,AB,Red Deer,35-44,Prime,Paid Search
+NC202544,ON,Windsor,55-64,Near-Prime,Paid Search
+NC202545,ON,Kitchener,45-54,Subprime,Paid Search
+NC202546,ON,Mississauga,45-54,Near-Prime,Marketplace Syndication
+NC202547,ON,Mississauga,45-54,Prime,Email/CRM
+NC202548,ON,London,55-64,Near-Prime,Marketplace Syndication
+NC202549,QC,Quebec City,65+,Near-Prime,Organic Search
+NC202550,QC,Quebec City,35-44,Prime,Paid Search
+NC202551,QC,Montreal,35-44,Prime,Organic Search
+NC202552,ON,Ottawa,45-54,Prime,Organic Search
+NC202553,ON,Kitchener,35-44,Near-Prime,Organic Search
+NC202554,ON,Kitchener,25-34,Prime,Direct
+NC202555,BC,Victoria,25-34,Near-Prime,Referral
+NC202556,ON,Ottawa,25-34,Prime,Organic Search
+NC202557,ON,Kitchener,45-54,Subprime,Organic Search
+NC202558,QC,Quebec City,45-54,Prime,Direct
+NC202559,ON,Toronto,25-34,Subprime,Organic Search
+NC202560,NB,Saint John,35-44,Near-Prime,Organic Search
+NC202561,ON,Toronto,45-54,Prime,Paid Search
+NC202562,AB,Red Deer,25-34,Prime,Direct
+NC202563,ON,Ottawa,35-44,Prime,Paid Search
+NC202564,ON,Mississauga,55-64,Near-Prime,Organic Search
+NC202565,MB,Winnipeg,35-44,Prime,Marketplace Syndication
+NC202566,ON,London,55-64,Near-Prime,Email/CRM
+NC202567,NS,Halifax,45-54,Near-Prime,Direct
+NC202568,ON,Windsor,35-44,Prime,Organic Search
+NC202569,ON,Windsor,35-44,Prime,Direct
+NC202570,NS,Halifax,35-44,Prime,Paid Search
+NC202571,BC,Kelowna,35-44,Prime,Direct
+NC202572,ON,Hamilton,35-44,Subprime,Paid Search
+NC202573,NL,St. John's,45-54,Near-Prime,Email/CRM
+NC202574,ON,Windsor,65+,Prime,Referral
+NC202575,AB,Calgary,25-34,Subprime,Organic Search
+NC202576,NL,St. John's,35-44,Prime,Referral
+NC202577,ON,Ottawa,25-34,Prime,Paid Search
+NC202578,SK,Saskatoon,45-54,Near-Prime,Paid Search
+NC202579,ON,Toronto,35-44,Prime,Paid Search
+NC202580,AB,Calgary,65+,Near-Prime,Organic Search
+NC202581,ON,Hamilton,18-24,Subprime,Referral
+NC202582,ON,Toronto,35-44,Prime,Direct
+NC202583,ON,Windsor,45-54,Prime,Organic Search
+NC202584,ON,Kitchener,25-34,Prime,Referral
+NC202585,ON,Ottawa,45-54,Prime,Organic Search
+NC202586,ON,Ottawa,55-64,Near-Prime,Direct
+NC202587,BC,Victoria,35-44,Subprime,Organic Search
+NC202588,ON,Hamilton,35-44,Subprime,Direct
+NC202589,AB,Red Deer,45-54,Prime,Direct
+NC202590,AB,Red Deer,45-54,Near-Prime,Referral
+NC202591,ON,Kitchener,45-54,Near-Prime,Paid Search
+NC202592,ON,Windsor,18-24,Near-Prime,Paid Social
+NC202593,ON,London,55-64,Near-Prime,Organic Search
+NC202594,MB,Winnipeg,35-44,Near-Prime,Organic Search
+NC202595,ON,Mississauga,18-24,Prime,Paid Search
+NC202596,ON,Mississauga,45-54,Prime,Paid Social
+NC202597,ON,Hamilton,25-34,Prime,Organic Search
+NC202598,ON,London,35-44,Near-Prime,Organic Search
+NC202599,ON,Mississauga,55-64,Prime,Direct
+NC202600,ON,London,35-44,Near-Prime,Direct
+NC202601,ON,Toronto,45-54,Prime,Direct
+NC202602,SK,Saskatoon,25-34,Prime,Organic Search
+NC202603,BC,Victoria,35-44,Prime,Paid Search
+NC202604,PE,Charlottetown,25-34,Prime,Direct
+NC202605,BC,Vancouver,25-34,Prime,Email/CRM
+NC202606,BC,Victoria,18-24,Near-Prime,Email/CRM
+NC202607,ON,Kitchener,35-44,Near-Prime,Organic Search
+NC202608,ON,Ottawa,25-34,Near-Prime,Direct
+NC202609,MB,Winnipeg,25-34,Prime,Referral
+NC202610,ON,Kitchener,18-24,Near-Prime,Direct
+NC202611,SK,Regina,55-64,Prime,Organic Search
+NC202612,ON,Ottawa,25-34,Near-Prime,Referral
+NC202613,SK,Regina,35-44,Prime,Paid Search
+NC202614,AB,Edmonton,45-54,Prime,Paid Search
+NC202615,AB,Edmonton,35-44,Near-Prime,Direct
+NC202616,ON,Kitchener,25-34,Prime,Paid Search
+NC202617,MB,Winnipeg,25-34,Near-Prime,Email/CRM
+NC202618,SK,Saskatoon,55-64,Prime,Email/CRM
+NC202619,ON,Windsor,45-54,Prime,Referral
+NC202620,ON,Toronto,25-34,Near-Prime,Direct
+NC202621,BC,Vancouver,25-34,Prime,Organic Search
+NC202622,ON,Windsor,65+,Subprime,Direct
+NC202623,ON,Hamilton,65+,Prime,Referral
+NC202624,PE,Charlottetown,65+,Subprime,Email/CRM
+NC202625,NL,St. John's,35-44,Prime,Email/CRM
+NC202626,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC202627,ON,Mississauga,35-44,Prime,Paid Search
+NC202628,SK,Saskatoon,55-64,Prime,Direct
+NC202629,ON,Hamilton,35-44,Prime,Direct
+NC202630,QC,Laval,35-44,Near-Prime,Email/CRM
+NC202631,ON,Toronto,35-44,Prime,Paid Search
+NC202632,QC,Laval,18-24,Subprime,Organic Search
+NC202633,NS,Halifax,45-54,Near-Prime,Direct
+NC202634,NL,St. John's,45-54,Prime,Referral
+NC202635,SK,Regina,25-34,Prime,Marketplace Syndication
+NC202636,NS,Halifax,55-64,Prime,Paid Social
+NC202637,ON,London,25-34,Prime,Direct
+NC202638,NS,Halifax,65+,Subprime,Direct
+NC202639,ON,Mississauga,35-44,Prime,Organic Search
+NC202640,ON,London,65+,Prime,Direct
+NC202641,ON,Hamilton,65+,Prime,Paid Search
+NC202642,ON,Windsor,45-54,Subprime,Paid Search
+NC202643,AB,Calgary,55-64,Prime,Paid Search
+NC202644,ON,Mississauga,55-64,Prime,Email/CRM
+NC202645,AB,Edmonton,35-44,Prime,Direct
+NC202646,QC,Quebec City,18-24,Prime,Email/CRM
+NC202647,SK,Regina,35-44,Subprime,Referral
+NC202648,ON,London,25-34,Subprime,Paid Search
+NC202649,BC,Surrey,55-64,Prime,Email/CRM
+NC202650,AB,Red Deer,45-54,Prime,Paid Search
+NC202651,NB,Moncton,35-44,Prime,Organic Search
+NC202652,ON,Ottawa,65+,Prime,Direct
+NC202653,AB,Calgary,45-54,Near-Prime,Email/CRM
+NC202654,SK,Saskatoon,55-64,Near-Prime,Paid Search
+NC202655,ON,Toronto,35-44,Near-Prime,Paid Search
+NC202656,AB,Red Deer,25-34,Prime,Paid Social
+NC202657,ON,Toronto,45-54,Prime,Email/CRM
+NC202658,BC,Vancouver,55-64,Prime,Paid Search
+NC202659,AB,Edmonton,55-64,Prime,Organic Search
+NC202660,ON,Ottawa,35-44,Prime,Direct
+NC202661,BC,Surrey,25-34,Prime,Organic Search
+NC202662,BC,Surrey,55-64,Prime,Paid Search
+NC202663,ON,Mississauga,25-34,Prime,Organic Search
+NC202664,AB,Red Deer,35-44,Prime,Direct
+NC202665,BC,Kelowna,45-54,Near-Prime,Email/CRM
+NC202666,QC,Quebec City,25-34,Subprime,Direct
+NC202667,ON,Toronto,25-34,Prime,Organic Search
+NC202668,ON,London,55-64,Subprime,Organic Search
+NC202669,ON,Ottawa,55-64,Subprime,Organic Search
+NC202670,ON,Toronto,45-54,Near-Prime,Direct
+NC202671,ON,Hamilton,45-54,Prime,Organic Search
+NC202672,AB,Calgary,65+,Prime,Organic Search
+NC202673,ON,Windsor,45-54,Prime,Direct
+NC202674,MB,Winnipeg,25-34,Near-Prime,Paid Social
+NC202675,ON,Windsor,35-44,Prime,Paid Search
+NC202676,AB,Edmonton,45-54,Near-Prime,Referral
+NC202677,AB,Edmonton,65+,Near-Prime,Direct
+NC202678,NB,Saint John,25-34,Near-Prime,Referral
+NC202679,QC,Montreal,45-54,Subprime,Referral
+NC202680,QC,Laval,25-34,Prime,Direct
+NC202681,ON,Ottawa,45-54,Prime,Organic Search
+NC202682,ON,Hamilton,35-44,Prime,Organic Search
+NC202683,ON,Kitchener,55-64,Prime,Organic Search
+NC202684,ON,Ottawa,25-34,Near-Prime,Direct
+NC202685,NS,Halifax,35-44,Prime,Direct
+NC202686,NB,Moncton,35-44,Near-Prime,Referral
+NC202687,NB,Moncton,18-24,Prime,Direct
+NC202688,BC,Surrey,65+,Prime,Direct
+NC202689,ON,Kitchener,65+,Prime,Email/CRM
+NC202690,ON,Windsor,35-44,Prime,Direct
+NC202691,MB,Winnipeg,25-34,Prime,Direct
+NC202692,ON,Ottawa,45-54,Prime,Organic Search
+NC202693,ON,Ottawa,45-54,Prime,Organic Search
+NC202694,ON,Kitchener,18-24,Prime,Referral
+NC202695,ON,Ottawa,25-34,Prime,Email/CRM
+NC202696,BC,Victoria,45-54,Prime,Paid Search
+NC202697,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC202698,ON,London,45-54,Near-Prime,Direct
+NC202699,ON,Ottawa,45-54,Prime,Referral
+NC202700,SK,Regina,25-34,Near-Prime,Email/CRM
+NC202701,ON,Windsor,18-24,Near-Prime,Direct
+NC202702,QC,Quebec City,18-24,Prime,Organic Search
+NC202703,AB,Red Deer,35-44,Subprime,Organic Search
+NC202704,AB,Edmonton,25-34,Prime,Paid Search
+NC202705,ON,Toronto,35-44,Prime,Direct
+NC202706,AB,Edmonton,25-34,Prime,Organic Search
+NC202707,BC,Kelowna,18-24,Prime,Organic Search
+NC202708,ON,Windsor,35-44,Subprime,Organic Search
+NC202709,ON,Mississauga,35-44,Prime,Referral
+NC202710,ON,Ottawa,55-64,Prime,Organic Search
+NC202711,ON,Mississauga,65+,Subprime,Paid Search
+NC202712,ON,Toronto,25-34,Prime,Direct
+NC202713,AB,Red Deer,25-34,Prime,Organic Search
+NC202714,QC,Quebec City,25-34,Subprime,Direct
+NC202715,ON,Kitchener,65+,Near-Prime,Direct
+NC202716,ON,Toronto,45-54,Prime,Referral
+NC202717,ON,Kitchener,65+,Prime,Organic Search
+NC202718,ON,Toronto,18-24,Subprime,Paid Search
+NC202719,MB,Winnipeg,55-64,Prime,Email/CRM
+NC202720,ON,Hamilton,65+,Near-Prime,Organic Search
+NC202721,ON,Hamilton,25-34,Prime,Paid Search
+NC202722,NL,St. John's,55-64,Prime,Direct
+NC202723,BC,Vancouver,18-24,Subprime,Direct
+NC202724,ON,Ottawa,25-34,Near-Prime,Organic Search
+NC202725,ON,Toronto,35-44,Subprime,Referral
+NC202726,ON,Kitchener,35-44,Subprime,Email/CRM
+NC202727,ON,Hamilton,25-34,Subprime,Organic Search
+NC202728,ON,Windsor,18-24,Prime,Paid Search
+NC202729,MB,Winnipeg,45-54,Prime,Paid Search
+NC202730,ON,Toronto,25-34,Prime,Organic Search
+NC202731,ON,Toronto,45-54,Subprime,Organic Search
+NC202732,QC,Laval,25-34,Prime,Paid Social
+NC202733,ON,Windsor,45-54,Prime,Referral
+NC202734,ON,Kitchener,25-34,Near-Prime,Organic Search
+NC202735,ON,London,25-34,Near-Prime,Paid Search
+NC202736,ON,Hamilton,35-44,Near-Prime,Referral
+NC202737,ON,London,55-64,Prime,Organic Search
+NC202738,ON,Hamilton,18-24,Prime,Organic Search
+NC202739,ON,Mississauga,18-24,Near-Prime,Direct
+NC202740,QC,Quebec City,35-44,Subprime,Direct
+NC202741,BC,Kelowna,55-64,Near-Prime,Direct
+NC202742,ON,Mississauga,45-54,Prime,Organic Search
+NC202743,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC202744,QC,Montreal,25-34,Prime,Referral
+NC202745,QC,Laval,45-54,Near-Prime,Organic Search
+NC202746,BC,Surrey,55-64,Prime,Email/CRM
+NC202747,ON,Ottawa,55-64,Prime,Organic Search
+NC202748,ON,Windsor,25-34,Prime,Direct
+NC202749,BC,Surrey,35-44,Near-Prime,Direct
+NC202750,QC,Laval,45-54,Near-Prime,Organic Search
+NC202751,ON,Windsor,55-64,Near-Prime,Paid Search
+NC202752,BC,Victoria,65+,Prime,Direct
+NC202753,AB,Calgary,25-34,Prime,Email/CRM
+NC202754,BC,Vancouver,45-54,Prime,Referral
+NC202755,MB,Winnipeg,55-64,Subprime,Organic Search
+NC202756,MB,Winnipeg,35-44,Prime,Organic Search
+NC202757,SK,Saskatoon,35-44,Near-Prime,Organic Search
+NC202758,NB,Moncton,25-34,Subprime,Referral
+NC202759,ON,Mississauga,25-34,Near-Prime,Email/CRM
+NC202760,ON,London,35-44,Prime,Paid Search
+NC202761,ON,Hamilton,55-64,Prime,Referral
+NC202762,BC,Vancouver,35-44,Prime,Direct
+NC202763,BC,Kelowna,45-54,Prime,Organic Search
+NC202764,ON,Hamilton,25-34,Prime,Direct
+NC202765,ON,Kitchener,55-64,Prime,Direct
+NC202766,ON,Ottawa,18-24,Near-Prime,Direct
+NC202767,ON,Kitchener,55-64,Subprime,Referral
+NC202768,ON,Toronto,35-44,Prime,Email/CRM
+NC202769,BC,Victoria,45-54,Prime,Organic Search
+NC202770,ON,London,45-54,Near-Prime,Direct
+NC202771,ON,Mississauga,25-34,Subprime,Organic Search
+NC202772,BC,Victoria,35-44,Prime,Organic Search
+NC202773,ON,London,25-34,Near-Prime,Direct
+NC202774,ON,Kitchener,55-64,Prime,Paid Search
+NC202775,MB,Winnipeg,45-54,Prime,Organic Search
+NC202776,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC202777,ON,Kitchener,18-24,Near-Prime,Referral
+NC202778,BC,Kelowna,25-34,Near-Prime,Direct
+NC202779,NB,Moncton,25-34,Prime,Email/CRM
+NC202780,AB,Calgary,25-34,Subprime,Paid Search
+NC202781,ON,Ottawa,35-44,Subprime,Direct
+NC202782,NS,Halifax,45-54,Prime,Direct
+NC202783,AB,Edmonton,25-34,Prime,Referral
+NC202784,AB,Edmonton,45-54,Prime,Direct
+NC202785,SK,Saskatoon,65+,Prime,Email/CRM
+NC202786,AB,Calgary,35-44,Prime,Marketplace Syndication
+NC202787,AB,Red Deer,55-64,Prime,Organic Search
+NC202788,ON,Kitchener,55-64,Near-Prime,Referral
+NC202789,ON,Toronto,25-34,Near-Prime,Organic Search
+NC202790,AB,Calgary,25-34,Prime,Email/CRM
+NC202791,AB,Red Deer,18-24,Prime,Direct
+NC202792,BC,Surrey,25-34,Near-Prime,Organic Search
+NC202793,AB,Calgary,25-34,Prime,Referral
+NC202794,ON,Kitchener,45-54,Subprime,Organic Search
+NC202795,NB,Saint John,25-34,Near-Prime,Paid Search
+NC202796,AB,Calgary,25-34,Prime,Email/CRM
+NC202797,NB,Saint John,18-24,Subprime,Direct
+NC202798,NB,Moncton,35-44,Subprime,Direct
+NC202799,SK,Regina,35-44,Prime,Direct
+NC202800,SK,Saskatoon,35-44,Prime,Referral
+NC202801,AB,Calgary,35-44,Subprime,Organic Search
+NC202802,BC,Victoria,25-34,Prime,Paid Search
+NC202803,ON,Toronto,65+,Prime,Paid Social
+NC202804,AB,Edmonton,55-64,Prime,Marketplace Syndication
+NC202805,ON,Ottawa,25-34,Prime,Direct
+NC202806,NS,Halifax,65+,Prime,Paid Search
+NC202807,AB,Calgary,45-54,Near-Prime,Email/CRM
+NC202808,QC,Montreal,35-44,Prime,Referral
+NC202809,BC,Kelowna,55-64,Prime,Email/CRM
+NC202810,BC,Surrey,45-54,Prime,Organic Search
+NC202811,AB,Edmonton,65+,Prime,Referral
+NC202812,ON,Windsor,65+,Prime,Email/CRM
+NC202813,AB,Red Deer,25-34,Near-Prime,Paid Search
+NC202814,NB,Saint John,18-24,Subprime,Organic Search
+NC202815,BC,Surrey,35-44,Prime,Organic Search
+NC202816,QC,Montreal,65+,Near-Prime,Paid Search
+NC202817,BC,Vancouver,25-34,Prime,Paid Social
+NC202818,BC,Kelowna,35-44,Prime,Organic Search
+NC202819,AB,Edmonton,65+,Near-Prime,Paid Search
+NC202820,NB,Moncton,25-34,Prime,Direct
+NC202821,AB,Edmonton,35-44,Subprime,Direct
+NC202822,AB,Calgary,55-64,Prime,Direct
+NC202823,SK,Saskatoon,55-64,Prime,Organic Search
+NC202824,ON,Ottawa,55-64,Subprime,Paid Search
+NC202825,ON,Mississauga,55-64,Subprime,Email/CRM
+NC202826,ON,Windsor,35-44,Near-Prime,Organic Search
+NC202827,ON,London,65+,Near-Prime,Referral
+NC202828,NB,Moncton,45-54,Prime,Organic Search
+NC202829,ON,Hamilton,35-44,Near-Prime,Email/CRM
+NC202830,MB,Winnipeg,45-54,Prime,Email/CRM
+NC202831,AB,Calgary,45-54,Near-Prime,Organic Search
+NC202832,ON,Kitchener,35-44,Prime,Organic Search
+NC202833,ON,Mississauga,45-54,Prime,Paid Search
+NC202834,ON,Hamilton,45-54,Prime,Referral
+NC202835,QC,Quebec City,45-54,Near-Prime,Paid Search
+NC202836,ON,Ottawa,45-54,Near-Prime,Organic Search
+NC202837,AB,Edmonton,55-64,Prime,Organic Search
+NC202838,NS,Halifax,25-34,Subprime,Organic Search
+NC202839,QC,Quebec City,25-34,Prime,Referral
+NC202840,MB,Winnipeg,65+,Prime,Organic Search
+NC202841,ON,Kitchener,55-64,Subprime,Referral
+NC202842,SK,Regina,45-54,Prime,Email/CRM
+NC202843,NS,Halifax,55-64,Subprime,Paid Social
+NC202844,ON,Kitchener,55-64,Prime,Referral
+NC202845,AB,Red Deer,18-24,Prime,Organic Search
+NC202846,ON,London,35-44,Prime,Organic Search
+NC202847,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC202848,BC,Surrey,35-44,Prime,Marketplace Syndication
+NC202849,ON,London,25-34,Prime,Organic Search
+NC202850,ON,Mississauga,55-64,Near-Prime,Direct
+NC202851,QC,Quebec City,25-34,Near-Prime,Organic Search
+NC202852,ON,Hamilton,35-44,Prime,Paid Search
+NC202853,AB,Red Deer,35-44,Prime,Referral
+NC202854,ON,London,45-54,Near-Prime,Organic Search
+NC202855,ON,Windsor,35-44,Prime,Paid Search
+NC202856,ON,Toronto,25-34,Subprime,Direct
+NC202857,ON,Mississauga,25-34,Prime,Organic Search
+NC202858,ON,Kitchener,55-64,Prime,Email/CRM
+NC202859,ON,Hamilton,65+,Near-Prime,Organic Search
+NC202860,ON,Windsor,45-54,Prime,Organic Search
+NC202861,ON,Mississauga,25-34,Near-Prime,Organic Search
+NC202862,ON,Toronto,45-54,Subprime,Organic Search
+NC202863,NS,Halifax,65+,Near-Prime,Direct
+NC202864,ON,Toronto,65+,Near-Prime,Direct
+NC202865,AB,Red Deer,45-54,Prime,Referral
+NC202866,NS,Halifax,35-44,Prime,Organic Search
+NC202867,MB,Winnipeg,45-54,Prime,Email/CRM
+NC202868,ON,Toronto,35-44,Near-Prime,Referral
+NC202869,ON,Windsor,25-34,Prime,Email/CRM
+NC202870,ON,Hamilton,25-34,Prime,Email/CRM
+NC202871,QC,Laval,35-44,Near-Prime,Email/CRM
+NC202872,ON,Toronto,35-44,Near-Prime,Organic Search
+NC202873,MB,Winnipeg,45-54,Subprime,Paid Search
+NC202874,ON,Toronto,35-44,Prime,Email/CRM
+NC202875,ON,Mississauga,35-44,Prime,Organic Search
+NC202876,ON,London,35-44,Prime,Organic Search
+NC202877,MB,Winnipeg,45-54,Prime,Paid Search
+NC202878,SK,Regina,45-54,Prime,Direct
+NC202879,ON,Ottawa,35-44,Subprime,Paid Search
+NC202880,MB,Winnipeg,45-54,Prime,Email/CRM
+NC202881,ON,Mississauga,65+,Near-Prime,Organic Search
+NC202882,NB,Saint John,35-44,Prime,Referral
+NC202883,AB,Calgary,25-34,Subprime,Email/CRM
+NC202884,AB,Edmonton,18-24,Near-Prime,Direct
+NC202885,ON,London,25-34,Subprime,Direct
+NC202886,QC,Laval,55-64,Near-Prime,Email/CRM
+NC202887,AB,Edmonton,25-34,Prime,Referral
+NC202888,ON,Ottawa,65+,Prime,Paid Search
+NC202889,ON,Kitchener,65+,Subprime,Referral
+NC202890,ON,Windsor,65+,Near-Prime,Referral
+NC202891,ON,Kitchener,25-34,Prime,Referral
+NC202892,NS,Halifax,25-34,Near-Prime,Organic Search
+NC202893,ON,Ottawa,35-44,Subprime,Direct
+NC202894,NL,St. John's,45-54,Prime,Direct
+NC202895,ON,Mississauga,35-44,Near-Prime,Referral
+NC202896,ON,Kitchener,45-54,Near-Prime,Direct
+NC202897,ON,Kitchener,35-44,Prime,Referral
+NC202898,ON,Ottawa,25-34,Prime,Organic Search
+NC202899,ON,London,45-54,Subprime,Organic Search
+NC202900,AB,Edmonton,55-64,Prime,Organic Search
+NC202901,NB,Saint John,25-34,Prime,Email/CRM
+NC202902,QC,Quebec City,25-34,Prime,Paid Search
+NC202903,ON,Kitchener,18-24,Near-Prime,Paid Search
+NC202904,ON,Kitchener,45-54,Prime,Email/CRM
+NC202905,SK,Saskatoon,35-44,Prime,Paid Social
+NC202906,ON,Windsor,55-64,Prime,Organic Search
+NC202907,ON,Toronto,45-54,Prime,Organic Search
+NC202908,ON,Toronto,65+,Subprime,Direct
+NC202909,ON,Kitchener,45-54,Prime,Direct
+NC202910,NS,Halifax,35-44,Prime,Email/CRM
+NC202911,ON,Mississauga,25-34,Prime,Organic Search
+NC202912,ON,Windsor,45-54,Subprime,Paid Search
+NC202913,ON,Toronto,25-34,Subprime,Referral
+NC202914,ON,Ottawa,35-44,Subprime,Referral
+NC202915,ON,Hamilton,25-34,Prime,Paid Search
+NC202916,ON,Hamilton,25-34,Near-Prime,Paid Search
+NC202917,ON,Kitchener,45-54,Prime,Direct
+NC202918,AB,Calgary,45-54,Near-Prime,Referral
+NC202919,ON,Mississauga,25-34,Near-Prime,Organic Search
+NC202920,ON,Ottawa,35-44,Prime,Organic Search
+NC202921,ON,Ottawa,45-54,Prime,Email/CRM
+NC202922,ON,Windsor,25-34,Subprime,Email/CRM
+NC202923,QC,Montreal,65+,Subprime,Email/CRM
+NC202924,ON,Ottawa,25-34,Prime,Organic Search
+NC202925,ON,Windsor,18-24,Near-Prime,Direct
+NC202926,ON,London,65+,Prime,Organic Search
+NC202927,AB,Red Deer,25-34,Prime,Direct
+NC202928,ON,Toronto,25-34,Subprime,Paid Search
+NC202929,ON,London,25-34,Subprime,Referral
+NC202930,NS,Halifax,35-44,Prime,Direct
+NC202931,AB,Red Deer,25-34,Prime,Email/CRM
+NC202932,ON,Windsor,65+,Subprime,Direct
+NC202933,NS,Halifax,25-34,Near-Prime,Direct
+NC202934,ON,Ottawa,25-34,Prime,Organic Search
+NC202935,ON,Windsor,35-44,Near-Prime,Email/CRM
+NC202936,ON,Toronto,18-24,Subprime,Paid Search
+NC202937,ON,Hamilton,25-34,Near-Prime,Organic Search
+NC202938,AB,Red Deer,35-44,Prime,Referral
+NC202939,NS,Halifax,35-44,Prime,Paid Search
+NC202940,NB,Saint John,55-64,Prime,Email/CRM
+NC202941,ON,Toronto,18-24,Prime,Email/CRM
+NC202942,ON,Kitchener,45-54,Near-Prime,Referral
+NC202943,ON,London,45-54,Near-Prime,Referral
+NC202944,ON,London,55-64,Near-Prime,Direct
+NC202945,ON,Windsor,45-54,Near-Prime,Direct
+NC202946,AB,Red Deer,65+,Prime,Organic Search
+NC202947,NL,St. John's,25-34,Prime,Paid Search
+NC202948,ON,London,45-54,Near-Prime,Referral
+NC202949,ON,Windsor,35-44,Prime,Paid Social
+NC202950,ON,Windsor,25-34,Near-Prime,Referral
+NC202951,NL,St. John's,35-44,Prime,Direct
+NC202952,ON,Hamilton,18-24,Subprime,Email/CRM
+NC202953,AB,Edmonton,25-34,Subprime,Direct
+NC202954,ON,Kitchener,25-34,Near-Prime,Organic Search
+NC202955,ON,Toronto,18-24,Prime,Organic Search
+NC202956,ON,Windsor,25-34,Near-Prime,Email/CRM
+NC202957,ON,Hamilton,25-34,Near-Prime,Paid Search
+NC202958,ON,Toronto,35-44,Prime,Paid Social
+NC202959,ON,Hamilton,35-44,Prime,Paid Social
+NC202960,ON,Toronto,35-44,Near-Prime,Paid Search
+NC202961,ON,Ottawa,25-34,Near-Prime,Direct
+NC202962,AB,Edmonton,55-64,Prime,Direct
+NC202963,AB,Edmonton,65+,Prime,Paid Search
+NC202964,ON,Kitchener,25-34,Prime,Marketplace Syndication
+NC202965,ON,London,55-64,Prime,Direct
+NC202966,PE,Charlottetown,25-34,Prime,Organic Search
+NC202967,ON,Mississauga,25-34,Prime,Organic Search
+NC202968,ON,London,25-34,Prime,Direct
+NC202969,AB,Calgary,18-24,Prime,Email/CRM
+NC202970,ON,Toronto,35-44,Near-Prime,Paid Search
+NC202971,ON,Ottawa,55-64,Prime,Email/CRM
+NC202972,ON,Mississauga,18-24,Subprime,Paid Social
+NC202973,BC,Surrey,45-54,Prime,Paid Search
+NC202974,ON,Ottawa,55-64,Near-Prime,Organic Search
+NC202975,ON,Mississauga,25-34,Prime,Paid Search
+NC202976,ON,Mississauga,25-34,Prime,Paid Search
+NC202977,BC,Victoria,35-44,Prime,Email/CRM
+NC202978,AB,Calgary,55-64,Prime,Direct
+NC202979,NB,Moncton,35-44,Prime,Referral
+NC202980,ON,Kitchener,35-44,Near-Prime,Paid Search
+NC202981,ON,Ottawa,18-24,Near-Prime,Organic Search
+NC202982,NS,Halifax,55-64,Near-Prime,Organic Search
+NC202983,BC,Kelowna,45-54,Prime,Direct
+NC202984,ON,Windsor,25-34,Subprime,Email/CRM
+NC202985,ON,Windsor,55-64,Near-Prime,Paid Search
+NC202986,NS,Halifax,35-44,Prime,Paid Search
+NC202987,ON,London,45-54,Prime,Email/CRM
+NC202988,QC,Quebec City,35-44,Near-Prime,Paid Search
+NC202989,NS,Halifax,35-44,Prime,Marketplace Syndication
+NC202990,BC,Surrey,25-34,Prime,Organic Search
+NC202991,ON,Toronto,25-34,Prime,Email/CRM
+NC202992,ON,Toronto,45-54,Prime,Direct
+NC202993,QC,Montreal,45-54,Prime,Paid Search
+NC202994,ON,Kitchener,55-64,Prime,Email/CRM
+NC202995,ON,Ottawa,25-34,Subprime,Marketplace Syndication
+NC202996,MB,Winnipeg,35-44,Prime,Direct
+NC202997,QC,Quebec City,65+,Prime,Email/CRM
+NC202998,MB,Winnipeg,65+,Prime,Email/CRM
+NC202999,ON,Hamilton,45-54,Prime,Referral
+NC203000,BC,Victoria,35-44,Prime,Paid Search
+NC203001,AB,Calgary,25-34,Near-Prime,Referral
+NC203002,NS,Halifax,35-44,Near-Prime,Organic Search
+NC203003,AB,Edmonton,25-34,Prime,Direct
+NC203004,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC203005,ON,Ottawa,55-64,Prime,Marketplace Syndication
+NC203006,ON,Ottawa,55-64,Prime,Organic Search
+NC203007,ON,Toronto,25-34,Prime,Direct
+NC203008,ON,Ottawa,25-34,Subprime,Direct
+NC203009,QC,Laval,65+,Subprime,Referral
+NC203010,ON,Mississauga,35-44,Prime,Direct
+NC203011,BC,Kelowna,25-34,Subprime,Direct
+NC203012,ON,Toronto,35-44,Near-Prime,Organic Search
+NC203013,AB,Red Deer,35-44,Near-Prime,Referral
+NC203014,BC,Vancouver,55-64,Prime,Direct
+NC203015,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC203016,SK,Regina,35-44,Prime,Direct
+NC203017,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC203018,AB,Calgary,35-44,Prime,Email/CRM
+NC203019,AB,Edmonton,18-24,Subprime,Organic Search
+NC203020,ON,Hamilton,35-44,Near-Prime,Direct
+NC203021,ON,Toronto,25-34,Prime,Paid Social
+NC203022,BC,Vancouver,45-54,Prime,Organic Search
+NC203023,BC,Kelowna,45-54,Prime,Direct
+NC203024,ON,Toronto,65+,Prime,Organic Search
+NC203025,ON,Mississauga,35-44,Prime,Referral
+NC203026,ON,Mississauga,18-24,Subprime,Marketplace Syndication
+NC203027,ON,Windsor,25-34,Prime,Organic Search
+NC203028,ON,Windsor,55-64,Prime,Referral
+NC203029,ON,Ottawa,35-44,Prime,Organic Search
+NC203030,MB,Winnipeg,18-24,Near-Prime,Referral
+NC203031,ON,London,55-64,Prime,Marketplace Syndication
+NC203032,ON,Hamilton,45-54,Prime,Email/CRM
+NC203033,ON,London,25-34,Prime,Organic Search
+NC203034,ON,London,25-34,Subprime,Organic Search
+NC203035,AB,Red Deer,55-64,Near-Prime,Marketplace Syndication
+NC203036,MB,Winnipeg,25-34,Prime,Email/CRM
+NC203037,ON,Toronto,55-64,Prime,Organic Search
+NC203038,ON,London,35-44,Prime,Referral
+NC203039,ON,Mississauga,45-54,Prime,Organic Search
+NC203040,ON,Kitchener,25-34,Prime,Direct
+NC203041,ON,Toronto,25-34,Prime,Email/CRM
+NC203042,ON,Hamilton,65+,Prime,Paid Search
+NC203043,BC,Surrey,25-34,Prime,Direct
+NC203044,MB,Winnipeg,25-34,Prime,Paid Search
+NC203045,ON,London,25-34,Subprime,Organic Search
+NC203046,AB,Edmonton,55-64,Near-Prime,Paid Search
+NC203047,ON,Hamilton,55-64,Near-Prime,Referral
+NC203048,ON,Ottawa,45-54,Near-Prime,Direct
+NC203049,SK,Regina,18-24,Subprime,Referral
+NC203050,QC,Quebec City,35-44,Near-Prime,Direct
+NC203051,MB,Winnipeg,18-24,Prime,Referral
+NC203052,BC,Vancouver,25-34,Prime,Email/CRM
+NC203053,AB,Calgary,18-24,Near-Prime,Paid Search
+NC203054,ON,Kitchener,35-44,Prime,Paid Search
+NC203055,QC,Quebec City,55-64,Subprime,Email/CRM
+NC203056,ON,Mississauga,45-54,Prime,Organic Search
+NC203057,BC,Vancouver,35-44,Prime,Organic Search
+NC203058,MB,Winnipeg,65+,Prime,Email/CRM
+NC203059,QC,Quebec City,35-44,Prime,Direct
+NC203060,MB,Winnipeg,25-34,Prime,Organic Search
+NC203061,NB,Moncton,25-34,Subprime,Referral
+NC203062,ON,Hamilton,18-24,Near-Prime,Organic Search
+NC203063,ON,Ottawa,35-44,Near-Prime,Paid Search
+NC203064,ON,London,25-34,Near-Prime,Email/CRM
+NC203065,ON,Toronto,35-44,Near-Prime,Direct
+NC203066,ON,London,35-44,Near-Prime,Email/CRM
+NC203067,MB,Winnipeg,45-54,Prime,Direct
+NC203068,ON,Mississauga,55-64,Prime,Organic Search
+NC203069,BC,Victoria,25-34,Prime,Email/CRM
+NC203070,NB,Moncton,45-54,Subprime,Direct
+NC203071,AB,Calgary,25-34,Prime,Organic Search
+NC203072,AB,Edmonton,35-44,Near-Prime,Email/CRM
+NC203073,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC203074,ON,Kitchener,35-44,Prime,Organic Search
+NC203075,ON,Ottawa,45-54,Prime,Referral
+NC203076,ON,London,55-64,Prime,Paid Search
+NC203077,BC,Surrey,35-44,Subprime,Organic Search
+NC203078,SK,Saskatoon,45-54,Near-Prime,Organic Search
+NC203079,ON,Hamilton,35-44,Near-Prime,Email/CRM
+NC203080,QC,Montreal,55-64,Prime,Paid Search
+NC203081,ON,Kitchener,35-44,Prime,Direct
+NC203082,ON,Ottawa,18-24,Near-Prime,Direct
+NC203083,ON,Ottawa,35-44,Subprime,Direct
+NC203084,AB,Calgary,35-44,Prime,Organic Search
+NC203085,BC,Vancouver,35-44,Prime,Referral
+NC203086,ON,Mississauga,45-54,Prime,Email/CRM
+NC203087,ON,Mississauga,25-34,Prime,Organic Search
+NC203088,QC,Quebec City,45-54,Prime,Organic Search
+NC203089,AB,Calgary,45-54,Subprime,Organic Search
+NC203090,MB,Winnipeg,55-64,Near-Prime,Organic Search
+NC203091,ON,Toronto,45-54,Prime,Referral
+NC203092,ON,London,55-64,Prime,Referral
+NC203093,AB,Calgary,25-34,Prime,Email/CRM
+NC203094,ON,Mississauga,45-54,Subprime,Direct
+NC203095,ON,Windsor,18-24,Subprime,Paid Search
+NC203096,ON,Mississauga,25-34,Prime,Referral
+NC203097,QC,Quebec City,45-54,Subprime,Organic Search
+NC203098,ON,Mississauga,55-64,Near-Prime,Organic Search
+NC203099,AB,Calgary,35-44,Prime,Email/CRM
+NC203100,ON,Windsor,25-34,Prime,Paid Search
+NC203101,AB,Edmonton,25-34,Prime,Organic Search
+NC203102,BC,Kelowna,25-34,Subprime,Organic Search
+NC203103,ON,Kitchener,25-34,Prime,Paid Social
+NC203104,ON,Windsor,65+,Subprime,Referral
+NC203105,MB,Winnipeg,25-34,Prime,Direct
+NC203106,MB,Winnipeg,45-54,Near-Prime,Email/CRM
+NC203107,NS,Halifax,45-54,Prime,Paid Search
+NC203108,QC,Quebec City,25-34,Near-Prime,Direct
+NC203109,BC,Surrey,35-44,Prime,Organic Search
+NC203110,BC,Vancouver,55-64,Prime,Organic Search
+NC203111,NB,Saint John,35-44,Prime,Direct
+NC203112,ON,Ottawa,18-24,Near-Prime,Referral
+NC203113,AB,Red Deer,55-64,Subprime,Direct
+NC203114,ON,Kitchener,25-34,Prime,Organic Search
+NC203115,MB,Winnipeg,35-44,Subprime,Referral
+NC203116,ON,Windsor,25-34,Prime,Referral
+NC203117,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC203118,SK,Saskatoon,18-24,Subprime,Organic Search
+NC203119,ON,Windsor,55-64,Prime,Referral
+NC203120,ON,Windsor,45-54,Prime,Marketplace Syndication
+NC203121,ON,Windsor,18-24,Subprime,Organic Search
+NC203122,ON,Hamilton,35-44,Prime,Paid Social
+NC203123,ON,Mississauga,18-24,Near-Prime,Email/CRM
+NC203124,ON,Ottawa,25-34,Subprime,Paid Search
+NC203125,NL,St. John's,45-54,Prime,Paid Social
+NC203126,ON,Hamilton,45-54,Prime,Email/CRM
+NC203127,MB,Winnipeg,35-44,Near-Prime,Referral
+NC203128,AB,Edmonton,55-64,Subprime,Referral
+NC203129,ON,Windsor,65+,Prime,Referral
+NC203130,PE,Charlottetown,55-64,Prime,Paid Search
+NC203131,ON,Windsor,65+,Subprime,Referral
+NC203132,ON,Mississauga,55-64,Prime,Paid Social
+NC203133,ON,London,55-64,Near-Prime,Organic Search
+NC203134,ON,Mississauga,65+,Prime,Referral
+NC203135,ON,Toronto,45-54,Prime,Direct
+NC203136,ON,Toronto,18-24,Subprime,Organic Search
+NC203137,ON,Kitchener,45-54,Subprime,Direct
+NC203138,BC,Victoria,45-54,Prime,Organic Search
+NC203139,BC,Kelowna,25-34,Near-Prime,Direct
+NC203140,ON,Windsor,25-34,Near-Prime,Organic Search
+NC203141,ON,Toronto,18-24,Subprime,Paid Social
+NC203142,ON,Mississauga,65+,Prime,Email/CRM
+NC203143,ON,Ottawa,35-44,Near-Prime,Referral
+NC203144,AB,Calgary,35-44,Prime,Referral
+NC203145,NL,St. John's,25-34,Near-Prime,Organic Search
+NC203146,ON,Toronto,65+,Subprime,Organic Search
+NC203147,ON,Toronto,25-34,Prime,Paid Search
+NC203148,ON,Mississauga,55-64,Near-Prime,Paid Search
+NC203149,ON,Toronto,25-34,Prime,Organic Search
+NC203150,AB,Calgary,35-44,Prime,Paid Search
+NC203151,QC,Montreal,45-54,Prime,Organic Search
+NC203152,BC,Victoria,25-34,Prime,Direct
+NC203153,ON,Kitchener,55-64,Prime,Email/CRM
+NC203154,AB,Calgary,18-24,Subprime,Referral
+NC203155,ON,London,65+,Subprime,Direct
+NC203156,ON,Windsor,25-34,Near-Prime,Direct
+NC203157,BC,Kelowna,45-54,Prime,Email/CRM
+NC203158,QC,Laval,35-44,Prime,Organic Search
+NC203159,AB,Calgary,65+,Prime,Organic Search
+NC203160,ON,Toronto,35-44,Prime,Marketplace Syndication
+NC203161,MB,Winnipeg,25-34,Prime,Organic Search
+NC203162,QC,Montreal,45-54,Prime,Organic Search
+NC203163,BC,Surrey,25-34,Subprime,Organic Search
+NC203164,QC,Quebec City,35-44,Near-Prime,Organic Search
+NC203165,NS,Halifax,35-44,Near-Prime,Direct
+NC203166,NS,Halifax,35-44,Prime,Email/CRM
+NC203167,ON,Ottawa,65+,Near-Prime,Direct
+NC203168,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC203169,ON,Hamilton,35-44,Near-Prime,Referral
+NC203170,ON,Kitchener,25-34,Prime,Paid Search
+NC203171,QC,Quebec City,18-24,Near-Prime,Paid Search
+NC203172,SK,Saskatoon,35-44,Near-Prime,Referral
+NC203173,AB,Calgary,25-34,Subprime,Direct
+NC203174,SK,Saskatoon,55-64,Near-Prime,Email/CRM
+NC203175,ON,Toronto,35-44,Prime,Organic Search
+NC203176,ON,Hamilton,25-34,Prime,Direct
+NC203177,ON,Toronto,35-44,Near-Prime,Direct
+NC203178,BC,Vancouver,18-24,Subprime,Email/CRM
+NC203179,AB,Calgary,35-44,Near-Prime,Paid Social
+NC203180,BC,Vancouver,65+,Prime,Organic Search
+NC203181,NS,Halifax,35-44,Prime,Direct
+NC203182,BC,Victoria,65+,Prime,Marketplace Syndication
+NC203183,AB,Edmonton,35-44,Near-Prime,Referral
+NC203184,ON,Windsor,35-44,Prime,Organic Search
+NC203185,ON,London,25-34,Subprime,Organic Search
+NC203186,ON,Windsor,45-54,Prime,Organic Search
+NC203187,BC,Vancouver,55-64,Prime,Paid Social
+NC203188,ON,Mississauga,35-44,Prime,Paid Search
+NC203189,ON,Windsor,55-64,Subprime,Marketplace Syndication
+NC203190,ON,Hamilton,18-24,Subprime,Referral
+NC203191,ON,Windsor,35-44,Near-Prime,Direct
+NC203192,ON,Hamilton,25-34,Prime,Paid Search
+NC203193,AB,Calgary,25-34,Subprime,Organic Search
+NC203194,NL,St. John's,55-64,Near-Prime,Organic Search
+NC203195,ON,London,35-44,Prime,Direct
+NC203196,AB,Red Deer,35-44,Prime,Referral
+NC203197,QC,Laval,55-64,Prime,Organic Search
+NC203198,SK,Saskatoon,25-34,Prime,Paid Search
+NC203199,ON,Mississauga,25-34,Prime,Direct
+NC203200,ON,Windsor,35-44,Prime,Paid Search
+NC203201,BC,Kelowna,45-54,Near-Prime,Paid Search
+NC203202,ON,Hamilton,25-34,Near-Prime,Direct
+NC203203,NB,Saint John,55-64,Prime,Referral
+NC203204,ON,Windsor,45-54,Prime,Direct
+NC203205,ON,Kitchener,35-44,Prime,Organic Search
+NC203206,ON,Ottawa,25-34,Near-Prime,Referral
+NC203207,NS,Halifax,25-34,Prime,Email/CRM
+NC203208,MB,Winnipeg,45-54,Prime,Direct
+NC203209,AB,Edmonton,35-44,Near-Prime,Direct
+NC203210,ON,Toronto,35-44,Subprime,Direct
+NC203211,ON,Ottawa,55-64,Subprime,Organic Search
+NC203212,ON,Ottawa,55-64,Prime,Referral
+NC203213,ON,Kitchener,65+,Subprime,Organic Search
+NC203214,ON,Windsor,65+,Near-Prime,Paid Search
+NC203215,ON,Hamilton,45-54,Subprime,Referral
+NC203216,BC,Kelowna,35-44,Prime,Email/CRM
+NC203217,ON,Hamilton,45-54,Prime,Email/CRM
+NC203218,ON,Toronto,18-24,Subprime,Organic Search
+NC203219,ON,Kitchener,55-64,Prime,Direct
+NC203220,BC,Surrey,55-64,Prime,Organic Search
+NC203221,ON,Ottawa,35-44,Subprime,Paid Search
+NC203222,ON,Ottawa,25-34,Prime,Referral
+NC203223,ON,Windsor,25-34,Prime,Organic Search
+NC203224,BC,Surrey,25-34,Prime,Referral
+NC203225,MB,Winnipeg,35-44,Prime,Marketplace Syndication
+NC203226,AB,Red Deer,25-34,Prime,Referral
+NC203227,AB,Red Deer,35-44,Prime,Paid Social
+NC203228,NL,St. John's,65+,Prime,Marketplace Syndication
+NC203229,AB,Edmonton,45-54,Prime,Referral
+NC203230,ON,Ottawa,18-24,Prime,Organic Search
+NC203231,MB,Winnipeg,55-64,Near-Prime,Direct
+NC203232,ON,Hamilton,35-44,Subprime,Paid Search
+NC203233,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC203234,ON,Hamilton,35-44,Prime,Referral
+NC203235,NS,Halifax,35-44,Prime,Paid Search
+NC203236,BC,Surrey,55-64,Prime,Organic Search
+NC203237,BC,Victoria,45-54,Prime,Referral
+NC203238,ON,Kitchener,45-54,Near-Prime,Referral
+NC203239,ON,Hamilton,18-24,Near-Prime,Organic Search
+NC203240,NB,Moncton,45-54,Prime,Direct
+NC203241,NS,Halifax,55-64,Prime,Paid Search
+NC203242,ON,Toronto,65+,Near-Prime,Direct
+NC203243,PE,Charlottetown,45-54,Near-Prime,Direct
+NC203244,AB,Edmonton,55-64,Prime,Direct
+NC203245,AB,Calgary,25-34,Near-Prime,Organic Search
+NC203246,ON,Ottawa,55-64,Prime,Referral
+NC203247,PE,Charlottetown,65+,Prime,Referral
+NC203248,AB,Edmonton,25-34,Prime,Marketplace Syndication
+NC203249,NS,Halifax,25-34,Near-Prime,Paid Search
+NC203250,ON,Toronto,65+,Prime,Referral
+NC203251,ON,Ottawa,25-34,Prime,Organic Search
+NC203252,QC,Montreal,55-64,Near-Prime,Referral
+NC203253,ON,London,25-34,Prime,Direct
+NC203254,MB,Winnipeg,25-34,Prime,Organic Search
+NC203255,ON,London,55-64,Prime,Referral
+NC203256,ON,Toronto,45-54,Subprime,Paid Social
+NC203257,NS,Halifax,35-44,Prime,Organic Search
+NC203258,ON,Windsor,35-44,Subprime,Referral
+NC203259,ON,Hamilton,35-44,Prime,Paid Social
+NC203260,BC,Victoria,45-54,Prime,Paid Search
+NC203261,ON,Kitchener,55-64,Prime,Paid Search
+NC203262,ON,Mississauga,55-64,Near-Prime,Email/CRM
+NC203263,SK,Saskatoon,18-24,Near-Prime,Organic Search
+NC203264,ON,Mississauga,25-34,Near-Prime,Referral
+NC203265,AB,Calgary,55-64,Prime,Email/CRM
+NC203266,ON,Windsor,35-44,Prime,Paid Search
+NC203267,NL,St. John's,35-44,Prime,Referral
+NC203268,ON,Toronto,55-64,Subprime,Paid Social
+NC203269,AB,Red Deer,55-64,Near-Prime,Email/CRM
+NC203270,ON,Hamilton,65+,Near-Prime,Organic Search
+NC203271,ON,Mississauga,65+,Prime,Paid Search
+NC203272,AB,Red Deer,65+,Near-Prime,Organic Search
+NC203273,ON,Kitchener,25-34,Prime,Paid Search
+NC203274,AB,Edmonton,65+,Prime,Paid Search
+NC203275,ON,Hamilton,45-54,Prime,Organic Search
+NC203276,ON,Toronto,55-64,Prime,Paid Search
+NC203277,AB,Edmonton,55-64,Prime,Organic Search
+NC203278,ON,Ottawa,45-54,Prime,Organic Search
+NC203279,AB,Calgary,25-34,Prime,Direct
+NC203280,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC203281,SK,Saskatoon,25-34,Prime,Direct
+NC203282,ON,Ottawa,55-64,Prime,Marketplace Syndication
+NC203283,ON,Windsor,45-54,Prime,Referral
+NC203284,AB,Red Deer,35-44,Near-Prime,Referral
+NC203285,ON,Windsor,25-34,Subprime,Organic Search
+NC203286,ON,Kitchener,25-34,Prime,Email/CRM
+NC203287,AB,Red Deer,18-24,Subprime,Email/CRM
+NC203288,ON,Ottawa,35-44,Near-Prime,Organic Search
+NC203289,ON,Mississauga,25-34,Near-Prime,Email/CRM
+NC203290,ON,Hamilton,55-64,Prime,Email/CRM
+NC203291,ON,Toronto,25-34,Prime,Direct
+NC203292,ON,Mississauga,18-24,Subprime,Organic Search
+NC203293,ON,Ottawa,45-54,Near-Prime,Organic Search
+NC203294,BC,Victoria,18-24,Subprime,Direct
+NC203295,AB,Calgary,65+,Prime,Organic Search
+NC203296,BC,Vancouver,35-44,Near-Prime,Paid Social
+NC203297,QC,Montreal,55-64,Prime,Organic Search
+NC203298,AB,Red Deer,18-24,Near-Prime,Referral
+NC203299,AB,Calgary,18-24,Subprime,Direct
+NC203300,BC,Surrey,35-44,Near-Prime,Direct
+NC203301,ON,Hamilton,25-34,Near-Prime,Direct
+NC203302,ON,London,55-64,Near-Prime,Paid Search
+NC203303,NS,Halifax,25-34,Subprime,Paid Search
+NC203304,BC,Kelowna,55-64,Prime,Paid Search
+NC203305,AB,Edmonton,55-64,Prime,Direct
+NC203306,ON,Ottawa,35-44,Subprime,Direct
+NC203307,AB,Calgary,45-54,Prime,Direct
+NC203308,MB,Winnipeg,35-44,Near-Prime,Organic Search
+NC203309,ON,Toronto,35-44,Prime,Referral
+NC203310,ON,Ottawa,18-24,Near-Prime,Organic Search
+NC203311,ON,Toronto,45-54,Prime,Organic Search
+NC203312,QC,Laval,35-44,Prime,Direct
+NC203313,SK,Regina,65+,Near-Prime,Direct
+NC203314,QC,Laval,25-34,Near-Prime,Marketplace Syndication
+NC203315,ON,Kitchener,45-54,Subprime,Direct
+NC203316,PE,Charlottetown,65+,Near-Prime,Paid Search
+NC203317,BC,Victoria,55-64,Prime,Organic Search
+NC203318,ON,Hamilton,45-54,Prime,Direct
+NC203319,ON,Mississauga,25-34,Prime,Direct
+NC203320,ON,Kitchener,55-64,Near-Prime,Referral
+NC203321,MB,Winnipeg,35-44,Prime,Paid Search
+NC203322,AB,Edmonton,35-44,Prime,Direct
+NC203323,ON,Windsor,65+,Near-Prime,Email/CRM
+NC203324,MB,Winnipeg,35-44,Prime,Organic Search
+NC203325,ON,Toronto,45-54,Prime,Referral
+NC203326,ON,Toronto,55-64,Prime,Organic Search
+NC203327,AB,Edmonton,35-44,Prime,Referral
+NC203328,ON,London,35-44,Near-Prime,Paid Search
+NC203329,ON,Windsor,25-34,Subprime,Email/CRM
+NC203330,ON,Hamilton,25-34,Near-Prime,Paid Search
+NC203331,ON,Kitchener,25-34,Prime,Paid Search
+NC203332,AB,Red Deer,45-54,Subprime,Organic Search
+NC203333,ON,Ottawa,55-64,Subprime,Direct
+NC203334,ON,Toronto,25-34,Near-Prime,Referral
+NC203335,ON,Mississauga,65+,Near-Prime,Organic Search
+NC203336,AB,Edmonton,25-34,Near-Prime,Direct
+NC203337,NS,Halifax,35-44,Subprime,Paid Social
+NC203338,ON,Mississauga,55-64,Subprime,Organic Search
+NC203339,BC,Kelowna,45-54,Prime,Email/CRM
+NC203340,AB,Edmonton,45-54,Prime,Organic Search
+NC203341,ON,Toronto,55-64,Near-Prime,Direct
+NC203342,ON,London,25-34,Near-Prime,Referral
+NC203343,QC,Montreal,18-24,Subprime,Direct
+NC203344,QC,Quebec City,45-54,Near-Prime,Referral
+NC203345,ON,Toronto,65+,Prime,Referral
+NC203346,ON,Toronto,65+,Prime,Organic Search
+NC203347,ON,Mississauga,35-44,Subprime,Direct
+NC203348,NS,Halifax,25-34,Subprime,Paid Search
+NC203349,AB,Red Deer,45-54,Subprime,Paid Search
+NC203350,NS,Halifax,45-54,Prime,Paid Social
+NC203351,ON,Hamilton,55-64,Prime,Email/CRM
+NC203352,AB,Edmonton,45-54,Subprime,Referral
+NC203353,NB,Saint John,25-34,Subprime,Organic Search
+NC203354,BC,Victoria,25-34,Prime,Direct
+NC203355,ON,Kitchener,55-64,Prime,Direct
+NC203356,MB,Winnipeg,35-44,Near-Prime,Paid Social
+NC203357,AB,Red Deer,25-34,Prime,Organic Search
+NC203358,NS,Halifax,25-34,Subprime,Direct
+NC203359,ON,London,55-64,Subprime,Email/CRM
+NC203360,ON,London,45-54,Near-Prime,Referral
+NC203361,ON,Kitchener,65+,Prime,Organic Search
+NC203362,AB,Calgary,35-44,Prime,Organic Search
+NC203363,AB,Calgary,35-44,Prime,Organic Search
+NC203364,ON,Hamilton,18-24,Subprime,Paid Social
+NC203365,ON,London,45-54,Prime,Paid Social
+NC203366,NS,Halifax,35-44,Subprime,Email/CRM
+NC203367,ON,Mississauga,25-34,Prime,Organic Search
+NC203368,ON,London,35-44,Near-Prime,Direct
+NC203369,NS,Halifax,65+,Prime,Referral
+NC203370,ON,Mississauga,65+,Prime,Email/CRM
+NC203371,AB,Calgary,25-34,Near-Prime,Organic Search
+NC203372,ON,Windsor,25-34,Prime,Direct
+NC203373,AB,Red Deer,45-54,Prime,Email/CRM
+NC203374,ON,Hamilton,35-44,Prime,Paid Search
+NC203375,PE,Charlottetown,25-34,Prime,Direct
+NC203376,ON,Toronto,25-34,Near-Prime,Paid Search
+NC203377,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC203378,ON,Windsor,25-34,Near-Prime,Paid Social
+NC203379,AB,Red Deer,18-24,Near-Prime,Referral
+NC203380,AB,Edmonton,35-44,Prime,Direct
+NC203381,BC,Surrey,45-54,Prime,Email/CRM
+NC203382,AB,Edmonton,35-44,Prime,Direct
+NC203383,ON,Hamilton,35-44,Subprime,Email/CRM
+NC203384,QC,Montreal,35-44,Prime,Paid Search
+NC203385,AB,Calgary,35-44,Near-Prime,Direct
+NC203386,BC,Kelowna,45-54,Subprime,Referral
+NC203387,AB,Red Deer,45-54,Near-Prime,Marketplace Syndication
+NC203388,ON,Toronto,25-34,Prime,Direct
+NC203389,SK,Saskatoon,45-54,Subprime,Direct
+NC203390,NB,Saint John,55-64,Prime,Direct
+NC203391,ON,Mississauga,35-44,Near-Prime,Direct
+NC203392,QC,Laval,65+,Prime,Paid Search
+NC203393,ON,Ottawa,25-34,Prime,Organic Search
+NC203394,SK,Regina,35-44,Near-Prime,Marketplace Syndication
+NC203395,NB,Moncton,25-34,Near-Prime,Organic Search
+NC203396,NS,Halifax,65+,Subprime,Organic Search
+NC203397,ON,Windsor,55-64,Prime,Email/CRM
+NC203398,ON,Hamilton,55-64,Near-Prime,Paid Search
+NC203399,NB,Moncton,35-44,Subprime,Organic Search
+NC203400,AB,Edmonton,55-64,Near-Prime,Direct
+NC203401,NS,Halifax,25-34,Near-Prime,Marketplace Syndication
+NC203402,AB,Edmonton,35-44,Prime,Organic Search
+NC203403,BC,Vancouver,35-44,Near-Prime,Organic Search
+NC203404,ON,Hamilton,55-64,Subprime,Organic Search
+NC203405,ON,Toronto,25-34,Prime,Referral
+NC203406,ON,Mississauga,25-34,Prime,Organic Search
+NC203407,QC,Montreal,35-44,Prime,Referral
+NC203408,QC,Laval,55-64,Prime,Organic Search
+NC203409,BC,Surrey,55-64,Prime,Organic Search
+NC203410,ON,London,35-44,Near-Prime,Organic Search
+NC203411,ON,Kitchener,25-34,Subprime,Referral
+NC203412,BC,Surrey,25-34,Subprime,Email/CRM
+NC203413,NB,Saint John,35-44,Subprime,Referral
+NC203414,NS,Halifax,35-44,Prime,Email/CRM
+NC203415,AB,Edmonton,25-34,Prime,Organic Search
+NC203416,ON,Ottawa,35-44,Prime,Paid Search
+NC203417,AB,Red Deer,25-34,Prime,Organic Search
+NC203418,QC,Montreal,45-54,Prime,Direct
+NC203419,ON,Windsor,45-54,Near-Prime,Email/CRM
+NC203420,SK,Saskatoon,45-54,Prime,Organic Search
+NC203421,AB,Edmonton,35-44,Prime,Paid Search
+NC203422,ON,Hamilton,45-54,Subprime,Direct
+NC203423,ON,London,55-64,Near-Prime,Paid Search
+NC203424,ON,Windsor,45-54,Near-Prime,Organic Search
+NC203425,ON,Ottawa,65+,Prime,Direct
+NC203426,AB,Calgary,65+,Subprime,Organic Search
+NC203427,ON,Ottawa,25-34,Prime,Direct
+NC203428,ON,Hamilton,35-44,Near-Prime,Email/CRM
+NC203429,ON,Windsor,55-64,Near-Prime,Organic Search
+NC203430,ON,Ottawa,18-24,Prime,Paid Search
+NC203431,SK,Saskatoon,65+,Prime,Referral
+NC203432,ON,London,55-64,Prime,Organic Search
+NC203433,ON,Ottawa,45-54,Prime,Paid Search
+NC203434,ON,Hamilton,25-34,Near-Prime,Paid Search
+NC203435,ON,Windsor,25-34,Prime,Paid Search
+NC203436,AB,Calgary,55-64,Prime,Paid Search
+NC203437,ON,London,45-54,Prime,Organic Search
+NC203438,AB,Calgary,35-44,Prime,Referral
+NC203439,ON,Windsor,25-34,Prime,Email/CRM
+NC203440,ON,Toronto,65+,Prime,Organic Search
+NC203441,ON,London,18-24,Prime,Referral
+NC203442,AB,Calgary,25-34,Prime,Paid Search
+NC203443,ON,Mississauga,25-34,Near-Prime,Direct
+NC203444,ON,Ottawa,35-44,Prime,Paid Search
+NC203445,ON,Ottawa,25-34,Prime,Email/CRM
+NC203446,BC,Kelowna,35-44,Prime,Referral
+NC203447,AB,Edmonton,25-34,Near-Prime,Paid Search
+NC203448,ON,Mississauga,25-34,Near-Prime,Direct
+NC203449,ON,London,35-44,Near-Prime,Referral
+NC203450,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC203451,ON,Kitchener,35-44,Subprime,Direct
+NC203452,QC,Quebec City,25-34,Near-Prime,Organic Search
+NC203453,ON,Kitchener,25-34,Prime,Direct
+NC203454,ON,Kitchener,45-54,Prime,Direct
+NC203455,BC,Vancouver,18-24,Subprime,Paid Social
+NC203456,ON,London,25-34,Prime,Direct
+NC203457,ON,Toronto,45-54,Subprime,Email/CRM
+NC203458,ON,Ottawa,65+,Prime,Direct
+NC203459,ON,Windsor,35-44,Prime,Paid Search
+NC203460,ON,London,55-64,Subprime,Paid Search
+NC203461,ON,Hamilton,25-34,Prime,Paid Social
+NC203462,ON,Ottawa,45-54,Prime,Organic Search
+NC203463,ON,Mississauga,35-44,Near-Prime,Email/CRM
+NC203464,ON,Toronto,35-44,Prime,Organic Search
+NC203465,ON,Windsor,25-34,Prime,Referral
+NC203466,MB,Winnipeg,35-44,Prime,Organic Search
+NC203467,AB,Red Deer,55-64,Prime,Organic Search
+NC203468,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC203469,BC,Surrey,25-34,Near-Prime,Email/CRM
+NC203470,ON,Ottawa,25-34,Near-Prime,Marketplace Syndication
+NC203471,AB,Calgary,35-44,Near-Prime,Organic Search
+NC203472,ON,Mississauga,45-54,Prime,Email/CRM
+NC203473,ON,Kitchener,25-34,Prime,Direct
+NC203474,NS,Halifax,35-44,Prime,Paid Search
+NC203475,AB,Edmonton,45-54,Prime,Paid Search
+NC203476,MB,Winnipeg,45-54,Near-Prime,Marketplace Syndication
+NC203477,ON,Kitchener,45-54,Prime,Direct
+NC203478,ON,Hamilton,55-64,Prime,Paid Search
+NC203479,ON,Kitchener,65+,Prime,Paid Search
+NC203480,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC203481,AB,Calgary,18-24,Near-Prime,Paid Search
+NC203482,SK,Regina,45-54,Prime,Organic Search
+NC203483,ON,London,55-64,Prime,Marketplace Syndication
+NC203484,ON,Ottawa,45-54,Prime,Direct
+NC203485,ON,Kitchener,35-44,Prime,Marketplace Syndication
+NC203486,ON,Hamilton,25-34,Near-Prime,Direct
+NC203487,ON,Hamilton,25-34,Subprime,Referral
+NC203488,QC,Quebec City,45-54,Prime,Marketplace Syndication
+NC203489,AB,Edmonton,18-24,Subprime,Email/CRM
+NC203490,ON,Kitchener,55-64,Prime,Paid Search
+NC203491,ON,London,45-54,Prime,Organic Search
+NC203492,ON,Ottawa,65+,Near-Prime,Direct
+NC203493,MB,Winnipeg,35-44,Prime,Organic Search
+NC203494,NS,Halifax,25-34,Prime,Referral
+NC203495,AB,Calgary,65+,Near-Prime,Organic Search
+NC203496,ON,London,18-24,Near-Prime,Direct
+NC203497,ON,Kitchener,65+,Prime,Organic Search
+NC203498,BC,Vancouver,45-54,Prime,Paid Search
+NC203499,MB,Winnipeg,25-34,Near-Prime,Referral
+NC203500,ON,Ottawa,55-64,Subprime,Email/CRM
+NC203501,SK,Saskatoon,25-34,Prime,Direct
+NC203502,MB,Winnipeg,35-44,Prime,Direct
+NC203503,ON,Kitchener,65+,Prime,Direct
+NC203504,BC,Vancouver,25-34,Prime,Direct
+NC203505,ON,Ottawa,65+,Subprime,Organic Search
+NC203506,ON,Toronto,65+,Prime,Organic Search
+NC203507,ON,Ottawa,25-34,Prime,Referral
+NC203508,ON,Ottawa,25-34,Prime,Email/CRM
+NC203509,ON,Mississauga,35-44,Prime,Email/CRM
+NC203510,QC,Laval,65+,Subprime,Organic Search
+NC203511,AB,Edmonton,35-44,Prime,Direct
+NC203512,ON,Kitchener,18-24,Near-Prime,Paid Search
+NC203513,ON,Kitchener,35-44,Near-Prime,Direct
+NC203514,ON,Hamilton,25-34,Near-Prime,Direct
+NC203515,AB,Edmonton,55-64,Near-Prime,Paid Search
+NC203516,ON,Hamilton,35-44,Subprime,Paid Search
+NC203517,AB,Red Deer,45-54,Near-Prime,Email/CRM
+NC203518,ON,Windsor,25-34,Near-Prime,Paid Search
+NC203519,QC,Quebec City,35-44,Prime,Direct
+NC203520,AB,Calgary,45-54,Prime,Email/CRM
+NC203521,AB,Edmonton,45-54,Near-Prime,Organic Search
+NC203522,MB,Winnipeg,65+,Near-Prime,Direct
+NC203523,BC,Vancouver,65+,Prime,Email/CRM
+NC203524,AB,Calgary,45-54,Prime,Organic Search
+NC203525,BC,Victoria,45-54,Prime,Marketplace Syndication
+NC203526,ON,Hamilton,35-44,Near-Prime,Organic Search
+NC203527,BC,Victoria,25-34,Subprime,Paid Social
+NC203528,BC,Vancouver,65+,Prime,Organic Search
+NC203529,NB,Saint John,35-44,Prime,Direct
+NC203530,BC,Victoria,35-44,Near-Prime,Direct
+NC203531,BC,Kelowna,25-34,Subprime,Email/CRM
+NC203532,ON,London,45-54,Prime,Direct
+NC203533,ON,Toronto,35-44,Subprime,Direct
+NC203534,ON,Toronto,55-64,Prime,Referral
+NC203535,PE,Charlottetown,45-54,Prime,Paid Search
+NC203536,NB,Saint John,45-54,Subprime,Paid Social
+NC203537,ON,Kitchener,65+,Prime,Direct
+NC203538,ON,Toronto,35-44,Prime,Email/CRM
+NC203539,SK,Regina,25-34,Near-Prime,Organic Search
+NC203540,AB,Calgary,25-34,Near-Prime,Email/CRM
+NC203541,ON,Ottawa,25-34,Near-Prime,Organic Search
+NC203542,ON,Toronto,35-44,Prime,Direct
+NC203543,AB,Calgary,65+,Prime,Referral
+NC203544,AB,Edmonton,25-34,Near-Prime,Referral
+NC203545,BC,Victoria,25-34,Subprime,Organic Search
+NC203546,ON,Mississauga,18-24,Near-Prime,Direct
+NC203547,ON,Ottawa,65+,Subprime,Referral
+NC203548,ON,Ottawa,45-54,Prime,Referral
+NC203549,ON,Toronto,35-44,Near-Prime,Paid Search
+NC203550,BC,Kelowna,55-64,Prime,Direct
+NC203551,NB,Moncton,25-34,Prime,Organic Search
+NC203552,ON,Kitchener,45-54,Prime,Paid Social
+NC203553,ON,Mississauga,25-34,Subprime,Organic Search
+NC203554,QC,Montreal,55-64,Prime,Organic Search
+NC203555,ON,Windsor,65+,Prime,Paid Search
+NC203556,ON,Hamilton,18-24,Near-Prime,Email/CRM
+NC203557,BC,Kelowna,35-44,Subprime,Direct
+NC203558,QC,Montreal,25-34,Subprime,Referral
+NC203559,ON,Ottawa,25-34,Prime,Email/CRM
+NC203560,ON,Windsor,25-34,Prime,Paid Search
+NC203561,ON,Windsor,35-44,Prime,Organic Search
+NC203562,BC,Vancouver,35-44,Prime,Paid Search
+NC203563,MB,Winnipeg,25-34,Prime,Referral
+NC203564,MB,Winnipeg,55-64,Prime,Direct
+NC203565,ON,Mississauga,25-34,Subprime,Referral
+NC203566,AB,Red Deer,55-64,Near-Prime,Referral
+NC203567,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC203568,ON,Kitchener,25-34,Near-Prime,Paid Search
+NC203569,NB,Moncton,25-34,Prime,Organic Search
+NC203570,MB,Winnipeg,45-54,Prime,Email/CRM
+NC203571,ON,Windsor,25-34,Prime,Organic Search
+NC203572,ON,Ottawa,25-34,Subprime,Organic Search
+NC203573,AB,Calgary,65+,Near-Prime,Organic Search
+NC203574,SK,Saskatoon,35-44,Prime,Paid Social
+NC203575,AB,Red Deer,65+,Near-Prime,Organic Search
+NC203576,ON,London,65+,Near-Prime,Direct
+NC203577,ON,Hamilton,25-34,Subprime,Referral
+NC203578,MB,Winnipeg,45-54,Prime,Paid Social
+NC203579,AB,Edmonton,35-44,Subprime,Referral
+NC203580,BC,Vancouver,25-34,Subprime,Organic Search
+NC203581,ON,Hamilton,35-44,Prime,Direct
+NC203582,ON,Hamilton,18-24,Prime,Paid Search
+NC203583,SK,Regina,18-24,Near-Prime,Direct
+NC203584,MB,Winnipeg,55-64,Prime,Email/CRM
+NC203585,ON,Kitchener,18-24,Prime,Email/CRM
+NC203586,ON,Toronto,65+,Prime,Paid Search
+NC203587,ON,Kitchener,25-34,Prime,Paid Search
+NC203588,QC,Montreal,18-24,Prime,Direct
+NC203589,NB,Saint John,55-64,Prime,Organic Search
+NC203590,MB,Winnipeg,65+,Prime,Direct
+NC203591,ON,Hamilton,45-54,Near-Prime,Referral
+NC203592,BC,Surrey,25-34,Prime,Email/CRM
+NC203593,NS,Halifax,35-44,Near-Prime,Direct
+NC203594,QC,Montreal,45-54,Subprime,Email/CRM
+NC203595,BC,Kelowna,45-54,Subprime,Email/CRM
+NC203596,AB,Calgary,35-44,Near-Prime,Direct
+NC203597,ON,Kitchener,65+,Near-Prime,Paid Search
+NC203598,BC,Surrey,18-24,Subprime,Direct
+NC203599,ON,Mississauga,25-34,Prime,Organic Search
+NC203600,ON,Ottawa,25-34,Prime,Direct
+NC203601,AB,Calgary,18-24,Near-Prime,Direct
+NC203602,ON,Ottawa,55-64,Prime,Paid Search
+NC203603,QC,Quebec City,45-54,Near-Prime,Direct
+NC203604,AB,Red Deer,35-44,Near-Prime,Paid Search
+NC203605,QC,Laval,35-44,Prime,Referral
+NC203606,ON,Hamilton,25-34,Near-Prime,Referral
+NC203607,ON,Ottawa,35-44,Prime,Organic Search
+NC203608,SK,Regina,65+,Prime,Organic Search
+NC203609,AB,Edmonton,45-54,Near-Prime,Email/CRM
+NC203610,ON,Ottawa,35-44,Prime,Direct
+NC203611,ON,Ottawa,55-64,Prime,Organic Search
+NC203612,BC,Victoria,65+,Prime,Referral
+NC203613,QC,Quebec City,45-54,Prime,Organic Search
+NC203614,ON,Windsor,35-44,Near-Prime,Direct
+NC203615,AB,Edmonton,65+,Prime,Email/CRM
+NC203616,AB,Red Deer,35-44,Prime,Organic Search
+NC203617,ON,Windsor,25-34,Subprime,Referral
+NC203618,ON,Windsor,25-34,Prime,Direct
+NC203619,ON,London,25-34,Prime,Paid Search
+NC203620,ON,Kitchener,55-64,Near-Prime,Direct
+NC203621,ON,Kitchener,65+,Prime,Email/CRM
+NC203622,ON,Kitchener,35-44,Prime,Organic Search
+NC203623,ON,Ottawa,55-64,Prime,Paid Search
+NC203624,QC,Quebec City,45-54,Prime,Paid Social
+NC203625,ON,Ottawa,35-44,Prime,Referral
+NC203626,ON,Ottawa,45-54,Subprime,Organic Search
+NC203627,ON,Ottawa,55-64,Prime,Paid Search
+NC203628,ON,London,25-34,Prime,Referral
+NC203629,ON,Ottawa,35-44,Prime,Paid Search
+NC203630,QC,Montreal,55-64,Prime,Email/CRM
+NC203631,ON,Toronto,45-54,Prime,Email/CRM
+NC203632,ON,London,55-64,Prime,Direct
+NC203633,ON,Ottawa,35-44,Subprime,Organic Search
+NC203634,AB,Red Deer,55-64,Prime,Paid Social
+NC203635,ON,London,25-34,Near-Prime,Direct
+NC203636,QC,Montreal,55-64,Near-Prime,Email/CRM
+NC203637,BC,Surrey,45-54,Near-Prime,Paid Search
+NC203638,ON,Mississauga,25-34,Near-Prime,Direct
+NC203639,ON,London,35-44,Prime,Paid Social
+NC203640,SK,Regina,25-34,Prime,Direct
+NC203641,ON,Toronto,25-34,Prime,Email/CRM
+NC203642,ON,Windsor,65+,Prime,Referral
+NC203643,ON,Kitchener,45-54,Prime,Direct
+NC203644,QC,Montreal,35-44,Near-Prime,Paid Search
+NC203645,ON,Kitchener,25-34,Prime,Direct
+NC203646,SK,Saskatoon,25-34,Prime,Organic Search
+NC203647,ON,Toronto,35-44,Near-Prime,Direct
+NC203648,ON,Kitchener,18-24,Near-Prime,Paid Search
+NC203649,ON,Ottawa,35-44,Prime,Referral
+NC203650,BC,Kelowna,25-34,Near-Prime,Direct
+NC203651,BC,Vancouver,65+,Prime,Paid Search
+NC203652,AB,Edmonton,65+,Near-Prime,Organic Search
+NC203653,ON,Ottawa,25-34,Prime,Paid Search
+NC203654,ON,London,35-44,Near-Prime,Referral
+NC203655,AB,Red Deer,35-44,Prime,Referral
+NC203656,AB,Calgary,18-24,Subprime,Direct
+NC203657,ON,Ottawa,65+,Near-Prime,Direct
+NC203658,SK,Regina,25-34,Near-Prime,Referral
+NC203659,QC,Quebec City,25-34,Near-Prime,Direct
+NC203660,ON,Windsor,25-34,Prime,Referral
+NC203661,ON,Toronto,45-54,Prime,Organic Search
+NC203662,NS,Halifax,35-44,Prime,Direct
+NC203663,ON,Ottawa,35-44,Prime,Organic Search
+NC203664,ON,Mississauga,35-44,Prime,Referral
+NC203665,AB,Red Deer,65+,Prime,Referral
+NC203666,ON,London,55-64,Prime,Organic Search
+NC203667,ON,Kitchener,45-54,Near-Prime,Referral
+NC203668,ON,Mississauga,25-34,Prime,Organic Search
+NC203669,ON,Windsor,55-64,Prime,Organic Search
+NC203670,ON,Ottawa,45-54,Subprime,Marketplace Syndication
+NC203671,NB,Saint John,35-44,Prime,Organic Search
+NC203672,ON,London,55-64,Subprime,Organic Search
+NC203673,QC,Montreal,65+,Prime,Email/CRM
+NC203674,ON,Mississauga,18-24,Subprime,Paid Search
+NC203675,AB,Edmonton,45-54,Prime,Direct
+NC203676,SK,Regina,18-24,Near-Prime,Marketplace Syndication
+NC203677,ON,Hamilton,25-34,Subprime,Organic Search
+NC203678,ON,London,45-54,Subprime,Referral
+NC203679,ON,Toronto,25-34,Prime,Referral
+NC203680,BC,Victoria,45-54,Prime,Organic Search
+NC203681,BC,Surrey,35-44,Prime,Email/CRM
+NC203682,ON,Kitchener,65+,Prime,Paid Search
+NC203683,ON,Toronto,65+,Near-Prime,Referral
+NC203684,BC,Vancouver,25-34,Prime,Direct
+NC203685,ON,Hamilton,45-54,Near-Prime,Direct
+NC203686,ON,Kitchener,35-44,Subprime,Email/CRM
+NC203687,NB,Saint John,45-54,Prime,Paid Search
+NC203688,AB,Red Deer,55-64,Prime,Direct
+NC203689,BC,Vancouver,35-44,Near-Prime,Direct
+NC203690,ON,Windsor,25-34,Subprime,Email/CRM
+NC203691,QC,Quebec City,35-44,Near-Prime,Organic Search
+NC203692,ON,London,18-24,Subprime,Organic Search
+NC203693,BC,Surrey,25-34,Near-Prime,Paid Search
+NC203694,BC,Surrey,25-34,Near-Prime,Paid Search
+NC203695,NL,St. John's,45-54,Prime,Referral
+NC203696,ON,Windsor,18-24,Subprime,Direct
+NC203697,QC,Laval,45-54,Prime,Organic Search
+NC203698,QC,Montreal,18-24,Prime,Organic Search
+NC203699,QC,Montreal,45-54,Near-Prime,Organic Search
+NC203700,ON,Toronto,25-34,Prime,Email/CRM
+NC203701,AB,Red Deer,65+,Near-Prime,Email/CRM
+NC203702,ON,Hamilton,45-54,Subprime,Direct
+NC203703,ON,Kitchener,25-34,Prime,Paid Search
+NC203704,ON,London,35-44,Prime,Organic Search
+NC203705,ON,Hamilton,25-34,Prime,Email/CRM
+NC203706,ON,Windsor,45-54,Subprime,Organic Search
+NC203707,AB,Edmonton,18-24,Near-Prime,Email/CRM
+NC203708,BC,Surrey,35-44,Near-Prime,Organic Search
+NC203709,ON,London,35-44,Near-Prime,Direct
+NC203710,ON,Ottawa,25-34,Subprime,Direct
+NC203711,ON,London,35-44,Prime,Email/CRM
+NC203712,ON,Kitchener,65+,Prime,Paid Social
+NC203713,ON,Ottawa,35-44,Prime,Direct
+NC203714,AB,Edmonton,35-44,Prime,Email/CRM
+NC203715,ON,Kitchener,45-54,Prime,Paid Search
+NC203716,AB,Red Deer,25-34,Near-Prime,Direct
+NC203717,QC,Montreal,25-34,Near-Prime,Referral
+NC203718,BC,Surrey,65+,Near-Prime,Organic Search
+NC203719,ON,Mississauga,45-54,Subprime,Email/CRM
+NC203720,BC,Victoria,25-34,Near-Prime,Email/CRM
+NC203721,ON,Hamilton,25-34,Prime,Paid Search
+NC203722,BC,Kelowna,25-34,Subprime,Paid Search
+NC203723,ON,Ottawa,45-54,Near-Prime,Referral
+NC203724,ON,Toronto,55-64,Prime,Paid Social
+NC203725,NL,St. John's,18-24,Subprime,Direct
+NC203726,ON,Mississauga,55-64,Prime,Direct
+NC203727,BC,Victoria,25-34,Prime,Organic Search
+NC203728,ON,Kitchener,35-44,Near-Prime,Email/CRM
+NC203729,AB,Red Deer,18-24,Subprime,Paid Search
+NC203730,SK,Regina,45-54,Prime,Direct
+NC203731,BC,Kelowna,65+,Prime,Paid Search
+NC203732,BC,Surrey,18-24,Subprime,Paid Social
+NC203733,ON,Toronto,55-64,Prime,Organic Search
+NC203734,ON,Toronto,25-34,Prime,Referral
+NC203735,AB,Calgary,25-34,Subprime,Marketplace Syndication
+NC203736,ON,Toronto,25-34,Prime,Paid Search
+NC203737,ON,Ottawa,35-44,Subprime,Paid Search
+NC203738,ON,London,45-54,Subprime,Referral
+NC203739,QC,Laval,18-24,Near-Prime,Organic Search
+NC203740,ON,Ottawa,25-34,Prime,Direct
+NC203741,ON,Ottawa,25-34,Prime,Email/CRM
+NC203742,NS,Halifax,25-34,Prime,Organic Search
+NC203743,SK,Regina,25-34,Prime,Direct
+NC203744,ON,Toronto,35-44,Near-Prime,Organic Search
+NC203745,MB,Winnipeg,35-44,Near-Prime,Paid Social
+NC203746,BC,Surrey,25-34,Prime,Email/CRM
+NC203747,BC,Surrey,45-54,Prime,Paid Search
+NC203748,ON,Mississauga,45-54,Prime,Direct
+NC203749,ON,Kitchener,65+,Prime,Paid Social
+NC203750,ON,Mississauga,45-54,Prime,Direct
+NC203751,ON,Windsor,25-34,Prime,Organic Search
+NC203752,AB,Red Deer,35-44,Prime,Direct
+NC203753,NB,Moncton,55-64,Near-Prime,Paid Search
+NC203754,MB,Winnipeg,25-34,Prime,Paid Search
+NC203755,ON,Windsor,55-64,Prime,Paid Search
+NC203756,BC,Victoria,18-24,Near-Prime,Organic Search
+NC203757,ON,London,35-44,Subprime,Referral
+NC203758,AB,Calgary,35-44,Near-Prime,Referral
+NC203759,BC,Surrey,65+,Prime,Email/CRM
+NC203760,ON,Toronto,25-34,Subprime,Organic Search
+NC203761,ON,Toronto,35-44,Subprime,Marketplace Syndication
+NC203762,ON,Windsor,25-34,Near-Prime,Email/CRM
+NC203763,BC,Victoria,35-44,Near-Prime,Organic Search
+NC203764,ON,Hamilton,55-64,Prime,Direct
+NC203765,AB,Red Deer,35-44,Prime,Organic Search
+NC203766,ON,Ottawa,35-44,Prime,Paid Search
+NC203767,ON,Toronto,65+,Near-Prime,Email/CRM
+NC203768,BC,Victoria,25-34,Prime,Direct
+NC203769,ON,Kitchener,25-34,Subprime,Marketplace Syndication
+NC203770,BC,Victoria,65+,Prime,Marketplace Syndication
+NC203771,ON,Hamilton,25-34,Prime,Marketplace Syndication
+NC203772,AB,Edmonton,35-44,Prime,Email/CRM
+NC203773,ON,Mississauga,55-64,Prime,Paid Search
+NC203774,ON,Ottawa,25-34,Near-Prime,Direct
+NC203775,AB,Edmonton,35-44,Subprime,Referral
+NC203776,ON,Ottawa,18-24,Near-Prime,Organic Search
+NC203777,ON,Kitchener,65+,Prime,Direct
+NC203778,MB,Winnipeg,55-64,Prime,Organic Search
+NC203779,AB,Calgary,35-44,Prime,Referral
+NC203780,ON,Toronto,35-44,Prime,Direct
+NC203781,ON,London,65+,Near-Prime,Email/CRM
+NC203782,ON,Mississauga,45-54,Prime,Organic Search
+NC203783,ON,Ottawa,55-64,Near-Prime,Email/CRM
+NC203784,AB,Calgary,25-34,Prime,Paid Search
+NC203785,BC,Surrey,25-34,Near-Prime,Email/CRM
+NC203786,ON,Mississauga,25-34,Near-Prime,Referral
+NC203787,BC,Victoria,35-44,Subprime,Paid Search
+NC203788,ON,Mississauga,25-34,Prime,Direct
+NC203789,NS,Halifax,35-44,Prime,Referral
+NC203790,ON,Windsor,35-44,Prime,Direct
+NC203791,ON,Windsor,35-44,Near-Prime,Organic Search
+NC203792,QC,Quebec City,25-34,Prime,Referral
+NC203793,NB,Moncton,25-34,Prime,Organic Search
+NC203794,NS,Halifax,45-54,Near-Prime,Direct
+NC203795,ON,London,45-54,Prime,Organic Search
+NC203796,MB,Winnipeg,35-44,Subprime,Email/CRM
+NC203797,ON,London,45-54,Subprime,Direct
+NC203798,ON,Hamilton,25-34,Prime,Organic Search
+NC203799,BC,Surrey,35-44,Prime,Organic Search
+NC203800,ON,Windsor,35-44,Prime,Organic Search
+NC203801,ON,Ottawa,45-54,Prime,Organic Search
+NC203802,BC,Vancouver,35-44,Prime,Organic Search
+NC203803,BC,Surrey,18-24,Prime,Email/CRM
+NC203804,ON,Mississauga,35-44,Prime,Direct
+NC203805,BC,Surrey,25-34,Prime,Referral
+NC203806,ON,Hamilton,45-54,Near-Prime,Organic Search
+NC203807,ON,Ottawa,25-34,Subprime,Paid Search
+NC203808,ON,Toronto,18-24,Near-Prime,Email/CRM
+NC203809,ON,Toronto,25-34,Prime,Paid Search
+NC203810,AB,Edmonton,25-34,Prime,Paid Search
+NC203811,ON,Toronto,45-54,Prime,Organic Search
+NC203812,NS,Halifax,55-64,Prime,Paid Search
+NC203813,ON,Kitchener,25-34,Prime,Paid Search
+NC203814,SK,Saskatoon,18-24,Near-Prime,Referral
+NC203815,AB,Calgary,25-34,Near-Prime,Organic Search
+NC203816,MB,Winnipeg,35-44,Prime,Organic Search
+NC203817,ON,Mississauga,35-44,Near-Prime,Paid Social
+NC203818,ON,Ottawa,35-44,Prime,Direct
+NC203819,AB,Red Deer,45-54,Prime,Organic Search
+NC203820,ON,Hamilton,25-34,Prime,Organic Search
+NC203821,QC,Laval,18-24,Subprime,Organic Search
+NC203822,AB,Calgary,45-54,Prime,Email/CRM
+NC203823,ON,Toronto,35-44,Prime,Organic Search
+NC203824,NS,Halifax,25-34,Near-Prime,Paid Search
+NC203825,AB,Edmonton,35-44,Prime,Organic Search
+NC203826,QC,Quebec City,35-44,Near-Prime,Referral
+NC203827,ON,Kitchener,45-54,Prime,Direct
+NC203828,BC,Vancouver,25-34,Prime,Direct
+NC203829,MB,Winnipeg,45-54,Near-Prime,Organic Search
+NC203830,QC,Quebec City,25-34,Subprime,Email/CRM
+NC203831,AB,Edmonton,65+,Prime,Direct
+NC203832,AB,Red Deer,55-64,Prime,Email/CRM
+NC203833,ON,Ottawa,25-34,Subprime,Paid Search
+NC203834,ON,Kitchener,35-44,Prime,Email/CRM
+NC203835,BC,Victoria,25-34,Near-Prime,Paid Search
+NC203836,ON,London,65+,Prime,Referral
+NC203837,MB,Winnipeg,45-54,Prime,Organic Search
+NC203838,MB,Winnipeg,35-44,Prime,Email/CRM
+NC203839,ON,London,35-44,Prime,Paid Search
+NC203840,ON,Kitchener,35-44,Prime,Direct
+NC203841,AB,Red Deer,55-64,Prime,Direct
+NC203842,MB,Winnipeg,35-44,Subprime,Paid Search
+NC203843,NB,Moncton,65+,Prime,Direct
+NC203844,ON,Toronto,65+,Subprime,Email/CRM
+NC203845,QC,Laval,35-44,Subprime,Paid Search
+NC203846,NS,Halifax,45-54,Prime,Organic Search
+NC203847,AB,Calgary,35-44,Near-Prime,Direct
+NC203848,ON,Mississauga,65+,Prime,Paid Search
+NC203849,ON,London,25-34,Prime,Referral
+NC203850,NB,Moncton,45-54,Subprime,Direct
+NC203851,NB,Saint John,35-44,Near-Prime,Direct
+NC203852,BC,Kelowna,25-34,Prime,Email/CRM
+NC203853,MB,Winnipeg,45-54,Near-Prime,Paid Social
+NC203854,BC,Kelowna,35-44,Near-Prime,Email/CRM
+NC203855,BC,Surrey,35-44,Prime,Paid Search
+NC203856,SK,Regina,35-44,Prime,Direct
+NC203857,BC,Vancouver,25-34,Prime,Paid Search
+NC203858,ON,Kitchener,45-54,Subprime,Referral
+NC203859,ON,London,45-54,Prime,Paid Search
+NC203860,AB,Calgary,25-34,Prime,Paid Social
+NC203861,QC,Laval,65+,Near-Prime,Direct
+NC203862,ON,Toronto,25-34,Near-Prime,Paid Search
+NC203863,AB,Red Deer,55-64,Prime,Referral
+NC203864,ON,Kitchener,55-64,Subprime,Paid Social
+NC203865,ON,Toronto,45-54,Subprime,Direct
+NC203866,QC,Montreal,45-54,Prime,Organic Search
+NC203867,ON,Ottawa,25-34,Prime,Direct
+NC203868,AB,Calgary,25-34,Subprime,Direct
+NC203869,ON,Kitchener,45-54,Prime,Direct
+NC203870,ON,Mississauga,55-64,Prime,Direct
+NC203871,NS,Halifax,25-34,Prime,Referral
+NC203872,ON,London,35-44,Prime,Direct
+NC203873,ON,Mississauga,35-44,Prime,Referral
+NC203874,ON,Kitchener,45-54,Near-Prime,Organic Search
+NC203875,ON,Toronto,45-54,Prime,Organic Search
+NC203876,AB,Calgary,35-44,Subprime,Referral
+NC203877,PE,Charlottetown,45-54,Subprime,Paid Search
+NC203878,AB,Edmonton,45-54,Subprime,Email/CRM
+NC203879,MB,Winnipeg,35-44,Prime,Paid Search
+NC203880,ON,London,45-54,Subprime,Referral
+NC203881,ON,Hamilton,25-34,Subprime,Organic Search
+NC203882,ON,Windsor,55-64,Subprime,Direct
+NC203883,MB,Winnipeg,55-64,Prime,Paid Search
+NC203884,BC,Vancouver,25-34,Prime,Organic Search
+NC203885,ON,Windsor,55-64,Prime,Organic Search
+NC203886,BC,Victoria,35-44,Near-Prime,Paid Search
+NC203887,ON,Kitchener,18-24,Near-Prime,Paid Search
+NC203888,ON,Ottawa,18-24,Near-Prime,Email/CRM
+NC203889,MB,Winnipeg,45-54,Near-Prime,Paid Search
+NC203890,MB,Winnipeg,55-64,Prime,Email/CRM
+NC203891,SK,Saskatoon,45-54,Prime,Paid Search
+NC203892,PE,Charlottetown,55-64,Prime,Direct
+NC203893,ON,Mississauga,45-54,Prime,Direct
+NC203894,ON,Toronto,25-34,Prime,Organic Search
+NC203895,AB,Calgary,55-64,Near-Prime,Organic Search
+NC203896,ON,London,25-34,Subprime,Marketplace Syndication
+NC203897,ON,Ottawa,55-64,Prime,Direct
+NC203898,QC,Laval,35-44,Subprime,Paid Search
+NC203899,NL,St. John's,35-44,Near-Prime,Organic Search
+NC203900,ON,Mississauga,35-44,Prime,Referral
+NC203901,ON,Hamilton,25-34,Prime,Referral
+NC203902,SK,Regina,45-54,Prime,Paid Search
+NC203903,ON,Mississauga,45-54,Prime,Organic Search
+NC203904,NS,Halifax,55-64,Subprime,Email/CRM
+NC203905,MB,Winnipeg,55-64,Prime,Organic Search
+NC203906,ON,Windsor,18-24,Prime,Direct
+NC203907,ON,Hamilton,55-64,Prime,Email/CRM
+NC203908,ON,Windsor,25-34,Prime,Direct
+NC203909,BC,Kelowna,25-34,Prime,Organic Search
+NC203910,ON,Hamilton,35-44,Prime,Direct
+NC203911,NS,Halifax,45-54,Prime,Direct
+NC203912,ON,Windsor,55-64,Near-Prime,Marketplace Syndication
+NC203913,MB,Winnipeg,25-34,Near-Prime,Direct
+NC203914,ON,Kitchener,55-64,Prime,Referral
+NC203915,QC,Laval,25-34,Prime,Email/CRM
+NC203916,SK,Saskatoon,25-34,Prime,Direct
+NC203917,ON,Kitchener,18-24,Near-Prime,Direct
+NC203918,QC,Quebec City,55-64,Subprime,Paid Search
+NC203919,AB,Edmonton,25-34,Prime,Paid Search
+NC203920,ON,Ottawa,55-64,Near-Prime,Direct
+NC203921,AB,Edmonton,25-34,Near-Prime,Organic Search
+NC203922,BC,Vancouver,35-44,Near-Prime,Referral
+NC203923,BC,Kelowna,65+,Prime,Organic Search
+NC203924,ON,Ottawa,35-44,Prime,Email/CRM
+NC203925,PE,Charlottetown,25-34,Prime,Direct
+NC203926,ON,Kitchener,35-44,Prime,Paid Social
+NC203927,ON,Ottawa,55-64,Near-Prime,Direct
+NC203928,ON,Windsor,35-44,Prime,Referral
+NC203929,ON,Windsor,35-44,Prime,Organic Search
+NC203930,MB,Winnipeg,35-44,Near-Prime,Referral
+NC203931,AB,Edmonton,25-34,Prime,Organic Search
+NC203932,ON,Hamilton,18-24,Prime,Organic Search
+NC203933,ON,Hamilton,55-64,Prime,Direct
+NC203934,AB,Calgary,45-54,Prime,Organic Search
+NC203935,AB,Edmonton,25-34,Prime,Organic Search
+NC203936,MB,Winnipeg,25-34,Near-Prime,Paid Search
+NC203937,QC,Laval,18-24,Subprime,Referral
+NC203938,ON,Toronto,35-44,Near-Prime,Email/CRM
+NC203939,ON,Toronto,45-54,Prime,Direct
+NC203940,NL,St. John's,35-44,Subprime,Email/CRM
+NC203941,AB,Red Deer,18-24,Prime,Referral
+NC203942,NS,Halifax,25-34,Near-Prime,Organic Search
+NC203943,ON,Toronto,45-54,Prime,Organic Search
+NC203944,ON,Mississauga,65+,Subprime,Marketplace Syndication
+NC203945,ON,Toronto,65+,Prime,Referral
+NC203946,ON,Toronto,25-34,Near-Prime,Organic Search
+NC203947,BC,Surrey,55-64,Prime,Direct
+NC203948,ON,Kitchener,55-64,Prime,Organic Search
+NC203949,ON,Toronto,25-34,Near-Prime,Organic Search
+NC203950,ON,Ottawa,55-64,Near-Prime,Referral
+NC203951,ON,Kitchener,45-54,Prime,Marketplace Syndication
+NC203952,ON,Ottawa,55-64,Prime,Direct
+NC203953,ON,Kitchener,25-34,Near-Prime,Referral
+NC203954,ON,Mississauga,45-54,Near-Prime,Direct
+NC203955,BC,Kelowna,65+,Prime,Paid Search
+NC203956,ON,Kitchener,65+,Prime,Referral
+NC203957,ON,Hamilton,25-34,Subprime,Organic Search
+NC203958,AB,Red Deer,25-34,Prime,Referral
+NC203959,ON,Kitchener,45-54,Near-Prime,Email/CRM
+NC203960,ON,Kitchener,45-54,Prime,Direct
+NC203961,ON,Kitchener,45-54,Near-Prime,Direct
+NC203962,BC,Surrey,45-54,Subprime,Email/CRM
+NC203963,ON,Hamilton,35-44,Prime,Direct
+NC203964,ON,Ottawa,25-34,Near-Prime,Referral
+NC203965,ON,Hamilton,45-54,Prime,Organic Search
+NC203966,AB,Red Deer,55-64,Prime,Organic Search
+NC203967,BC,Surrey,45-54,Prime,Paid Search
+NC203968,ON,Kitchener,25-34,Prime,Direct
+NC203969,ON,Hamilton,45-54,Near-Prime,Paid Social
+NC203970,MB,Winnipeg,45-54,Near-Prime,Organic Search
+NC203971,NS,Halifax,65+,Subprime,Paid Search
+NC203972,ON,Ottawa,55-64,Prime,Direct
+NC203973,BC,Victoria,18-24,Near-Prime,Email/CRM
+NC203974,ON,Mississauga,35-44,Near-Prime,Organic Search
+NC203975,ON,Windsor,55-64,Prime,Direct
+NC203976,QC,Quebec City,65+,Prime,Organic Search
+NC203977,ON,Hamilton,65+,Prime,Paid Social
+NC203978,ON,Windsor,45-54,Subprime,Direct
+NC203979,ON,Windsor,25-34,Prime,Paid Search
+NC203980,ON,Mississauga,35-44,Prime,Organic Search
+NC203981,SK,Regina,45-54,Near-Prime,Organic Search
+NC203982,MB,Winnipeg,35-44,Prime,Email/CRM
+NC203983,QC,Montreal,35-44,Prime,Referral
+NC203984,PE,Charlottetown,25-34,Near-Prime,Organic Search
+NC203985,ON,Windsor,35-44,Subprime,Referral
+NC203986,ON,Toronto,25-34,Near-Prime,Organic Search
+NC203987,ON,Toronto,65+,Prime,Direct
+NC203988,ON,Mississauga,18-24,Prime,Email/CRM
+NC203989,ON,Ottawa,18-24,Prime,Direct
+NC203990,ON,Mississauga,35-44,Subprime,Organic Search
+NC203991,ON,Toronto,45-54,Subprime,Organic Search
+NC203992,MB,Winnipeg,25-34,Near-Prime,Organic Search
+NC203993,BC,Victoria,35-44,Near-Prime,Email/CRM
+NC203994,ON,Kitchener,25-34,Prime,Direct
+NC203995,ON,Kitchener,25-34,Subprime,Paid Search
+NC203996,ON,Toronto,35-44,Prime,Referral
+NC203997,MB,Winnipeg,35-44,Near-Prime,Paid Social
+NC203998,ON,Ottawa,45-54,Prime,Marketplace Syndication
+NC203999,SK,Regina,45-54,Prime,Referral
+NC204000,QC,Montreal,65+,Prime,Direct
+NC204001,ON,London,35-44,Prime,Paid Search
+NC204002,AB,Red Deer,25-34,Prime,Paid Search
+NC204003,ON,Hamilton,35-44,Prime,Direct
+NC204004,SK,Saskatoon,35-44,Near-Prime,Direct
+NC204005,QC,Montreal,55-64,Near-Prime,Paid Search
+NC204006,BC,Vancouver,25-34,Near-Prime,Email/CRM
+NC204007,ON,London,55-64,Prime,Organic Search
+NC204008,NS,Halifax,18-24,Subprime,Organic Search
+NC204009,ON,Windsor,55-64,Prime,Organic Search
+NC204010,BC,Surrey,25-34,Prime,Organic Search
+NC204011,ON,Ottawa,25-34,Prime,Organic Search
+NC204012,BC,Surrey,55-64,Prime,Direct
+NC204013,SK,Regina,35-44,Prime,Direct
+NC204014,ON,Hamilton,25-34,Subprime,Email/CRM
+NC204015,ON,Mississauga,55-64,Prime,Paid Search
+NC204016,ON,London,25-34,Near-Prime,Paid Social
+NC204017,NS,Halifax,55-64,Prime,Email/CRM
+NC204018,AB,Red Deer,35-44,Prime,Marketplace Syndication
+NC204019,AB,Edmonton,35-44,Prime,Organic Search
+NC204020,AB,Red Deer,35-44,Prime,Referral
+NC204021,PE,Charlottetown,55-64,Subprime,Paid Search
+NC204022,AB,Edmonton,45-54,Near-Prime,Organic Search
+NC204023,ON,Mississauga,45-54,Prime,Organic Search
+NC204024,BC,Surrey,55-64,Prime,Organic Search
+NC204025,BC,Vancouver,35-44,Subprime,Organic Search
+NC204026,ON,Windsor,55-64,Near-Prime,Organic Search
+NC204027,ON,Kitchener,35-44,Subprime,Organic Search
