@@ -1,0 +1,74 @@
+{
+  "model": "Gradient boosting",
+  "pvm_cap": [
+    -15,
+    25
+  ],
+  "underwater_cars": 59,
+  "n_train": 3221,
+  "n_test": 806,
+  "mae_baseline_days": 28.6,
+  "mae_linear_days": 18.7,
+  "mae_gbm_days": 18.6,
+  "median_days": 37.0,
+  "importance": [
+    [
+      "price_vs_market_pct",
+      0.8024
+    ],
+    [
+      "body_type",
+      0.0481
+    ],
+    [
+      "vehicle_age_at_acquisition",
+      0.0308
+    ],
+    [
+      "list_month",
+      0.0306
+    ],
+    [
+      "condition_grade",
+      0.0081
+    ],
+    [
+      "recon_hub",
+      0.005
+    ],
+    [
+      "fuel_type",
+      -0.0021
+    ],
+    [
+      "odometer_km_at_acquisition",
+      -0.003
+    ]
+  ],
+  "options": {
+    "body_type": [
+      "Hatchback",
+      "Minivan",
+      "SUV",
+      "Sedan",
+      "Truck",
+      "Wagon"
+    ],
+    "fuel_type": [
+      "Electric",
+      "Gas",
+      "Hybrid"
+    ],
+    "condition_grade": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "recon_hub": [
+      "Calgary Hub",
+      "GTA Hub",
+      "Montreal Hub"
+    ]
+  }
+}
