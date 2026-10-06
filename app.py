@@ -5,10 +5,11 @@ Run:  streamlit run app.py
 """
 import pandas as pd
 import streamlit as st
-from data import load_units
+from data import ensure_database, load_units
 
 st.set_page_config(page_title="Northdrive Auto | Vehicle Analytics", page_icon="🚗", layout="wide")
 
+ensure_database()   # builds the database from the CSVs on a fresh deployment
 units = load_units()
 
 # ---------------- Shared filters (apply to every page) ----------------
