@@ -49,11 +49,14 @@ pg = st.navigation({
         st.Page("views/inventory.py", title="Inventory aging", icon="⏳"),
         st.Page("views/delivery.py", title="Delivery economics", icon="🚚"),
     ],
-    "Customers": [
+       "Customers": [
         st.Page("views/funnel.py", title="Shopper funnel", icon="🧭"),
+        st.Page("views/returns.py", title="Returns", icon="↩️"),
     ],
-    "Predict and recommend": [
+            "Predict and recommend": [
         st.Page("views/predict.py", title="Predict days to sell", icon="🔮"),
+        st.Page("views/advisor.py", title="Pricing advisor", icon="💡"),
+        st.Page("views/ask.py", title="Ask the Data", icon="💬"),
     ],
 })
 pg.run()
